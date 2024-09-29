@@ -6,7 +6,7 @@ subtitle: Associate Professor at Institute Polytechnique de Paris.
 
 profile:
   align: right
-  image: Samuel-Huron-Emmanuelle-Marchadour.jpg
+  image: Samuel-Huron-Emmanuelle-Marchadour.png
   image_circular: true # crops the image to make it circular
   more_info: #
 
