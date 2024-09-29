@@ -11,8 +11,8 @@ profile:
   more_info: #
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 I am a designer and computer scientist; my research focuses on new media, Interaction Design, Human-Computer Interaction, Physical representation of data, and social computing. 
 In particular, I am investigating questions such as how humans create representations of data, how we can study the negative impact of digital technology before it occurs, and how we can make digital technology more sustainable.
