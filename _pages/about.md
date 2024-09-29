@@ -14,8 +14,8 @@ profile:
     <p>Palaiseau, France 91120</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 My research and teaching focus on Interaction Design, Human computer Interaction, Physical representation of data. 
 In particular my research interest include how human create physical representation of data, how can we study negative impact of digital technology before they occurs, and how we can make digital technology more sustainable.
