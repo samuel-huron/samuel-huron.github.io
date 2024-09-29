@@ -1,5 +1,4 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Samuel Lacroix - 
+I co-supervised Francoise Detienne Samuel Lacroix during a CIFRE thesis in collaboration with E.D.F., where he was followed by Guillaume Foissac. Samuel's thesis topic was "Domesticating the energy information: Comparing the feedback device design choices and user practices to develop a new design approach." His thesis led to the creation of the biggest design space for eco-feedback devices. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Samuel succesfully defended his Ph.D. the 28/05/2020 at the Institut Polytechnique de Paris and received the first Ph.D. of the institut with the mention design. His Ph.D. thesis could be found here: [Domestiquer l’information énergétique : Confronter les choix de conception de dispositifs de feedback et les pratiques des usagers pour proposer une démarche de design](https://theses.fr/2020IPPAT014).
