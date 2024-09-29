@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor at Institute Polytechnique de Paris.
+subtitle: Associate Professor in Interaction Design at the Social Science Departement, Institute Polytechnique de Paris.
 
 profile:
   align: right
@@ -14,10 +14,13 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-My research and teaching focus on Interaction Design, Human computer Interaction, Physical representation of data. 
-In particular my research interest include how human create physical representation of data, how can we study negative impact of digital technology before they occurs, and how we can make digital technology more sustainable.
+My research focus on Interaction Design, Human Computer Interaction, Physical representation of data. 
+In particular I am investigating question such as how human create representation of data, how can we study negative impact of digital technology before they occurs, and how we can make digital technology more sustainable.
+Lately I co-edited the book _"[Making with Data: Physical Design and Craft in a Data-Driven World](https://makingwithdata.org/)"_ with Till Nagel, Lora Oehlberg, Wesley Willett. 
 
-Dr. Samuel Huron is an information designer and associate professor in Design of information technologies inside the Social and Economical Science department of Télécom Paris at the Institut Polytechnique de Paris, and part the CNRS Institut Interdisciplinaire de 'Innovation. His research address how humans create visual and physical representations of abstract information to think, collaborate, learn, analyse, explore, and design new data representations, systems and information artefacts. He lead the design studio at Telecom Paris and he his part of the co-design Lab, Interact team and the HCI team. He is an alumni of Innovis Lab, ENSAD Lab, INRIA, Université Panthéon Sorbonne. He worked as the lead design of the research institute of the Pompidou Center. His approach is grounded in fifteen years of experience in both interactive media industries where he worked with a broad range of civic, cultural and corporate clients. Before doing research, he was engage in new media art where he collaborate with video art label on art installation, video mixing and live performances. He presented and berformed some of these work in a thirteen different show or exhibition in various laces including art museums, parties, and festivals. For his Ph.D. on Constructive Visualization he was awarded "Best doctoral dissertation award" from IEEE VGTC Pioneer Group.
+I am an alumni of I Lab of the University of Calgary and the Innovis Lab, the ENSAD Lab, INRIA, Université Paris Sud, Université Panthéon Sorbonne, Université Paris 8, and the CRI. I worked as the lead design of the research institute of the Pompidou Center (IRI). And in multiple digital communication agency between 1999 and 2010. I designed, developped, and supervise hundreds of interactive media projects where I worked with a broad range of civic, cultural and corporate clients. Before doing research, I was engage as a new media artist where I collaborated with video art label on art installation, video mixing and live performances. I presented and performed some of our art work in different show or exhibition including art museums, parties, and festivals.
+
+For my Ph.D. on Constructive Visualization I was awarded "Best doctoral dissertation award" from IEEE VGTC Pioneer Group.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
