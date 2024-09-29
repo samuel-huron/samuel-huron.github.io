@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.telecom-paris.fr/samuel-huron'>Associate Professor Telecom Paris | Institute Polytechnique de Paris</a>. Address. Contacts. Motto. Etc.
+subtitle: Associate Professor at <a href='https://www.telecom-paris.fr/samuel-huron'>Télécom Paris | Institute Polytechnique de Paris</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Samuel-Huron-Emmanuelle-Marchadour.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 3A313</p>
+    <p>19 place Marguerite Perey </p>
+    <p>Palaiseau, France 91120</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
