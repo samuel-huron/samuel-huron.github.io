@@ -6,7 +6,7 @@ subtitle: <a href='https://www.telecom-paris.fr/samuel-huron'>Associate Professo
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Samuel-Huron-Emmanuelle-Marchadour.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
