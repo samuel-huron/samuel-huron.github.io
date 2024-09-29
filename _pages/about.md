@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor at <a href='https://www.telecom-paris.fr/samuel-huron'>Télécom Paris | Institute Polytechnique de Paris</a>.
+subtitle: Associate Professor at Institute Polytechnique de Paris.
 
 profile:
   align: right
