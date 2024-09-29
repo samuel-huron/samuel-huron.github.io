@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 I am a designer and computer scientist; my research focuses on new media, Interaction Design, Human-Computer Interaction, Physical representation of data, and social computing. 
 In particular, I am investigating questions such as how humans create representations of data, how we can study the negative impact of digital technology before it occurs, and how we can make digital technology more sustainable.
-I recently co-edited the book "[Making with Data: Physical Design and Craft in a Data-Driven World]" (https://makingwithdata.org/) with Till Nagel, Lora Oehlberg, and Wesley Willett. 
+I recently co-edited the book "[Making with Data: Physical Design and Craft in a Data-Driven World](https://makingwithdata.org/)" with Till Nagel, Lora Oehlberg, and Wesley Willett. 
 
 On the research side, I am co-chair of the Axe "[Theory, practice, and politics of design and creative action](https://i3.cnrs.fr/axes-de-recherche/theorie-et-modeles-de-la-conception/)" of the i3 CNRS Lab with Pascla Lemasson and co-chair of the Design seminar for the PEPR ICCAR. On the teaching side, I am also co-heading the Master program Design Recherche with ENS, ENSCI, and Télécom and the Executive Education Mastère program on Innovation and entrepreneurship in collaboration with Zhejiang University, Polytechnique, ENSTA, and Télécom. 
 
