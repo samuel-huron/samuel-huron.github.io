@@ -8,10 +8,7 @@ profile:
   align: right
   image: Samuel-Huron-Emmanuelle-Marchadour.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Office 3A313</p>
-    <p>19 place Marguerite Perey </p>
-    <p>Palaiseau, France 91120</p>
+  more_info: #
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
