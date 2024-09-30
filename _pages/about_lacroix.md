@@ -1,4 +1,4 @@
-## Samuel Lacroix
+## Samuel Lacroix 2016-2020
 I co-supervised Francoise Detienne Samuel Lacroix during a CIFRE thesis in collaboration with E.D.F., where he was followed by Guillaume Foissac. Samuel's thesis topic was "*Domesticating the energy information: Comparing the feedback device design choices and user practices to develop a new design approach*". His thesis led to the creation of the broder design space for eco-feedback devices. 
 
 Samuel succesfully defended his Ph.D. the 28/05/2020 at the Institut Polytechnique de Paris and received the first Ph.D. of the institut with the mention design. His Ph.D. thesis could be found here: [Domestiquer l’information énergétique : Confronter les choix de conception de dispositifs de feedback et les pratiques des usagers pour proposer une démarche de design](https://theses.fr/2020IPPAT014).
