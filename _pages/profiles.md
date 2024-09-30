@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: stu-samuel-lacroix.jpg
-    content: about_einstein.md
+    content: about_lacroix.md
     image_circular: true # crops the image to make it circular
   - align: left
     image: stu_Tallulah-Frappier.jpg
