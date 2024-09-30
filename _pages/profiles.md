@@ -23,7 +23,7 @@ profiles:
     image_circular: true # crops the image to make it circular
   - align: left
     image: stu-Elise-Bonnail.jpeg
-    content: about_frappier.md
+    content: about_bonnail.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: stu-Madalina-Nicolae.png
