@@ -19,7 +19,7 @@ profiles:
     image_circular: true # crops the image to make it circular
   - align: right
     image: stu-Wen-Jie-Tseng.jpeg
-    content: about_frappier.md
+    content: about_tseng.md
     image_circular: true # crops the image to make it circular
   - align: left
     image: stu-Elise-Bonnail.jpeg
@@ -27,6 +27,6 @@ profiles:
     image_circular: true # crops the image to make it circular
   - align: right
     image: stu-Madalina-Nicolae.png
-    content: about_frappier.md
+    content: about_nicolae.md
     image_circular: true # crops the image to make it circular
 ---
