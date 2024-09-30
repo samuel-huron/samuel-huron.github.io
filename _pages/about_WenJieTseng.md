@@ -1,5 +1,5 @@
 ## Wen-Jie Tseng 2020 - now
-I am co-supervising Wen-Jie Tseng with [Jan Gugenheimer](https://gugenheimer.com/) and [Eric Lecolinet ](https://perso.telecom-paristech.fr/elc/).
+I am co-supervising [Wen-Jie Tseng](https://wenjietseng.com/) with [Jan Gugenheimer](https://gugenheimer.com/) and [Eric Lecolinet ](https://perso.telecom-paristech.fr/elc/).
 Wen-Jie started his Ph.D. in the [DIVA Group](https://diva.telecom-paristech.fr/) at Telecom Paris, France and transition to TU Darmstadt.
 The initial topic of the thesis was "*Augmented Humanity: Exploring Ethical, Social and Political Challenges of Mixed Reality Using Design Fiction and Speculative Design*" and it is focusing more and more to understanding people’s beaviour in a dual environement (Vitual reality + Physical reality).
 During his thesis Wen-Jie have published multiples interesting paper including : 
