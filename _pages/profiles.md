@@ -14,7 +14,19 @@ profiles:
     content: about_einstein.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: stu-
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: stu_Tallulah-Frappier.jpg
+    content: about_frappier.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: stu-Wen-Jie-Tseng.jpeg
+    content: about_frappier.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: stu-Elise-Bonnail.jpeg
+    content: about_frappier.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: stu-Madalina-Nicolae.png
+    content: about_frappier.md
+    image_circular: true # crops the image to make it circular
 ---
