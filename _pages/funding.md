@@ -4,7 +4,7 @@ permalink: /funding/
 title: Funding
 description: Thanks to our funders that support our research. 
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 We received fund from : 
