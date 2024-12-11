@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <event startTimeInterval="1.840644" start="September 3 2015 13:43:30 GMT-0600" endTimeInterval="29.4" end="September 3 2015 13:43:58 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 29 2015 15:24:14 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Loading data" image="images/1840644.jpg">Typing in data<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="30.380466" start="September 3 2015 13:43:59 GMT-0600" endTimeInterval="54.962477" end="September 3 2015 13:44:23 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 29 2015 15:24:14 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual Mapping creation" image="images/2734242.jpg">New Annotation…<category name="Visual Mapping creation"></category>
+    </event>
+    <event startTimeInterval="53.666677" start="September 3 2015 13:44:22 GMT-0600" endTimeInterval="85.654377" end="September 3 2015 13:44:54 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 29 2015 15:24:14 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping modification" image="images/4830001.jpg">New Annotation…<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="85.833344" start="September 3 2015 13:44:54 GMT-0600" endTimeInterval="211.333344" end="September 3 2015 13:47:00 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 29 2015 15:24:14 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/7725001.jpg">Changing the colour of bars.<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="212.633344" start="September 3 2015 13:47:01 GMT-0600" endTimeInterval="226.666677" end="September 3 2015 13:47:15 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 29 2015 15:24:14 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping modification" image="images/19137001.jpg">Changing x-axis title, y-axis title.<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="226.666677" start="September 3 2015 13:47:15 GMT-0600" endTimeInterval="355.100011" end="September 3 2015 13:49:24 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 29 2015 15:24:14 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Exploring the tool" image="images/20400001.jpg">New Annotation…<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="356.398655" start="September 3 2015 13:49:25 GMT-0600" endTimeInterval="443.271444" end="September 3 2015 13:50:52 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 29 2015 15:24:14 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Loading data" image="images/32075879.jpg">Adding data labels.<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="448.803955" start="September 3 2015 13:50:57 GMT-0600" endTimeInterval="453.333344" end="September 3 2015 13:51:02 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 29 2015 15:24:14 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping modification" image="images/40392356.jpg">New Annotation…<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="457.300011" start="September 3 2015 13:51:06 GMT-0600" endTimeInterval="466.300011" end="September 3 2015 13:51:15 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 29 2015 15:24:14 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Interuption" image="images/41157001.jpg">Tiffany asks them to resize.<category name="Interuption"></category>
+    </event>
+</data>

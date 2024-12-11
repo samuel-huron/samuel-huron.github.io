@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <event startTimeInterval="22.7" start="September 3 2015 13:43:56 GMT-0600" endTimeInterval="73.992756" end="September 3 2015 13:44:47 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 14:15:23 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Loading data" image="images/2043000.jpg">Typing in data.<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="0" start="September 3 2015 13:43:34 GMT-0600" endTimeInterval="5.778144444444444" end="September 3 2015 13:43:39 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 14:12:54 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Interuption" image="images/0.jpg">Tiffany talking.
+<category name="Interuption"></category>
+    </event>
+    <event startTimeInterval="5.925122222222222" start="September 3 2015 13:43:39 GMT-0600" endTimeInterval="22.7" end="September 3 2015 13:43:56 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 14:14:54 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Exploring the tool" image="images/533261.jpg">Exploring.<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="14.30207777777778" start="September 3 2015 13:43:48 GMT-0600" endTimeInterval="16.96667777777778" end="September 3 2015 13:43:50 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 14:14:06 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Visual Mapping creation" image="images/1287187.jpg">Blank visualization creation.<category name="Visual Mapping creation"></category>
+    </event>
+    <event startTimeInterval="82.10001111111112" start="September 3 2015 13:44:56 GMT-0600" endTimeInterval="108.4000111111111" end="September 3 2015 13:45:22 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 14:16:08 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Transform data" image="images/7389001.jpg">Reordering entered data.<category name="Transform data"></category>
+    </event>
+    <event startTimeInterval="108.7843555555555" start="September 3 2015 13:45:22 GMT-0600" endTimeInterval="110.9333444444444" end="September 3 2015 13:45:24 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 14:16:27 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Selecting data" image="images/9790592.jpg">New Annotation…<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="111.5524444444444" start="September 3 2015 13:45:25 GMT-0600" endTimeInterval="117.2666777777778" end="September 3 2015 13:45:31 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 14:16:59 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Visual Mapping creation" image="images/10039720.jpg">New Annotation…<category name="Visual Mapping creation"></category>
+    </event>
+    <event startTimeInterval="117.5270888888889" start="September 3 2015 13:45:31 GMT-0600" endTimeInterval="195.1333444444444" end="September 3 2015 13:46:49 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 14:18:13 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Exploring the tool" image="images/10577438.jpg">New Annotation…<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="195.1333444444444" start="September 3 2015 13:46:49 GMT-0600" endTimeInterval="319.5000111111111" end="September 3 2015 13:48:53 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 14:19:40 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Visual mapping modification" image="images/17562001.jpg">New Annotation…<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="320.3012111111111" start="September 3 2015 13:48:54 GMT-0600" endTimeInterval="331.2333444444445" end="September 3 2015 13:49:05 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 14:20:08 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Presentation mapping modification" image="images/28827109.jpg">New Annotation…<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="331.0192" start="September 3 2015 13:49:05 GMT-0600" endTimeInterval="339.6333444444444" end="September 3 2015 13:49:13 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 14:20:31 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Interuption" image="images/29791728.jpg">Tiffany gives instructions.<category name="Interuption"></category>
+    </event>
+    <event startTimeInterval="339.6333444444444" start="September 3 2015 13:49:13 GMT-0600" endTimeInterval="375.6666777777777" end="September 3 2015 13:49:49 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 14:21:10 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Verifying the visualization" image="images/30567001.jpg">New Annotation…<category name="Verifying the visualization"></category>
+    </event>
+</data>

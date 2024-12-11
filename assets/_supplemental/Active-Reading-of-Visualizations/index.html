@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Active Reading of Visualizations (Supplemental Material)</title>
+
+    <meta charset="utf-8">
+    <meta property="og:title" content="Active Reading of Visualizations" />
+    <meta property="og:description" content="This website contains supplemental material for the paper Active Reading of Visualizations. We introduce the concept of active reading of visualizations using active reading of text as an inspiration. While active reading of text has been extensively studied, this paper is the first to discuss active reading in the context of visualization."/
+    >
+     <meta property="og:video" content="https://player.vimeo.com/video/230840961" />
+
+      <link href="site-assets/site.css?v=1.0.0" rel="stylesheet" />
+      <link href="dist/magnific-popup.css?v=1.0.0" rel="stylesheet" />
+
+  </head>
+
+  <body>
+
+  <script>
+    document.write('<script src=third-party-libs/' +
+    ('__proto__' in {} ? 'zepto' : 'jquery') +
+    '.min.js><\/script>')
+  </script>
+  <script src="dist/jquery.magnific-popup.js?v=1.0.0"></script>
+
+  <div id="main-wrapper">
+
+    <div id="logo">
+    <h2 id="logo-title">Active Reading of Visualizations<br/> <span style="color:grey;">Extended Material<span></h2>
+    </div>
+
+    <div>
+    <h4 class="intro" style="text-align:left;">We investigate whether the notion of active reading for text might be usefully applied to visualizations. Through a qualitative study we explored whether people apply observable active reading techniques when reading paper-based node-link visualizations. Participants used a range of physical actions while reading, and from these we synthesized an initial set of active reading techniques for visualizations. To learn more about the potential impact such techniques may have on visualization reading, we implemented support for one type of physical action from our observations (making freeform marks) in an interactive node-link visualization. Results from our quantitative study of this implementation show that interactive support for active reading techniques can improve the accuracy of performing low-level visualization tasks. Together, our studies suggest that the active reading space is ripe for research exploration within visualization and can lead to new interactions that make for a more flexible and effective visualization reading experience.</h4>
+
+  <div id="header-links" style="text-align:center;">
+&middot; <br/>
+
+			<a href="walny2017_activereading (preprint).pdf" >Paper (Preprint)</a> &middot;
+		<a href="#videos">Videos</a>  &middot;
+    <a class="popup-with-zoom-anim" href="#small-dialog">Bibtex</a> &middot;
+    <a href="#authors">Authors</a>
+
+		<br/>
+		&middot;
+		<br/>
+
+
+      Study 1: <a href="#S10">Videos</a> &middot; <a href="#S11">Data & Analysis</a> &middot; <a href="#S12">Materials</a> <br/>
+      Study 2: <a href="#S21">Data & Analysis</a> &middot; <a href="#S22">Materials</a> <br/>
+
+    <br/>&middot;
+
+<br/>
+
+  </div>
+
+
+      <!-- bibtex dialog -->
+      <div id="small-dialog" class="zoom-anim-dialog mfp-hide">
+        <h1>Bibtex</h1>
+        <p>
+            @ARTICLE { Walny2017, <br/>
+            AUTHOR = { Jagoda Walny and Samuel Huron and Charles Perin and Tiffany Wun and Richard Pusch and Sheelagh Carpendale }, <br/>
+            JOURNAL = { IEEE Transactions on Visualization and Computer Graphics }, <br/>
+            TITLE = { Active Reading of Visualizations },<br/>
+            YEAR = { 2017 },<br/>
+            VOLUME = { PP },<br/>
+            NUMBER = { 99 },<br/>
+            PAGES = { 1-1 },<br/>
+            KEYWORDS = { active reading;active reading of visualizations;information visualization;spectrum of physical engagement },<br/>
+            DOI = { 10.1109/TVCG.2017.2745958 },<br/>
+            ISSN = { 1077-2626 },<br/>
+            MONTH = { },<br/>
+            }<br/>
+        </p>
+      </div>
+
+
+   <script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-with-zoom-anim').magnificPopup({
+          type: 'inline',
+
+          fixedContentPos: false,
+          fixedBgPos: true,
+
+          overflowY: 'auto',
+
+          closeBtnInside: true,
+          preloader: false,
+
+          midClick: true,
+          removalDelay: 300,
+          mainClass: 'my-mfp-zoom-in'
+        });
+      });
+    </script>
+
+    <style type="text/css">
+      /* Styles for dialog window */
+      #small-dialog {
+        background: white;
+        padding: 20px 30px;
+        text-align: left;
+        max-width: 400px;
+        margin: 40px auto;
+        position: relative;
+      }
+
+      /**
+       * Fade-zoom animation for first dialog
+       */
+
+      /* start state */
+      .my-mfp-zoom-in .zoom-anim-dialog {
+        opacity: 0;
+
+        -webkit-transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+
+
+
+        -webkit-transform: scale(0.8);
+        -moz-transform: scale(0.8);
+        -ms-transform: scale(0.8);
+        -o-transform: scale(0.8);
+        transform: scale(0.8);
+      }
+
+      /* animate in */
+      .my-mfp-zoom-in.mfp-ready .zoom-anim-dialog {
+        opacity: 1;
+
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        transform: scale(1);
+      }
+
+      /* animate out */
+      .my-mfp-zoom-in.mfp-removing .zoom-anim-dialog {
+        -webkit-transform: scale(0.8);
+        -moz-transform: scale(0.8);
+        -ms-transform: scale(0.8);
+        -o-transform: scale(0.8);
+        transform: scale(0.8);
+
+        opacity: 0;
+      }
+
+      /* Dark overlay, start state */
+      .my-mfp-zoom-in.mfp-bg {
+        opacity: 0;
+        -webkit-transition: opacity 0.3s ease-out;
+        -moz-transition: opacity 0.3s ease-out;
+        -o-transition: opacity 0.3s ease-out;
+        transition: opacity 0.3s ease-out;
+      }
+      /* animate in */
+      .my-mfp-zoom-in.mfp-ready.mfp-bg {
+        opacity: 0.8;
+      }
+      /* animate out */
+      .my-mfp-zoom-in.mfp-removing.mfp-bg {
+        opacity: 0;
+      }
+    </style>
+
+
+</div>
+
+
+<h2 id="videos">Videos</h2>
+
+	  <div class="example gc1">
+		<p>3 minute video illustrating the study details</p>
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/pj0g8_Kcq9A" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+	<br/>
+
+	<div class="example gc1">
+		<p>30 second video preview</p>
+    <iframe src="https://player.vimeo.com/video/230840961" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+
+<br/><br/><br/><br/>
+
+
+<h2 id="S10"> Study 1 - Qualitative study: Videos</h2>
+<div class="grid-c" style="padding:1em;">
+The videos below contain the the two phases of the qualitative study. Phase 1 involved answering direct questions about the dataset, while Phase 2 involved solving a problem using the data. Parts of the videos have been blurred to preserve the anonymity of the participants. All videos are shown at 8x speed to allow a fast overview. <br/>
+
+  <div class="example gc3">
+    <iframe width="100%" src="https://www.youtube-nocookie.com/embed/BM_bBeJHobU?rel=0" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+  <div class="example gc3">
+    <iframe width="100%" src="https://www.youtube-nocookie.com/embed/cRRolnIGnNE?rel=0" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+  <div class="example gc3">
+    <iframe width="100%"  src="https://www.youtube-nocookie.com/embed/euUuy7YvS5E?rel=0" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+  <div class="example gc3">
+    <iframe width="100%" src="https://www.youtube-nocookie.com/embed/F-KaC0vgKZY?rel=0" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+  <div class="example gc3">
+    <iframe width="100%" src="https://www.youtube-nocookie.com/embed/1yIYmOn4V20?rel=0" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+  <div class="example gc3">
+    <iframe width="100%" src="https://www.youtube-nocookie.com/embed/myENRetNe-E?rel=0" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+  <!-- <div class="example gc3">
+    <iframe width="320" height="180" src="https://www.youtube.com/embed/ZmzbB_s13bw?ecver=1" frameborder="0" allowfullscreen></iframe>
+  </div> -->
+
+</div>
+
+
+<h2 id="S11"> Study 1 - Qualitative study: Data and Analysis</h2>
+<div class="grid-c" style="padding:1em;">
+
+<!--
+  <div class="example" style="padding:1em;">
+    <h3>Participant Demography and answers</h3>
+    <p>To download this figure in PDF version click on it.
+     <a href="site-assets/download/quant_participant_profiles_notext.pdf" target="_blank">
+     <image src="site-assets/images/S1-pictures/S1_QUESTIONNAIRES.png" width="100%">
+    </image></a>
+  </div>
+-->
+
+  <div class="example" style="padding:1em;">
+    <h3>Teaser figure: Physical actions observed during reading of visualizations.</h3>
+    <p>To download this figure in PDF version click on it.
+     <a href="site-assets/download/S1_teaser-v3.pdf" target="_blank">
+     <image src="site-assets/images/S1-pictures/S1_TEASER.png" width="100%">
+    </image></a>
+  </div>
+
+  <div class="example" style="padding:1em;">
+    <h3>Sequence of participant actions</h3>
+    <p>To download this figure in PDF version click on it. <!-- TODO Data are available in <a href="site-assets/data/main.csv" target="_blank">CSV</a> or <a href="site-assets/data/main.json" target="_blank">JSON</a> format. --> <br/><br/>
+     <a href="site-assets/download/S1_vis_dpe_categories.pdf" target="_blank">
+     <image src="site-assets/images/S1-pictures/S1-ACTIONS.png" width="100%">
+    </image></a>
+  </div>
+
+  <div class="example gc3">
+    <h3>Depth of physical engagement spectrum</h3>
+    <p>To download this figure in PDF version click on it.
+    <a href="site-assets/download/S1_qual_results_cp_v3.pdf" target="_blank">
+     <image src="site-assets/images/S1-pictures/S1_RESULTS.png" width="100%">
+    </image>
+    </a>
+  </div>
+
+  <div class="example gc3" id="qreply">
+    <h3>Participant demographic information and results of active reading questionnaire</h3>
+    <p>To download this figure in PDF version click on it.
+     <a href="site-assets/download/qual_results_demographics_cp_v1.pdf" target="_blank">
+     <image src="site-assets/images/S1-pictures/S1_DEMOGRAPHICS.png" width="100%">
+    </image></a>
+  </div>
+
+  <div class="example gc3">
+    <h3>Examples of annotations</h3>
+    <p>To download this figure in hight definition version click on it.
+     <a href="site-assets/download/S1_image-annotation-3.pdf" target="_blank">
+     <image src="site-assets/images/S1-pictures/S1_IMAGES-ANNOTATIONS-3.png" width="100%">
+    </image></a>
+  </div>
+
+  <div class="example gc3" id="taxmap">
+    <h3>Relating our five goals for active reading of visualizations with Bertin’s three stages of the reading, and Adler’s four levels of active reading of text.</h3>
+    <p>To download this figure in PDF version click on it.
+     <a href="site-assets/download/arv-diagram-5.pdf" target="_blank">
+     <image src="site-assets/images/arv-diagram-5.png" width="100%">
+    </image></a>
+  </div>
+
+
+  <div class="example gc3">
+    <h3>Profiles of participants’ dominant activities</h3>
+    <p>To download this figure in PDF version click on it.
+     <a href="site-assets/download/qual_participant_profiles.pdf" target="_blank">
+     <image src="site-assets/images/S1-pictures/S1_qual_participant_profiles.png" width="100%">
+    </image></a>
+  </div>
+
+
+</div>
+
+<h2 id="S12">Study 1 - Qualitative: Material for reproduction</h2>
+
+<div class="grid-c" style="padding:1em;">
+<p>Separate elements of the materials for study S1 (qualitative study) are available for download here.
+<!-- or a package <a href="">here</a>.--> </p>
+
+  <div class="example gc3">
+  <h3>Dataset views</h3><br/>
+  The dataset we used was a social network graph with ten nodes
+  (persons) and four types of links (knows, likes, loves, and dislikes). We gave participants four distinct views of this network, one for each type of link. Each view was available on letter-size paper and on transparencies that could be layered to view several types of link at the same time. <br/>
+ <a href="site-assets/download/S1-Data-sheet.zip" target="_blank">Download PDF.</a>
+</div>
+
+  <div class="example gc3">
+  <h3>Setup pictures</h3><br/>
+  We provided participants with a set of materials and tools: blank paper, blank transparencies, tracing paper, water-soluble markers, water and a cloth for erasing marks on transparencies, a regular pen, erasable felt pens, scissors, tape, post-it notes, and paper clips. We covered the table in white paper to make the transparencies easy to see.<br/>
+  <a href="site-assets/download/S1-setup-pictures.zip" target="_blank">Download pictures.</a>
+  </div>
+
+  <div class="example gc3">
+  <h3>Phase 1: Question </h3><br/>
+  We provided participants sheet containing five questions related to the visualization, and space to write their answers.<br/>
+  <a href="site-assets/download/S1-AVIS-L%20Phase%201%20questions.pdf" target="_blank">Download PDF.</a>
+ </div>
+
+  <div class="example gc3">
+  <h3>Phase 2: Problem Solving</h3><br/>
+This second sheet ask the participant how to organize a social evening with all of the people depicted in the social network with “minimal drama” due to incompatible relationships. Once they were done, participants were asked to explain their problem solving strategy. <br/>
+  <a href="site-assets/download/S1-AVIS-L%20Phase%202%20task.pdf" target="_blank">Download PDF.</a>
+  </div>
+
+  <div class="example gc3">
+  <h3>Phase 3: Questionnaire & Interview</h3><br/>
+ In phase 3, participants filled out a questionnaire about their active
+reading habits when the information was on paper, on mobile devices,
+and on personal computers. This questionnaire formed the basis for a semi-structured interview
+about the participants’ active reading habits and how these habits related
+to the strategies they used to read the visualizations. <br/>
+The semi-structured interview questions included questions
+such as:<ul>
+<li> Did you use any tools to help you solve the problem?</li>
+<li> I noticed you used X strategy. Why did you use it? How did
+it help you?</li>
+<li> You say your annotation behaviour is different on paper and
+on computers. Why do you think that is?</li>
+<li> You say you (do / don’t) normally highlight, but when you
+were reading the visualization, you (did / didn’t). Why do
+you think that is?</li>
+<li> If you had a magic wand, what would you want to do to
+solve this task more easily?</li>
+</ul>
+  <a href="site-assets/download/S1-AVIS-L%20Post-questionnaire.pdf" target="_blank">Download the questionnaire in PDF.</a>
+  </div>
+
+
+  <div class="example gc3">
+  <h3>Demographic questionnaires</h3><br/>
+ At the begining of the study the participant were given a demographic questionnaire. <br/>
+  <a href="site-assets/download/S1-AVIS-L%20Pre-questionnaire.pdf" target="_blank">Download PDF.</a>
+  </div>
+  </div>
+
+
+
+
+
+
+<h2 id="S21">Study 2 - Quantitative study: Analysis and Data</h2>
+
+
+<h3 id="extended">Data &amp; Analysis</h3>
+
+<div class="grid-c">
+
+  <div class="example" style="padding:1em;">
+    <h3>Participant questionnaire data</h3>
+    <p>Participant demographic information and results of questionnaire about typical active reading habits for text. To download this figure in PDF version click on it.
+     <a href="site-assets/download/S1_quant_participant_profiles_withtext.pdf" target="_blank">
+     <image src="site-assets/images/S1-pictures/S1_PROFILES.png" width="100%">
+    </image></a>
+  </div>
+
+<div></div>
+  <div class="example gc3">
+    <h3>Error and time visualization</h3>
+    <p>To download this figure in PDF version click on it.  <a href ="site-assets/download/S2_quant_all.pdf" target="_blank">
+    <image src="site-assets/images/S2-pictures/S2_ANALYSIS_ALL.jpg" width="100%">
+    </image></a>
+    </p>
+  </div>
+
+  <div class="example gc3">
+    <h3>Data</h3>
+    <p> The data file for Study S2 is a csv file where each row is a participant trial, and columns are the following: "pid": the participant uinque id, "order": the order in which the participant performed the experiment (A,B,C, or D), "step": step within the order of the experiment (S0,S1,S2, or S3),  "technique": the condition (active or baseline), "task": the task (degree of reach), "size": the number of nodes in the graph (n20, n40 or n80), "trial": the repetition number within the four repetitions for each block (0,1,2, or 3), "pAnswer": the participant answer, "correctAnswer": the correct answer, "startTime": the time at which the trial started, "endTime": the time at which the trial ended, "completionTime": the total completion time of the trial (endTime - startTime), "clicksLink": the number of times a link was selected during the trial, "clicksNode": the number of times a node was selected during the trial, "penDownTime": the total time the pen was touching the screen. <br/>
+    Download the <a href="site-assets/download/S2-data.csv" target="_blank">CSV</a>, and the <a href="site-assets/download/S2-data-readme.txt" target="_blank">Metadata</a>.
+    </p>
+  </div>
+
+</div>
+<div></div>
+
+<h2 id="S22">Study 2 - Quantitative study: Material for reproduction</h2>
+<div class="grid-c" >
+  <div class="example" style="padding:1em;">
+  For S2, we include additional implementation details for the
+  freeform annotation overlay and a full description of the constraints
+  used to create the sample graphs for the study; this is
+  done in the interest of replicability. <br/>A printable version is available in <a href="site-assets/download/SM_activeviewing_supplemental_vhis2017_v03.pdf" target="_blank">PDF format</a>.
+  </div>
+  <div> </div>
+  <div class="example gc3">
+  <h3>Graph Dataset Constraints</h3><br/>
+    Graph Dataset Constraints
+    In this section we describe the constraints we used to generate
+    the graph dataset that all participants used during S2.
+    In order to reduce the number of factors in the experiment and
+    to limit the total study time, we set the density of graphs to be
+    an independent variable in the experiment.
+    <ul>
+    <li> All graphs maintained a density of approximately 1.5, staying
+    within a range of 1.4 – 1.6. Density was computed by
+    dividing the number of links by the number of nodes.</li>
+    <li> We ensured that at least 85% of nodes appeared within a
+    connected subgraph so that the density measure was consistent
+    across graphs.</li>
+    </ul>
+
+    For the DEGREE task, we added the following constraints:
+    The maximum degree was kept consistent within each size
+    of graph. N20 graphs had a maximum degree of between 3
+    and 6; of size 40, between 4 and 7; and of size 80, between
+    5 and 10. This choice was made to balance out the ease of
+    performing the tasks with the ability to generate suitable
+    graphs.
+    <ul>
+    <li> The number of nodes with the maximum degree (i.e. the
+    correct answer for each task) was kept within 5 - 10% of
+    the graph size.</li>
+    For the REACH task, we added the following constraints:
+    <li> The degree of the originating node was between 3 and 5.</li>
+    <li> The number of links distributed among the nodes directly
+    connected to the originating node was between 5 and 10 for
+    N20; 10 and 20 for N40; and 20 and 40 for N80.</li>
+    <li> The number of repeated nodes was between 10 - 20% of the
+    graph size.</li>
+    <li> At least one node could be reached via multiple paths. This
+    was meant to keep tasks consistently challenging.</li>
+    <li> The number of reachable nodes was between 20 - 40% of
+    the total size of the graph.</li>
+    </ul>
+    Individual graphs were generated for each trial, that is, repetition
+    ⇥ N ⇥ TASK. The same set of graphs was used for
+    each CONDITION to keep difficulty consistent, but trials were
+    presented in random order to avoid learning effects.
+
+  </div>
+
+
+
+  <div class="example gc3">
+  <h3>Implementation Details for Freeform Annotation Overlay</h3><br/>
+ The freeform annotation overlay was implemented in
+Javascript as an independent SVG group on top of an existing
+graph visualization created using D31. Sketched lines
+are represented as standard SVG paths. All sketched paths
+were logged together with the touch interactions.
+We provided a panel with basic colour and thickness controls
+(see Figure 1). Highlight colours were intentionally kept to
+a small set (yellow, pink, and navy blue) to avoid distracting
+participants with colour choices. The three colours were
+semi-transparent, like highlighters, so that the underlying visualization
+would not be completely occluded by the highlights.
+There was also an eraser that erased full paths and a button to
+clear all strokes.
+This layer is does not communicate with the underlying visualization
+in any way, and so could be easily transferred to any
+SVG visualization within the same system configuration. This
+implementation of the freeform annotation overlay requires
+pen or mouse input for drawing. It thus works best if the
+interactions for the underlying visualizations are enabled for
+touch only and do not accept mouse input.
+Configuration
+The implementation is created for the Chrome browser running
+full-screen in Windows 7 on a Wacom Cintiq 24HDT pen
+and touch screen. To avoid interference from unexpected
+interactions, we configured the pen interaction to be as basic
+as possible: we disabled all special operating system-level and
+Wacom-provided pen and touch interactions were turned off.
+This includes disabling long press for right click, flicks for
+scrolling, and all extra button functionality on the pen.
+We disabled right-clicking, scrolling, and the back button for
+the duration of the experiment.<br/>
+  </div>
+
+  <div class="example gc3">
+  <h3>Setup pictures</h3><br/>
+  We provided participants with a set of materials and tools: blank paper, blank transparencies, tracing paper, water-soluble markers, water and a cloth for erasing marks on transparencies, a regular pen, erasable felt pens, scissors, tape, post-it notes, and paper clips. We covered the table in white paper to make the transparencies easy to see.<br/>
+  <a href="site-assets/download/S2-setup-pictures.zip" target="_blank">Download pictures.</a>
+  </div>
+
+	<!--
+  <div class="example gc3">
+  <h3>Software sources</h3><br/>
+   We are cleaning the code to make it readable by human being. The software as well as the R script will be available soon !
+  </div>
+-->
+
+
+</div>
+
+<h2 id="authors">Authors</h2>
+<!-- <p> To contact the authors click on this <a href="#">link</a>.</p> -->
+<div class="grid-c" style="padding:1em;">
+
+  <div class="example author">
+  <img src="site-assets/images/avatar_jagoda_walny.jpg" width="100px"><br/>
+  <a href="http://research.jagoda.ca" target="_blank">Jagoda Walny</a><br/>
+
+Jagoda completed her PhD with Dr. Sheelagh Carpendale in the Innovis Group (Interactions Lab, Department of Computer Science) at the University of Calgary. Her research centers around how everyday visual thinking methods such as sketching can inform information visualizations. She uses a qualitative approach to explore the characteristics of analog visual thinking tools. This paper is a part of her PhD work.
+
+  </div>
+
+  <div class="example author">
+<img src="site-assets/images/avatar_samuel_huron-cut.jpeg" width="100px"><br/>
+  <a href="http://www.cybunk.com" target="_blank">Samuel Huron</a><br/>
+Samuel is an associate professor in Design and Information Technology at Telecom Paris Tech in France. He is both a computer scientist and a designer. His research is mostly focused on the design process of visual representations of data and how design methods apply to research and human computer interaction.
+  </div>
+
+  <div class="example author">
+<img src="site-assets/images/avatar_charles_perin.jpeg" width="100px"><br/>
+  <a href="http://charles.perin.free.fr/?p=Home" target="_blank">Charles Perin </a><br/>
+ Charles is a lecturer in the Department of Computer Science at City, University of London, and part of the giCentre research group. He is a computer scientist specializing in information visualization and human computer interaction. He is particularly interested in designing and studying new interactions for visualizations; in understanding how people may make use of and interact with visualizations in their everyday lives; and in sports visualization.
+  </div>
+
+
+  <div class="example author">
+<img src="site-assets/images/avatar_tiffany_wun.jpg" width="100px"><br/>
+  <a href="http://innovis.cpsc.ucalgary.ca/People/TiffanyWun" target="_blank">Tiffany Wun </a><br/>
+Tiffany completed her Bachelor of Science in Computer Science at the University of Calgary.  </div>
+
+
+  <div class="example author">
+<img src="site-assets/images/avatar_ricky_color.jpg" width="100px"><br/>
+  <a href="http://innovis.cpsc.ucalgary.ca/People/RichardPusch" target="_blank">Richard Pusch  </a><br/>
+Richard is a research engineer in the Interactions Lab at the University of Calgary. He is interested in exploring new interfaces and methods for collaboration on large displays, and investigating how people build and interact with data in visualizations.
+  </div>
+
+  <div class="example author">
+<img src="site-assets/images/avatar_Sheelagh_Carpendale-cut.jpg" width="100px"><br/>
+  <a href="http://innovis.cpsc.ucalgary.ca/People/SheelaghCarpendale" target="_blank">Sheelagh Carpendale </a><br/>
+Sheelagh is a Professor at the University of Calgary where she holds a Canada Research Chair: Information Visualization and an NSERC/iCORE/SMART Industrial Research Chair: Interactive Technologies. She directs the Innovations in Visualization (InnoVis) research group and her research focuses on information visualization, collaborative visualization, and large interactive displays.
+  </div>
+
+</div>
+
+<!--
+http://innovis.cpsc.ucalgary.ca/supplemental/Data-Sketching/
+http://goo.gl/xQjgR3
+
+https://twitter.com/intent/tweet?text=Data%20Sketching%20-an%20exploratory%20study&amp;url=http%3A%2F%2Fgoo.gl%2FxQjgR3&amp;via=Innovis
+
+https://www.facebook.com/sharer/sharer.php?u=http://innovis.cpsc.ucalgary.ca/supplemental/Data-Sketching/-->
+
+
+<div class="share-buttons">
+  <h2>Please spread the word if you find this study interesting</h2>
+  <div id="buttons-row">
+    <a id="tweet" rel="nofollow" href="https://twitter.com/intent/tweet?text=Active%20Reading%20Of%20Visualizations&amp;url=http%3A%2F%2Fgoo.gl%2FM94Nu3&amp;via=jawalnut">Tweet!</a>
+    <a id="like" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=http://innovis.cpsc.ucalgary.ca/supplemental/Active-Reading-of-Visualizations/">Like!</a>
+  </div>
+</div>
+
+<!--
+<script>
+(function(){
+  var openWindowPopup = function(e) {
+    if(!e) return;
+    e.preventDefault();
+    window.open(e.target.href, "intent", "scrollbars=yes,resizable=yes,toolbar=no,location=yes,width=550,height=420,left=" + (window.screen ? Math.round(screen.width / 2 - 275) : 50) + ",top=" + 100);
+  };
+  var ids = ['tweet', 'like', 'gplus'];
+  for(var i = 0; i < ids.length; i++) {
+    document.getElementById(ids[i]).onclick = openWindowPopup;
+  }
+})();
+</script>
+-->
+    <div id="footer">
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Active reading of visualizations Extended Material</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://urltocomplete.com" property="cc:attributionName" rel="cc:attributionURL">J. Walny, S. Huron, C. Perin, T. Wun, R. Pusch, S. Carpendale</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+<!--
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">An Exploratory Study of Data Sketching for Visual Representation Extended materials</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://urltocomplete.com" property="cc:attributionName" rel="cc:attributionURL">J. Walny, S. Huron, S. Carpendale</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+http://creativecommons.org/choose/?lang=en -->
+    </div>
+
+  </div>
+
+
+
+
+
+
+  <!-- add analytics -->
+
+
+
+
+
+
+
+
+  </body>
+</html>

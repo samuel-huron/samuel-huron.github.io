@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
+
+    <title>An Exploratory Study of Data Sketching for Visual Representation</title>
+    
+    <meta charset="utf-8"> 
+    <meta name="description" content="Hand-drawn sketching, on napkins or whiteboards, is a common, accessible method for generating visual data representations. This practice is shared by experts and non-experts and is probably one of the faster and more expressive ways to draft a visual representation of the data. In order to better understand the types of and variations in what people produce when sketching data, we conducted a qualitative study. "/
+    >
+      <link href="site-assets/site.css?v=1.0.0" rel="stylesheet" />
+      <link href="dist/magnific-popup.css?v=1.0.0" rel="stylesheet" />
+    
+  </head>
+
+  <body>
+
+  <script>
+    document.write('<script src=third-party-libs/' +
+    ('__proto__' in {} ? 'zepto' : 'jquery') +
+    '.min.js><\/script>')
+  </script>
+  <script src="dist/jquery.magnific-popup.js?v=1.0.0"></script>
+  
+  <div id="main-wrapper">
+
+    <div id="logo">
+    <h2 id="logo-title">An Exploratory Study of Data Sketching for Visual Representation <span style="color:grey;">Extended Material<span></h2>
+    </div>
+
+    <div>
+    <h4 class="intro" style="text-align:left;">Hand-drawn sketching, on napkins or whiteboards, is a common, accessible method for generating visual data representations. This practice is shared by experts and non-experts and is probably one of the faster and more expressive ways to draft a visual representation of the data. In order to better understand the types of and variations in what people produce when sketching data, we conducted a qualitative study. We asked people with varying degrees of visualization expertise, from novices to experts, to manually sketch representations of a small, easily understandable dataset using pencils and paper and to report on what they learned or found interesting about the data. From this study, we extract a data sketching representation continuum from numeracy to abstraction; a data report spectrum from individual data items to speculative data hypothesis; and show the correspondence between the representation types and the data reports from our results set. From these observations we discuss the participants’ representations in relation to their data reports, indicating implications for design and potentially fruitful directions for research.</h4>
+  <div id="header-links" style="text-align:center;">
+   <a href="#extended">Extended Materials</a> &middot;
+    <a href="http://innovis.cpsc.ucalgary.ca/supplemental/Data-Sketching/site-assets/An%20Exploratory%20Study%20of%20Data%20Sketching%20for%20Visual%20Representation.pdf" target="_blank" >PDF of the paper</a> &middot; 
+    <a class="popup-with-zoom-anim" href="#small-dialog-bibtex">Bibtex</a> &middot; 
+    <a class="popup-with-zoom-anim" href="#small-dialog-slides"><b>Slides</b></a> &middot; 
+
+    <a href="#authors">Authors and Contact</a>  
+  </div>
+
+
+      <!-- bibtex dialog -->
+      <div id="small-dialog-bibtex" class="zoom-anim-dialog mfp-hide">
+        <h1>Bibtex</h1>
+        <p>
+@article {10.1111:cgf.12635,<br/>
+journal = {Computer Graphics Forum},<br/>
+title = {{An Exploratory Study of Data Sketching for Visual Representation}},<br/>
+author = {Walny, Jagoda and Huron, Samuel and Carpendale, Sheelagh},<br/>
+year = {2015},<br/>
+publisher = {The Eurographics Association and John Wiley & Sons Ltd.},<br/>
+DOI = {10.1111/cgf.12635},<br/>
+url = {http://dx.doi.org/10.1111/cgf.12635},<br/>
+pages = {231-240}
+}
+        </p>
+      </div>
+  
+      <!-- slides dialog -->
+      <div id="small-dialog-slides" class="zoom-anim-dialog mfp-hide">
+        <h1>Slides</h1>
+        <p width="476" height="400">
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/4e24lJUR9RZIDA" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>..
+          </p>
+      </div>
+
+   <script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-with-zoom-anim').magnificPopup({
+          type: 'inline',
+
+          fixedContentPos: false,
+          fixedBgPos: true,
+
+          overflowY: 'auto',
+
+          closeBtnInside: true,
+          preloader: false,
+          
+          midClick: true,
+          removalDelay: 300,
+          mainClass: 'my-mfp-zoom-in'
+        });
+      });
+    </script>
+
+    <style type="text/css">
+      /* Styles for dialog window */
+      #small-dialog-bibtex {
+        background: white;
+        padding: 20px 30px;
+        text-align: left;
+        max-width: 400px;
+        margin: 40px auto;
+        position: relative;
+      }
+      #small-dialog-slides {
+        background: white;
+        padding: 20px 30px;
+        text-align: left;
+        max-width: 500px;
+        margin: 40px auto;
+        position: relative;
+      }
+
+      /**
+       * Fade-zoom animation for first dialog
+       */
+      
+      /* start state */
+      .my-mfp-zoom-in .zoom-anim-dialog {
+        opacity: 0;
+
+        -webkit-transition: all 0.2s ease-in-out; 
+        -moz-transition: all 0.2s ease-in-out; 
+        -o-transition: all 0.2s ease-in-out; 
+        transition: all 0.2s ease-in-out; 
+
+
+
+        -webkit-transform: scale(0.8); 
+        -moz-transform: scale(0.8); 
+        -ms-transform: scale(0.8); 
+        -o-transform: scale(0.8); 
+        transform: scale(0.8); 
+      }
+
+      /* animate in */
+      .my-mfp-zoom-in.mfp-ready .zoom-anim-dialog {
+        opacity: 1;
+
+        -webkit-transform: scale(1); 
+        -moz-transform: scale(1); 
+        -ms-transform: scale(1); 
+        -o-transform: scale(1); 
+        transform: scale(1); 
+      }
+
+      /* animate out */
+      .my-mfp-zoom-in.mfp-removing .zoom-anim-dialog {
+        -webkit-transform: scale(0.8); 
+        -moz-transform: scale(0.8); 
+        -ms-transform: scale(0.8); 
+        -o-transform: scale(0.8); 
+        transform: scale(0.8); 
+
+        opacity: 0;
+      }
+
+      /* Dark overlay, start state */
+      .my-mfp-zoom-in.mfp-bg {
+        opacity: 0;
+        -webkit-transition: opacity 0.3s ease-out; 
+        -moz-transition: opacity 0.3s ease-out; 
+        -o-transition: opacity 0.3s ease-out; 
+        transition: opacity 0.3s ease-out;
+      }
+      /* animate in */
+      .my-mfp-zoom-in.mfp-ready.mfp-bg {
+        opacity: 0.8;
+      }
+      /* animate out */
+      .my-mfp-zoom-in.mfp-removing.mfp-bg {
+        opacity: 0;
+      }
+    </style>
+
+
+</div>
+
+
+<h2 id="extended">Extended Materials</h2>
+<h3 >Sketches</h3>
+
+
+<div> The table below present excerpts of participant's sketches classify along the data representation continuum. </div>
+<div> 
+  <img src="site-assets/images/AA-continuum.gif" width="716px" />
+</div>
+<div class="grid-c" style="width:716px;">
+  <div class="sketchtable">
+
+  <div class="column">
+      <div class="column1-gallery">
+
+        <a href="site-assets/images-sketches/C1-2.jpeg" title="Countable"><img src="site-assets/thumbs/01-C1-2.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/A5-1.jpeg" title="Countable"><img src="site-assets/thumbs/01-A5-1.png" width="75" height="75" /></a>
+        
+        <a href="site-assets/images-sketches/B5-1.jpeg" title="Countable"><img src="site-assets/thumbs/02-B5-1.png" width="75" height="75" /></a>
+
+
+
+      </div>
+  </div>
+  
+  <div class="column">
+
+      <div class="column1-gallery">
+
+        <a href="site-assets/images-sketches/C5-1.jpeg" title="Dotplot"><img src="site-assets/thumbs/03-C5-1.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/A2.jpeg" title="Dotplot Matrices"><img src="site-assets/thumbs/06-A2.png" width="75"  /></a>
+
+        <a href="site-assets/images-sketches/A3-1.jpeg" title="Dotplot Matrices"><img src="site-assets/thumbs/05-A3-1.png" width="75" /></a>
+
+        <a href="site-assets/images-sketches/B8-1.jpeg" title="Dotplot Matrices"><img src="site-assets/thumbs/07-B8-1.png" width="75" height="75" /></a>
+                
+        <a href="site-assets/images-sketches/A3-4.jpeg" title="Dotplot Matrices"><img src="site-assets/thumbs/24-A3-4.png" width="75" height="75" /></a>
+
+      </div>      
+</div>
+
+
+  <div class="column">
+
+      <div class="column1-gallery">
+
+        <a href="site-assets/images-sketches/A5-2.jpeg" title="Barcharts"><img src="site-assets/thumbs/04-A5-2.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/A3-3.jpeg" title="Barcharts"><img src="site-assets/thumbs/10-A3-3.png" width="75" height="75" /></a>
+
+        
+        <a href="site-assets/images-sketches/A5-3.jpeg" title="Barcharts"><img src="site-assets/thumbs/12-A5-3.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/B6.jpeg" title="Barcharts"><img src="site-assets/thumbs/09-B6.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/C7-1.jpeg" title="Barcharts"><img src="site-assets/thumbs/11-C7-1.png" width="75" height="75" /></a>
+
+
+        <a href="site-assets/images-sketches/B7-1.jpeg" title="Barcharts"><img src="site-assets/thumbs/08-B7-1.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/C1-3.jpeg" title="Barcharts"><img src="site-assets/thumbs/C1-3.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/B7-3.jpeg" title="Barcharts"><img src="site-assets/thumbs/17-B7-3.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/B7-2.jpeg" title="Barcharts"><img src="site-assets/thumbs/18-B7-2.png" width="75" height="75" /></a>
+
+
+        <a href="site-assets/images-sketches/C6-4.jpeg" title="Barcharts"><img src="site-assets/thumbs/16-C6-4.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/C2.jpeg" title="Barcharts"><img src="site-assets/thumbs/20-C2.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/B4-1.jpeg" title="Barcharts"><img src="site-assets/thumbs/19-B4-1.png" width="75"  /></a>
+
+
+
+      </div>
+  </div>
+
+
+  <div class="column">
+
+      <div class="column1-gallery">
+
+        <a href="site-assets/images-sketches/A7.jpeg" title="Line graphs"><img src="site-assets/thumbs/14-A7.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/C3.jpeg" title="Line graphs"><img src="site-assets/thumbs/13-C3.png" width="75" height="75" /></a>
+
+        
+        <a href="site-assets/images-sketches/A3-2.jpeg" title="Line graphs"><img src="site-assets/thumbs/15-A3-2.png" width="75" height="75" /></a>
+
+      </div>    
+ </div>
+
+
+  <div class="column">
+
+      <div class="column1-gallery">
+
+        <a href="site-assets/images-sketches/A4-3.jpeg" title="Ranked lists"><img src="site-assets/thumbs/21-A4-3.png" width="75" height="75" /></a>
+
+        
+        <a href="site-assets/images-sketches/A7.jpeg" title="Ranked lists"><img src="site-assets/thumbs/22-A4-1.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/A4-4.jpeg" title="Ranked lists"><img src="site-assets/thumbs/23-A4-4.png" width="75" height="75" /></a>
+
+      </div>    
+ </div>
+
+
+  <div class="column">
+
+      <div class="column1-gallery">
+
+        <a href="site-assets/images-sketches/B3-2.jpeg" title="Graph like"><img src="site-assets/thumbs/25-B3-2.png" width="75" /></a>
+
+
+        <a href="site-assets/images-sketches/A1.jpeg" title="Graph like"><img src="site-assets/thumbs/29-A1b.png" width="75" height="75" /></a>
+
+         <a href="site-assets/images-sketches/B3-1.jpeg" title="Graph like"><img src="site-assets/thumbs/28-B3-1.png" width="75" height="75" /></a>
+
+
+
+      </div>    
+ </div>
+
+
+   <div class="column">
+
+      <div class="column1-gallery">
+
+
+        <a href="site-assets/images-sketches/B4-2.jpeg" title="Venn diagram"><img src="site-assets/thumbs/30-B4-2.png" width="75" /></a>
+
+
+
+        <a href="site-assets/images-sketches/C1-1.jpeg" title="Venn diagram"><img src="site-assets/thumbs/27-C1-1.png" width="75" height="75" /></a>
+
+        
+         <a href="site-assets/images-sketches/B3-1.jpeg" title="Venn diagram"><img src="site-assets/thumbs/28-B3-1.png" width="75" height="75" /></a>
+
+
+      </div>    
+ </div>
+
+    <div class="column">
+
+      <div class="column1-gallery">
+
+        <a href="site-assets/images-sketches/A6-1.jpeg" title="Pictorial"><img src="site-assets/thumbs/31-A6-1.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/B2.jpeg" title="Pictorial"><img src="site-assets/thumbs/32-B2.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-sketches/B1.jpeg" title="Pictorial"><img src="site-assets/thumbs/33-B1.png" width="75" /></a>
+
+        <a href="site-assets/images-sketches/C4.jpeg" title="Pictorial"><img src="site-assets/thumbs/34-C4.png" width="75" /></a>
+
+
+      </div>    
+ </div>
+
+
+
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('.column1-gallery').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          tLoading: 'Loading image #%curr%...',
+          mainClass: 'mfp-img-mobile',
+           zoom: {
+            enabled: true,
+            duration: 300 // don't foget to change the duration also in CSS
+          },
+          gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+          },
+          image: {
+            tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+            titleSrc: function(item) {
+              return item.el.attr('title') + '';
+            }
+          }
+        });
+      });
+    </script>
+  </div>
+</div>
+
+
+<h3 id="extended">Figures Sources &amp; experiment material</h3>
+
+<div class="grid-c">
+
+  <div class="example gc3">
+    <h3>Representation Continuum</h3> 
+    <p>To download this figure in PDF version click on it.  <a href ="site-assets/download/rep-continuum-4-RED.pdf" target="_blank">
+    <image src="site-assets/images/AA-continuum.gif" width="100%">
+    </image></a>
+    </p>
+  </div>
+
+  <div class="example gc3">
+    <h3>Data report spectrum</h3> 
+    <p>To download this figure in PDF version click on it.
+    <a href ="site-assets/download/fig-datareportspectrum-edit-sam.pdf" target="_blank">
+    <image src="site-assets/images-paper/fig-datareportspectrum-edit-sam.gif" width="100%">
+    </image></a>
+    </p>
+  </div>
+
+  <div class="example gc3">
+    <h3>Levels of Data Description</h3> 
+    <p>To download this figure in PDF version click here.
+    
+        <a href ="site-assets/download/levelsofdescription-sam.pdf" target="_blank">
+    <image src="site-assets/images-paper/levelsofdescription-sam.gif" width="100%">
+    </image></a>
+    </p>
+  </div>
+
+  <div class="example gc3">
+    <h3>Figures from the paper </h3> 
+    <p>Below you will find the excerpts presented in the paper.
+          <div class="gallery2">
+
+        <a href="site-assets/images-paper/fig-dataset.jpg" title=""><img src="site-assets/images-paper/thumbs/fig-dataset.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-paper/fig-decsup.jpg" title=""><img src="site-assets/images-paper/thumbs/fig-decsup.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-paper/fig-graph-old.jpg" title="Pictorial"><img src="site-assets/images-paper/thumbs/fig-graph-old.png" width="75" height="75" /></a>
+
+        <a href="site-assets/images-paper/fig-dotplot.jpg" title="Pictorial"><img src="site-assets/images-paper/thumbs/fig-dotplot.png" width="75" /></a>
+ </div>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('.gallery2').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          tLoading: 'Loading image #%curr%...',
+          mainClass: 'mfp-img-mobile',
+           zoom: {
+            enabled: true,
+            duration: 300 // don't foget to change the duration also in CSS
+          },
+          gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+          },
+          image: {
+            tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+            titleSrc: function(item) {
+              return item.el.attr('title') + '';
+            }
+          }
+        });
+      });
+    </script>
+    </p>
+
+  </div>
+
+
+
+ <div class="example gc3">
+    <h3>Summary of the results</h3> 
+    <p>To download this figure in PDF version click on it.
+    <a href ="site-assets/download/results-nbrl-final.pdf" target="_blank">
+    <image src="site-assets/images-paper/results-nbrl-final.gif" width="100%">
+    </image></a>
+    </p>
+
+  </div>
+
+ <div class="example gc3">
+    <h3>Download the Script</h3> 
+    <p>To download the script printout of the experiment click on the figure below.
+    <a href ="site-assets/download/script.pdf" target="_blank">
+    <image src="site-assets/images-paper/script.png" width="100%">
+    </image></a>
+    </p>
+  </div>
+
+ <div class="example gc3">
+    <h3>Download the dataset</h3> 
+    <p>To download the dataset printout in PDF click on the figure below.
+    <a href ="site-assets/download/dataset.pdf" target="_blank">
+    <image src="site-assets/images-paper/datasets.png" width="100%">
+    </image></a>
+    </p>
+  </div>
+
+</div>
+
+
+
+
+<h2 id="authors">Authors</h2>
+<p> To contact the authors click on this <a href="">link</a>.</p>
+<div class="grid-c" style="padding:1em;">
+
+  <div class="example author">
+  <img src="site-assets/images/avatar_jagoda_walny.jpg" width="100px"><br/>
+  <a href="http://people.ucalgary.ca/~jkwalny/" target="_blank">Jagoda Walny</a><br/>
+
+Jagoda is a PhD candidate working with Dr. Sheelagh Carpendale in the Innovis Group (Interactions Lab, Department of Computer Science) at the University of Calgary. I am interested in how everyday visual thinking methods such as sketching can inform information visualizations. I use a qualitative approach to explore the characteristics of analog visual thinking tools.
+
+  </div>
+
+  <div class="example author">
+<img src="site-assets/images/avatar_samuel_huron-cut.jpeg" width="100px"><br/>
+  <a href="http://www.cybunk.com" target="_blank">Samuel Huron</a><br/>
+Samuel Huron is a post doctorate researcher in the Innovis Group (Interactions Lab, Department of Computer Science) at the University of Calgary. He graduated is Phd in 2014 from the university Paris-Saclay in
+collaboration with INRIA. Before, he was the lead designer of the Institute
+of research and Innovation of the Pompidou Center.
+  </div>
+ 
+  <div class="example author">
+<img src="site-assets/images/avatar_Sheelagh_Carpendale-cut.jpg" width="100px"><br/>
+  <a href="http://pages.cpsc.ucalgary.ca/~sheelagh/" target="_blank">Sheelagh Carpendale </a><br/>
+Sheelagh is a Professor at the University of Calgary where she holds a Canada Research Chair: Information Visualization and an NSERC/iCORE/SMART Industrial Research Chair: Interactive Technologies. She directs the Innovations in Visualization (InnoVis) research group and her research focuses on information visualization, collaborative visualization, and large interactive displays.
+  </div>
+</div>
+
+<!--
+http://innovis.cpsc.ucalgary.ca/supplemental/Data-Sketching/
+http://goo.gl/xQjgR3
+
+https://twitter.com/intent/tweet?text=Data%20Sketching%20-an%20exploratory%20study&amp;url=http%3A%2F%2Fgoo.gl%2FxQjgR3&amp;via=Innovis
+
+https://www.facebook.com/sharer/sharer.php?u=http://innovis.cpsc.ucalgary.ca/supplemental/Data-Sketching/-->
+
+<div class="share-buttons">
+  <h2>Please spread the word if you find this study interesting</h2>
+  <div id="buttons-row">
+    <a id="tweet" rel="nofollow" href="https://twitter.com/intent/tweet?text=Data%20Sketching%20-an%20exploratory%20study&amp;url=http%3A%2F%2Fgoo.gl%2FxQjgR3&amp;via=Innovis">Tweet!</a>
+    <a id="like" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=http://innovis.cpsc.ucalgary.ca/supplemental/Data-Sketching/">Like!</a> 
+  </div>
+</div>
+<script>
+(function(){
+  var openWindowPopup = function(e) {
+    if(!e) return;
+    e.preventDefault();
+    window.open(e.target.href, "intent", "scrollbars=yes,resizable=yes,toolbar=no,location=yes,width=550,height=420,left=" + (window.screen ? Math.round(screen.width / 2 - 275) : 50) + ",top=" + 100);
+  };
+  var ids = ['tweet', 'like', 'gplus'];
+  for(var i = 0; i < ids.length; i++) {
+    document.getElementById(ids[i]).onclick = openWindowPopup;
+  }
+})();
+</script>
+
+    <div id="footer">
+<!--
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">An Exploratory Study of Data Sketching for Visual Representation Extended materials</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://urltocomplete.com" property="cc:attributionName" rel="cc:attributionURL">J. Walny, S. Huron, S. Carpendale</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+-->
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">An Exploratory Study of Data Sketching for Visual Representation Extended materials</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://urltocomplete.com" property="cc:attributionName" rel="cc:attributionURL">J. Walny, S. Huron, S. Carpendale</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+<!-- http://creativecommons.org/choose/?lang=en -->
+    </div>
+
+  </div>
+  
+  
+
+  
+
+  
+  <!-- add analytics -->
+
+
+  
+
+
+  
+
+  
+  </body>
+</html>

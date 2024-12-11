@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <event startTimeInterval="42.440933" start="May 27 1948 23:06:48 GMT-0700" endTimeInterval="108.776588" end="May 27 1948 23:07:54 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Loading data" image="images/3819684.jpg">input dataset<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="54.873288" start="May 27 1948 23:07:00 GMT-0700" endTimeInterval="61.355866" end="May 27 1948 23:07:07 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Manipulation Error" image="images/4938596.jpg">New Annotation…<category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="138.857644" start="May 27 1948 23:08:24 GMT-0700" endTimeInterval="141.137688" end="May 27 1948 23:08:27 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual Mapping creation" color="#00ff00" image="images/12497188.jpg">create barchart<category name="Visual Mapping creation"></category>
+    </event>
+    <event startTimeInterval="138.857644" start="May 27 1948 23:08:24 GMT-0700" endTimeInterval="140.874088" end="May 27 1948 23:08:26 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping creation" color="#ff9e00" image="images/12497188.jpg">create bar chart panel<category name="Presentation mapping creation"></category>
+    </event>
+    <event startTimeInterval="149.273555" start="May 27 1948 23:08:35 GMT-0700" endTimeInterval="152.383444" end="May 27 1948 23:08:38 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping modification" image="images/13434620.jpg">moving<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="155.9632" start="May 27 1948 23:08:41 GMT-0700" endTimeInterval="161.746533" end="May 27 1948 23:08:47 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping modification" image="images/14036688.jpg">scaling<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="180.185244" start="May 27 1948 23:09:06 GMT-0700" endTimeInterval="270.213333" end="May 27 1948 23:10:36 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/16216672.jpg">change colour<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="260.173311" start="May 27 1948 23:10:26 GMT-0700" endTimeInterval="262.218433" end="May 27 1948 23:10:28 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Manipulation Error" color="#9f9300" image="images/23415598.jpg">colour bar change and revert<category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="0" start="May 27 1948 23:06:06 GMT-0700" endTimeInterval="45.834377" end="May 27 1948 23:06:51 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Help from the operator" image="images/0.jpg">explanation of the task<category name="Help from the operator"></category>
+    </event>
+    <event startTimeInterval="4.366677" start="May 27 1948 23:06:10 GMT-0700" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Ask for help" image="images/393001.jpg">New Annotation…<category name="Ask for help"></category>
+    </event>
+    <event startTimeInterval="10.633344" start="May 27 1948 23:06:16 GMT-0700" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Ask for help" image="images/957001.jpg">New Annotation…<category name="Ask for help"></category>
+    </event>
+    <event startTimeInterval="21.333344" start="May 27 1948 23:06:27 GMT-0700" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Ask for help" image="images/1920001.jpg">New Annotation…<category name="Ask for help"></category>
+    </event>
+    <event startTimeInterval="113.668466" start="May 27 1948 23:07:59 GMT-0700" endTimeInterval="137.294888" end="May 27 1948 23:08:23 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Help from the operator" image="images/10230162.jpg">New Annotation…<category name="Help from the operator"></category>
+    </event>
+    <event startTimeInterval="152.279122" start="May 27 1948 23:08:38 GMT-0700" title="" annotation-modificationDate="September 16 2015 11:13:46 GMT-0600" annotation-modificationUser="Samuel Huron" image="images/13705121.jpg">New Annotation…</event>
+    <event startTimeInterval="167.031344" start="May 27 1948 23:08:53 GMT-0700" endTimeInterval="182.463166" end="May 27 1948 23:09:08 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 1 2015 16:26:24 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Help from the operator" image="images/15032821.jpg">New Annotation…<category name="Help from the operator"></category>
+    </event>
+</data>

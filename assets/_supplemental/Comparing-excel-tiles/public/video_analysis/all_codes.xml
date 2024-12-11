@@ -1,0 +1,15 @@
+{
+	var:{
+		path:"Coding"
+	},
+	root:[
+		{participant:1,
+		 condition:'e',
+		 file:"P1 - Excel.annotation/annotations.xml"
+		},
+		{participant:2,
+		 condition:'e',
+		 file:"P2 - Excel.annotation/annotations.xml"
+		},
+	]
+}

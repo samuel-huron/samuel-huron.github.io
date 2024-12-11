@@ -1,0 +1,6 @@
+PWD /Users/SamuelHuron/WORK/INNOVIS/TIFFANY/ConstructiveVisReading2015/Paper/EuroVisPaper/figures
+INPUT /usr/local/texlive/2014/texmf.cnf
+INPUT /usr/local/texlive/2014/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/SamuelHuron/WORK/INNOVIS/TIFFANY/ConstructiveVisReading2015/Paper/EuroVisPaper/figures/task_times.tex
+OUTPUT /Users/SamuelHuron/WORK/INNOVIS/TIFFANY/ConstructiveVisReading2015/Paper/EuroVisPaper/figures/task_times.log

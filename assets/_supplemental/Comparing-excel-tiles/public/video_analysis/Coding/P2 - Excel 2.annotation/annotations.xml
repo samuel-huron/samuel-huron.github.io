@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <event startTimeInterval="1.840644" start="September 3 2015 13:43:30 GMT-0600" endTimeInterval="29.4" end="September 3 2015 13:43:58 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 13:40:45 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Loading data" image="images/165658.jpg">Typing in data<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="30.38046666666667" start="September 3 2015 13:43:59 GMT-0600" endTimeInterval="54.96247777777778" end="September 3 2015 13:44:23 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 13:43:22 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Visual Mapping creation" image="images/2734242.jpg">New Annotation…<category name="Visual Mapping creation"></category>
+    </event>
+    <event startTimeInterval="53.66667777777778" start="September 3 2015 13:44:22 GMT-0600" endTimeInterval="85.65437777777778" end="September 3 2015 13:44:54 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 13:42:57 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Presentation mapping modification" image="images/4830001.jpg">New Annotation…<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="85.83334444444445" start="September 3 2015 13:44:54 GMT-0600" endTimeInterval="211.3333444444444" end="September 3 2015 13:47:00 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 13:44:40 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Visual mapping modification" image="images/7725001.jpg">Changing the colour of bars.<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="212.6333444444444" start="September 3 2015 13:47:01 GMT-0600" endTimeInterval="226.6666777777778" end="September 3 2015 13:47:15 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 13:45:10 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Presentation mapping modification" image="images/19137001.jpg">Changing x-axis title, y-axis title.<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="226.6666777777778" start="September 3 2015 13:47:15 GMT-0600" endTimeInterval="355.1000111111111" end="September 3 2015 13:49:24 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 13:47:07 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Exploring the tool" image="images/20400001.jpg">New Annotation…<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="356.3986555555555" start="September 3 2015 13:49:25 GMT-0600" endTimeInterval="443.2714444444445" end="September 3 2015 13:50:52 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 13:48:20 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Loading data" image="images/32075879.jpg">Adding data labels.<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="448.8039555555555" start="September 3 2015 13:50:57 GMT-0600" endTimeInterval="453.3333444444444" end="September 3 2015 13:51:02 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 13:48:34 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Presentation mapping modification" image="images/40392356.jpg">New Annotation…<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="457.3000111111111" start="September 3 2015 13:51:06 GMT-0600" endTimeInterval="466.3000111111111" end="September 3 2015 13:51:15 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 17 2015 13:49:48 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Interuption" image="images/41157001.jpg">Tiffany asks them to resize.<category name="Interuption"></category>
+    </event>
+</data>

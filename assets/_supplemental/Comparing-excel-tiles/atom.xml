@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Comparing Bar Chart Authoring with Microsoft Excel and Tangible Tiles.</title>
+ <link href="/supplemental/Comparing-excel-tiles//atom.xml" rel="self"/>
+ <link href="/supplemental/Comparing-excel-tiles//"/>
+ <updated>2016-04-11T19:36:20+02:00</updated>
+ <id>/supplemental/Comparing-excel-tiles/</id>
+ <author>
+   <name>null</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Comparing Bar Chart Authoring with Microsoft Excel and Tangible Tiles.</title>
+   <link href="/supplemental/Comparing-excel-tiles//2015/12/12/introducing-paper/"/>
+   <updated>2015-12-12T00:00:00+01:00</updated>
+   <id>/supplemental/Comparing-excel-tiles//2015/12/12/introducing-paper</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/supplemental/Comparing-excel-tiles/public/img/two-conditions.png&quot; alt=&quot;Physical Setup&quot; title=&quot;Two conditions&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Providing tools that make visualization authoring accessible to visualization non-experts is a major research challenge. While currently the most common approach to generating a visualization is to use software that quickly and automatically produces visualizations based on templates, it has recently been suggested that constructing a visualization with tangible tiles may be a more accessible method, especially for people who do not have visualization expertise. However, there is still much to be learned about the differences between these two visualization authoring practices. To better understand how people author visualizations in these two conditions, we ran a qualitative study comparing the use of software to the use of tangible tiles, for the creation of bar charts. Close observation of authoring activities showed how each of the following varied according to tool used: 1) sequences of action 2) distribution of time spent on different aspects of InfoVis pipeline; 3) pipeline task separation; and 4) freedom to manipulate visual variables. From these observations, we discuss the implications of the variations in activity sequences, noting tool design considerations and pointing to future research questions.&lt;/p&gt;
+
+&lt;p&gt;On this website you will find additional material describing:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;01_study_setup/&quot;&gt;Study Setup&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;020_videos/&quot;&gt;Videos of participants&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;021_video-analysis/&quot;&gt;Videos analysis details&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;03_result/&quot;&gt;Results elements&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;05_discussion/&quot;&gt;Discussion elements&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;05_stateOftheart/&quot;&gt;Related work&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;about/&quot;&gt;About us informations&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Download the paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+
+</feed>

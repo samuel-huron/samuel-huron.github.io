@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <event startTimeInterval="4.200011" start="August 1 1938 02:12:33 GMT-0700" endTimeInterval="40.5794" end="August 1 1938 02:13:09 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 2 2015 16:21:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Loading data" image="images/378001.jpg">input data, value first,<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="21.033344" start="August 1 1938 02:12:50 GMT-0700" title="" annotation-modificationDate="September 16 2015 13:44:45 GMT-0600" annotation-modificationUser="Samuel Huron" image="images/1893001.jpg">New Annotation…</event>
+    <event startTimeInterval="21.033344" start="August 1 1938 02:12:50 GMT-0700" endTimeInterval="25.779711" end="August 1 1938 02:12:54 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 2 2015 16:21:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Manipulation Error" image="images/1893001.jpg">input error<category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="38.633344" start="August 1 1938 02:13:07 GMT-0700" title="" annotation-modificationDate="October 2 2015 16:21:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Manipulation Error" image="images/3477001.jpg">delete data<category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="49.033344" start="August 1 1938 02:13:18 GMT-0700" title="" annotation-modificationDate="October 2 2015 16:21:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Manipulation Error" image="images/4413001.jpg">delete data<category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="52.933344" start="August 1 1938 02:13:21 GMT-0700" endTimeInterval="76.464866" end="August 1 1938 02:13:45 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 2 2015 16:21:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Loading data" image="images/4764001.jpg">re load data<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="77.48475500000001" start="August 1 1938 02:13:46 GMT-0700" endTimeInterval="88.12557700000001" end="August 1 1938 02:13:57 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 2 2015 16:21:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Verifying the visualization" image="images/6973628.jpg">verify all<category name="Verifying the visualization"></category>
+    </event>
+    <event startTimeInterval="39.360577" start="August 1 1938 02:13:08 GMT-0700" endTimeInterval="52.890622" end="August 1 1938 02:13:21 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 2 2015 16:21:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Verifying the visualization" image="images/3542452.jpg">verify<category name="Verifying the visualization"></category>
+    </event>
+    <event startTimeInterval="52.933344" start="August 1 1938 02:13:21 GMT-0700" endTimeInterval="76.84399999999999" end="August 1 1938 02:13:45 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 2 2015 16:21:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Manipulation Error" image="images/4764001.jpg">Error in data loading<category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="88.90000000000001" start="August 1 1938 02:13:57 GMT-0700" endTimeInterval="89.833333" end="August 1 1938 02:13:58 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 2 2015 16:21:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Selecting data" image="images/8001000.jpg">selecting<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="90.13333299999999" start="August 1 1938 02:13:59 GMT-0700" endTimeInterval="97.7" end="August 1 1938 02:14:06 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 2 2015 16:21:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Exploring the tool" image="images/8112000.jpg">New Annotation…<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="99" start="August 1 1938 02:14:08 GMT-0700" endTimeInterval="99.8" end="August 1 1938 02:14:08 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 2 2015 16:21:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/8910000.jpg">New Annotation…<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="99" start="August 1 1938 02:14:08 GMT-0700" endTimeInterval="99.833344" end="August 1 1938 02:14:08 GMT-0700" isDuration="true" title="" annotation-modificationDate="October 2 2015 16:21:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping modification" image="images/8910000.jpg">create space for viz<category name="Presentation mapping modification"></category>
+    </event>
+</data>

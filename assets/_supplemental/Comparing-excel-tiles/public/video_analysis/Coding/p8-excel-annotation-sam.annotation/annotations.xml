@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <event startTimeInterval="0" start="September 11 1947 22:23:18 GMT-0600" endTimeInterval="11.993344" end="September 11 1947 22:23:29 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Exploring the tool" image="images/0.jpg">New Annotation…<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="13.6" start="September 11 1947 22:23:31 GMT-0600" title="" annotation-modificationDate="September 14 2015 17:13:58 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual Mapping creation" textColor="#00ff00" image="images/1224000.jpg">empty chart<category name="Visual Mapping creation"></category>
+    </event>
+    <event startTimeInterval="13.6" start="September 11 1947 22:23:31 GMT-0600" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping creation" textColor="#ff9e00" image="images/1224000.jpg">empty chart<category name="Presentation mapping creation"></category>
+    </event>
+    <event startTimeInterval="30.9204" start="September 11 1947 22:23:48 GMT-0600" title="Delete empty visualization" annotation-modificationDate="September 14 2015 17:14:07 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Manipulation Error" image="images/2782836.jpg">Delete empty visualization<category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="36.2" start="September 11 1947 22:23:54 GMT-0600" endTimeInterval="96.40000000000001" end="September 11 1947 22:24:54 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:14:50 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Loading data" image="images/3258000.jpg">Loading data<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="96.384666" start="September 11 1947 22:24:54 GMT-0600" endTimeInterval="98.63333299999999" end="September 11 1947 22:24:56 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Selecting data" color="#f5fffb" image="images/8674620.jpg">Selecting data<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="98.6285" start="September 11 1947 22:24:56 GMT-0600" endTimeInterval="106.623377" end="September 11 1947 22:25:04 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:14:52 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Exploring the tool" image="images/8876565.jpg">look at what type of chart<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="109.066677" start="September 11 1947 22:25:07 GMT-0600" title="" annotation-modificationDate="September 14 2015 17:13:18 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual Mapping creation" image="images/9816001.jpg">Create a new chart<category name="Visual Mapping creation"></category>
+    </event>
+    <event startTimeInterval="109.066677" start="September 11 1947 22:25:07 GMT-0600" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping creation" image="images/9816001.jpg">Create a new presentation<category name="Presentation mapping creation"></category>
+    </event>
+    <event startTimeInterval="146.353633" start="September 11 1947 22:25:44 GMT-0600" endTimeInterval="171.052666" end="September 11 1947 22:26:09 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:14:55 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Verifying the visualization" image="images/13171827.jpg">Check dataset<category name="Verifying the visualization"></category>
+    </event>
+    <event startTimeInterval="115.833344" start="September 11 1947 22:25:13 GMT-0600" endTimeInterval="149.411444" end="September 11 1947 22:25:47 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:15:18 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Interuption" image="images/10425001.jpg">Done, new instructions....<category name="Interuption"></category>
+    </event>
+    <event startTimeInterval="185.562222" start="September 11 1947 22:26:23 GMT-0600" endTimeInterval="187.266666" end="September 11 1947 22:26:25 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:15:22 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping modification" color="#ff2600" image="images/16700600.jpg">colour change<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="171.045333" start="September 11 1947 22:26:09 GMT-0600" endTimeInterval="185.635555" end="September 11 1947 22:26:23 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Exploring the tool" image="images/15394080.jpg">colour<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="191.833333" start="September 11 1947 22:26:29 GMT-0600" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping modification" image="images/17265000.jpg">reverse colour<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="185.562222" start="September 11 1947 22:26:23 GMT-0600" title="" annotation-modificationDate="September 14 2015 17:16:01 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Manipulation Error" image="images/16700600.jpg">colour all bars<category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="192.443544" start="September 11 1947 22:26:30 GMT-0600" endTimeInterval="199.932455" end="September 11 1947 22:26:37 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Exploring the tool" image="images/17319919.jpg">New Annotation…<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="199.932455" start="September 11 1947 22:26:37 GMT-0600" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/17993921.jpg">colour<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="204.614988" start="September 11 1947 22:26:42 GMT-0600" endTimeInterval="213.347322" end="September 11 1947 22:26:51 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Exploring the tool" image="images/18415349.jpg">colour<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="214.533333" start="September 11 1947 22:26:52 GMT-0600" title="" annotation-modificationDate="September 14 2015 17:18:05 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/19308000.jpg">colour<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="223.266666" start="September 11 1947 22:27:01 GMT-0600" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/20094000.jpg">colour<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="219.2" start="September 11 1947 22:26:57 GMT-0600" endTimeInterval="225.135344" end="September 11 1947 22:27:03 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:16:29 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/19728000.jpg">colour orange<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="227.869444" start="September 11 1947 22:27:05 GMT-0600" endTimeInterval="231.218444" end="September 11 1947 22:27:09 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:16:37 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/20508250.jpg">colour<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="234.894277" start="September 11 1947 22:27:12 GMT-0600" endTimeInterval="239.562144" end="September 11 1947 22:27:17 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/21140485.jpg">Colour<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="242.231277" start="September 11 1947 22:27:20 GMT-0600" endTimeInterval="244.227911" end="September 11 1947 22:27:22 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/21800815.jpg">New Annotation…<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="246.133344" start="September 11 1947 22:27:24 GMT-0600" endTimeInterval="277.830033" end="September 11 1947 22:27:55 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Interuption" image="images/22152001.jpg">Discussion with operator<category name="Interuption"></category>
+    </event>
+    <event startTimeInterval="278.465888" start="September 11 1947 22:27:56 GMT-0600" endTimeInterval="336.886466" end="September 11 1947 22:28:54 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 14 2015 17:12:51 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Exploring the tool" image="images/25061930.jpg">New Annotation…<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="16.32704444444444" start="September 11 1947 22:23:34 GMT-0600" title="" annotation-modificationDate="September 14 2015 17:14:46 GMT-0600" annotation-modificationUser="Samuel Huron" image="images/1469434.jpg">New Annotation…</event>
+</data>

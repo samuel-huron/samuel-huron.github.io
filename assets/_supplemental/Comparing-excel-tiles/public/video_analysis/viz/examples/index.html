@@ -1,0 +1,239 @@
+<!doctype html>
+<html>
+<head>
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="../src/d3-timeline.js"></script>
+
+  <style type="text/css">
+  *{
+    font-family: sans-serif;
+  }
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: black;
+      shape-rendering: crispEdges;
+    }
+
+   .listmenu{
+    float:left; 
+   }
+
+    .axis text {
+      font-size: 10px;
+    }
+
+    .timeline-label {
+      font-family: sans-serif;
+      font-size: 12px;
+    }
+
+    #timeline2 .axis {
+      transform: translate(0px,40px);
+      -ms-transform: translate(0px,40px); /* IE 9 */
+      -webkit-transform: translate(0px,40px); /* Safari and Chrome */
+      -o-transform: translate(0px,40px); /* Opera */
+      -moz-transform: translate(0px,40px); /* Firefox */
+    }
+    
+    .coloredDiv {
+      height:20px; width:20px; float:left;
+    }
+    #menu{
+      font-size: 10px;
+    }
+  </style>
+
+  <script type="text/javascript">
+
+    var width      = 800;
+    var itemHeight = 10;
+    var svg;
+    var fullDataSet; // a global
+
+    var colors = ['#393b79',
+                  '#5254a3',
+
+                  'Red',
+                  'Red',
+
+                  'ForestGreen',
+                  'ForestGreen',
+
+                  'DeepPink',
+                  '#e7ba52',
+                  'brown',
+
+                  'gray',
+                  'DimGray',
+                  'Sienna',
+                  'black',
+                  'orange'];
+
+    var categories =['Loading data',
+                     'Transform data',
+
+                     'Visual Mapping creation',
+                     'Visual mapping modification',
+
+                     'Presentation mapping creation',
+                     'Presentation mapping modification',
+                     
+                     'Exploring the tool',
+                     'Verifying the visualization',
+                     'Ask for help',
+
+                     'Help from the operator',
+                     'Interuption',
+                     'Selecting data',
+                     'Manipulation Error',
+                     'undefined'];
+
+
+    function visualizeit(data) {
+
+        // https://github.com/mbostock/d3/wiki/Ordinal-Scales
+
+        //var colorScale = d3.scale.category20b()
+        var colorScale = d3.scale.ordinal().range(colors)
+        .domain(categories);
+
+        var chart = d3.timeline()
+          .width(width)
+          .stack()
+          .tickFormat( //
+            {format: d3.time.format("%M"),
+            tickTime: d3.time.minutes,
+            tickInterval: 1,
+            tickSize: 30})
+          .showTimeAxisTick()
+          .margin({left:80, right:30, top:10, bottom:0})
+          .colors( colorScale )
+          .itemHeight(itemHeight)
+          .colorProperty('category')
+          .hover(function (d, i, datum) {
+          // d is the current rendering object
+          // i is the index during d3 rendering
+          // datum is the id object
+            var div = $('#hoverRes');
+            var colors = chart.colors();
+            div.find('.coloredDiv').css('background-color', colors(i))
+            div.find('#name').text(datum.label+" "+datum.condition);
+          })
+          .click(function (d, i, datum) {
+            alert(d.category);
+          })
+          .scroll(function (x, scale) {
+            $("#scrolled_date").text(scale.invert(x) + " to " + scale.invert(x+width));
+          });
+
+        svg = d3.select("#timelineperso").append("svg").attr("width", width)
+          .datum(data).call(chart);
+
+          svg.selectAll("rect").attr("fill-opacity","0.8")
+          svg.selectAll("rect").attr("fill-opacity",function(d){
+            //console.log(d)
+            //if(d.category!="Visual mapping modification"){
+               return 0.6
+            //}
+          })
+
+      }
+
+      function isItIn (myArray,what){
+        for (var i = myArray.length - 1; i >= 0; i--) {
+          myArray[i]
+        };
+      }
+
+      function getUniqueValues(myArray,properties){
+        var output=[]
+        for(var i = 0, l = myArray.length; i < l; ++i){
+          //console.log()
+          for(var j = 0, ll = myArray[i].times.length; j < ll; ++j){
+            //console.log(myArray[i].times[j][properties])
+            if(typeof(output[myArray[i].times[j][properties]])!="undefined"){
+              output[myArray[i].times[j][properties]]+=1
+            }else{
+              output[myArray[i].times[j][properties]]=1
+            }
+          }
+        }
+        return output;
+      }
+
+      function hightlight(categories){
+         svg.selectAll("rect").attr("fill-opacity",function(d){
+            if(d.category!=categories){
+              return 0.2
+            } else{
+              return 0.9
+            }
+          })
+        
+      }
+      function hNormal(){
+         svg.selectAll("rect").attr("fill-opacity",0.6)
+      }
+
+      function menu(target,categories){
+
+        var render = ""
+        var j=0
+        for(var i in categories){
+          render += "<div class='listmenu' onmouseover=\"hightlight('"+i+"')\" onmouseout='hNormal()'> "+i+" ("+categories[i]+")"+" &#8226; &nbsp; </div> " 
+
+        }
+        $("#menu").html(render)
+      }
+
+//    visualizeit(fullDataSet);
+
+
+
+    window.onload = function() {
+    
+    d3.json("../../output/main.json", function(error, json) {
+      if (error) return console.warn(error);
+      fullDataSet = json;
+      
+      // order the data
+      // by condition and then by participant
+      fullDataSet.sort(function (a, b) {
+            if (a.c > b.c)
+              return 1;
+            else if (a.c < b.c)
+              return -1;
+            else if (a.label > b.label)
+              return 1;
+            else if (a.label < b.label)
+              return -1;
+
+            // a doit être égale à b
+            return 0;
+        })
+
+      categoriesMenu = getUniqueValues(fullDataSet,"category")
+      //categories = Object.keys(categoriesMenu)
+
+      categoriesMenu.sort()
+
+      menu("menu",categoriesMenu)
+      console.log("Categories:",categoriesMenu)
+
+      console.log("json loaded")
+      visualizeit(fullDataSet)
+    });
+
+    }
+  </script>
+</head>
+<body>
+  <div>
+    <div id="menu"></div>
+    <div id="timelineperso"></div>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <event startTimeInterval="27.890456" start="September 17 2015 16:24:11 GMT-0600" endTimeInterval="137.054303" end="September 17 2015 16:26:01 GMT-0600" isDuration="true" title="" annotation-modificationDate="October 2 2015 15:54:37 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Loading data" image="images/27890456.jpg">Loading data<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="137.054303" start="September 17 2015 16:26:01 GMT-0600" endTimeInterval="142.911175" end="September 17 2015 16:26:06 GMT-0600" isDuration="true" title="" annotation-modificationDate="October 2 2015 15:54:29 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Selecting data" image="images/137054303.jpg">New Annotation…<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="162.55452" start="September 17 2015 16:26:26 GMT-0600" title="" annotation-modificationDate="October 2 2015 15:54:29 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping modification">New Annotation…<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="162.55452" start="September 17 2015 16:26:26 GMT-0600" title="" annotation-modificationDate="October 2 2015 15:54:29 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" textColor="#00b519" image="images/162554520.jpg">New Annotation…<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="168.323628" start="September 17 2015 16:26:32 GMT-0600" endTimeInterval="176.028664" end="September 17 2015 16:26:40 GMT-0600" isDuration="true" title="" annotation-modificationDate="October 2 2015 15:54:29 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping modification">moving<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="176.188708" start="September 17 2015 16:26:40 GMT-0600" endTimeInterval="221.786574" end="September 17 2015 16:27:25 GMT-0600" isDuration="true" title="" annotation-modificationDate="October 2 2015 15:54:29 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Exploring the tool" image="images/176188708.jpg">New Annotation…<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="235.477542" start="September 17 2015 16:27:39 GMT-0600" endTimeInterval="248.284438" end="September 17 2015 16:27:52 GMT-0600" isDuration="true" title="" annotation-modificationDate="October 2 2015 15:54:29 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/235477542.jpg">New Annotation…<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="241.619638" start="September 17 2015 16:27:45 GMT-0600" title="" annotation-modificationDate="October 2 2015 15:54:29 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Manipulation Error">color<category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="248.168276" start="September 17 2015 16:27:52 GMT-0600" endTimeInterval="339.926714" end="September 17 2015 16:29:23 GMT-0600" isDuration="true" title="" annotation-modificationDate="October 2 2015 15:54:29 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/248168276.jpg">change color<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="341.16572" start="September 17 2015 16:29:25 GMT-0600" endTimeInterval="359.855318" end="September 17 2015 16:29:43 GMT-0600" isDuration="true" title="" annotation-modificationDate="October 2 2015 15:54:29 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Verifying the visualization" image="images/341165720.jpg">verify dataset<category name="Verifying the visualization"></category>
+    </event>
+    <event startTimeInterval="361.575715" start="September 17 2015 16:29:45 GMT-0600" endTimeInterval="464.211554" end="September 17 2015 16:31:28 GMT-0600" isDuration="true" title="" annotation-modificationDate="October 2 2015 15:54:29 GMT-0600" annotation-modificationUser="Samuel Huron" annotation-category="Interuption">New Annotation…<category name="Interuption"></category>
+    </event>
+</data>

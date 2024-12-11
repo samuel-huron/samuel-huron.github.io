@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Video analysis &middot; Comparing Bar Chart Authoring with Microsoft Excel and Tangible Tiles.
+    
+  </title>
+
+  <!-- FONT -->
+  <link href='https://fonts.googleapis.com/css?family=Wire+One' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,100' rel='stylesheet' type='text/css'>
+  <!-- CSS -->
+  <link rel="stylesheet" href="/supplemental/Comparing-excel-tiles/public/css/poole.css">
+  <link rel="stylesheet" href="/supplemental/Comparing-excel-tiles/public/css/syntax.css">
+  <link rel="stylesheet" href="/supplemental/Comparing-excel-tiles/public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/supplemental/Comparing-excel-tiles/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/supplemental/Comparing-excel-tiles/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/supplemental/Comparing-excel-tiles//atom.xml">
+
+
+</head>
+
+
+  <body class="theme-base-0f">
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/supplemental/Comparing-excel-tiles/index.html">
+          Comparing Bar Chart Authoring with Microsoft Excel and Tangible Tiles.
+        </a>
+      </h1>
+      <p class="lead">Supplementary Material</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/supplemental/Comparing-excel-tiles/index.html">Home</a>
+
+      
+
+      
+      
+        
+          
+            <a class="sidebar-nav-item" href="/supplemental/Comparing-excel-tiles//01_study_setup/">Study Setup</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/supplemental/Comparing-excel-tiles//020_videos/">Videos</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item active" href="/supplemental/Comparing-excel-tiles//021_video-analysis/">Video analysis</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/supplemental/Comparing-excel-tiles//03_result/">Results</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/supplemental/Comparing-excel-tiles//05_discussion/">Discussion</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/supplemental/Comparing-excel-tiles//05_stateOftheart/">Related work</a>
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/supplemental/Comparing-excel-tiles//about/">About</a>
+          
+        
+      
+        
+      
+        
+          
+        
+      
+
+ <!--
+      <a class="sidebar-nav-item" href="https://github.com/poole/hyde/archive/v2.1.0.zip">Download</a>
+      <a class="sidebar-nav-item" href="https://github.com/poole/hyde">GitHub project</a>
+     <span class="sidebar-nav-item">Currently v2.1.0</span>-->
+      <a class="sidebar-nav-item" href="#" onClick="alert('Available after acceptance')">Download paper</a>
+    </nav>
+    <br/>
+    <p class="lead">CC BY 4.0 - &copy;  2016.<br/><a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Free to share and adapt.</a></p>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Video analysis</h1>
+  <p>To analyze the video, we used a qualitative approach based on open coding and axial coding, as described by <a href="http://www.amazon.com/Qualitative-Inquiry-Research-Design-Approaches/dp/1412995302" target="_blank">Creswell et al.</a>. The coding of the video was performed in three passes, using an iterative process and three coders. The first pass involved open coding, allowing us to identify several <a href="interactive visualizations of the annotations">categories of interest</a>. For the second pass, we decided on common codes to compare activities. We used terms from <a href="http://www.aviz.fr/beyond" target="_blank">Jansen et al. InfoVis pipeline</a> to relate our coding to previous thinking about InfoVis authoring.</p>
+
+<p>In this page you can access :</p>
+
+<ul>
+  <li>the <a href="#annotation-dataset">annotation raw dataset</a></li>
+  <li>the <a href="#data-transformation">script to transform the data in json</a></li>
+  <li>the <a href="#annotation-visualization">interactive visualizations of the annotations </a></li>
+  <li>the <a href="#small-multiples">small multiple visualizations of the annotations </a></li>
+</ul>
+
+<h2 id="annotation-dataset">Annotation dataset</h2>
+
+<p>We used chronoviz to annotate the video. The annotated data is available for download in <a href="#" onclick="alert('Available after acceptation!')">JSON</a> and <a href="#" onclick="alert('Available after acceptation!')">XML</a> <a href="http://chronoviz.com/" target="_blank"> chronoviz </a> format.</p>
+
+<h2 id="data-transformation">Data transformation</h2>
+
+<p>We transformed the chronoviz annotation files into Json files for visualizing the data with d3.js. The script to perform this transformation is available <a href="#" onclick="alert('Available after acceptation!')">here</a>.</p>
+
+<h2 id="annotation-visualization">Annotation Visualization</h2>
+
+<p>To better understand the annotation data, we created an interactive visualization of the annotations. Below you can see annotations for each participant. Roll over a category label to highlight the segments from that category. <a href="/supplemental/Comparing-excel-tiles/public/video_analysis/viz/examples/" target="_blank"> To open this visualization into an independant window click here </a>.</p>
+<iframe width="800px" height="800px" class="render-viewer" src="/supplemental/Comparing-excel-tiles/public/video_analysis/viz/examples/" frameborder="0">Viewer requires iframe.</iframe>
+
+<h2 id="small-multiples">Small Multiples</h2>
+
+<p>To better understand the differences in actions between conditions, we created a small multiples version of the previous visualization. <a href="/supplemental/Comparing-excel-tiles/public/video_analysis/viz/examples/smallMultiples.html" target="_blank">To open this visualization in a separate window, click here</a>.</p>
+<iframe width="800px" height="1500px" class="render-viewer" src="/supplemental/Comparing-excel-tiles/public/video_analysis/viz/examples/smallMultiples.html" frameborder="0">Viewer requires iframe.</iframe>
+
+</div>
+
+    </div>
+
+  </body>
+</html>

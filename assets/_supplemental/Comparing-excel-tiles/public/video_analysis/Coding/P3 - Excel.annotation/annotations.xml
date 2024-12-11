@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <event startTimeInterval="1.066666" start="September 3 2015 13:43:33 GMT-0600" endTimeInterval="29.666666" end="September 3 2015 13:44:01 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Loading data" image="images/96000.jpg">Typing in data.<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="29.982044" start="September 3 2015 13:44:01 GMT-0600" endTimeInterval="32.366677" end="September 3 2015 13:44:04 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Selecting data" image="images/2698384.jpg">New Annotation…<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="32.375344" start="September 3 2015 13:44:04 GMT-0600" endTimeInterval="45.900011" end="September 3 2015 13:44:17 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Exploring the tool" image="images/2913781.jpg">New Annotation…<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="45.417022" start="September 3 2015 13:44:17 GMT-0600" endTimeInterval="49.966677" end="September 3 2015 13:44:21 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Visual Mapping creation" image="images/4087532.jpg">New Annotation…<category name="Visual Mapping creation"></category>
+    </event>
+    <event startTimeInterval="55.800011" start="September 3 2015 13:44:27 GMT-0600" endTimeInterval="69.226455" end="September 3 2015 13:44:41 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Interuption" image="images/5022001.jpg">Tiffany instructs him to colour bars.<category name="Interuption"></category>
+    </event>
+    <event startTimeInterval="69.822722" start="September 3 2015 13:44:41 GMT-0600" endTimeInterval="80.800011" end="September 3 2015 13:44:52 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Exploring the tool" image="images/6284045.jpg">Trying to select one bar.<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="79.733344" start="September 3 2015 13:44:51 GMT-0600" endTimeInterval="91.800011" end="September 3 2015 13:45:03 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Interuption" image="images/7176001.jpg">New Annotation…<category name="Interuption"></category>
+    </event>
+    <event startTimeInterval="115.633344" start="September 3 2015 13:45:27 GMT-0600" endTimeInterval="161.105511" end="September 3 2015 13:46:13 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Visual mapping modification" image="images/10407001.jpg">New Annotation…<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="92.281811" start="September 3 2015 13:45:04 GMT-0600" endTimeInterval="115.778377" end="September 3 2015 13:45:27 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Exploring the tool" image="images/8305363.jpg">New Annotation…<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="199.520366" start="September 3 2015 13:46:51 GMT-0600" endTimeInterval="224.697311" end="September 3 2015 13:47:16 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Verifying the visualization" image="images/17956833.jpg">New Annotation…<category name="Verifying the visualization"></category>
+    </event>
+    <event startTimeInterval="224.879133" start="September 3 2015 13:47:16 GMT-0600" endTimeInterval="236.966677" end="September 3 2015 13:47:28 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Presentation mapping modification" image="images/20239122.jpg">Changes the border colour.<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="225.380022" start="September 3 2015 13:47:17 GMT-0600" endTimeInterval="236.430488" end="September 3 2015 13:47:28 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Exploring the tool" image="images/20284202.jpg">New Annotation…<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="237.330722" start="September 3 2015 13:47:29 GMT-0600" endTimeInterval="292.464311" end="September 3 2015 13:48:24 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 28 2015 12:45:32 GMT-0600" annotation-modificationUser="Jennifer Payne" annotation-category="Visual mapping modification" image="images/21359765.jpg">New Annotation…<category name="Visual mapping modification"></category>
+    </event>
+</data>

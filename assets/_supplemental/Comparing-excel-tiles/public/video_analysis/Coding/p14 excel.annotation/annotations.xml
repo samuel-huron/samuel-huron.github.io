@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <event startTimeInterval="0" start="August 28 2015 16:11:03 GMT-0600" endTimeInterval="5.400011" end="August 28 2015 16:11:09 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Ask for help" image="images/0.jpg">"How do I actually make this...do you have the bar here?"<category name="Ask for help"></category>
+    </event>
+    <event startTimeInterval="6.549311" start="August 28 2015 16:11:10 GMT-0600" endTimeInterval="26.000011" end="August 28 2015 16:11:29 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Help from the operator" image="images/589438.jpg">Explain how to enter, where to display chart<category name="Help from the operator"></category>
+    </event>
+    <event startTimeInterval="29.500011" start="August 28 2015 16:11:33 GMT-0600" endTimeInterval="121.233344" end="August 28 2015 16:13:04 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Loading data" image="images/2655001.jpg">enter planets, values - go down cells with mouse<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="121.266677" start="August 28 2015 16:13:05 GMT-0600" endTimeInterval="129.266677" end="August 28 2015 16:13:13 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Selecting data" image="images/10914001.jpg">select<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="152.566677" start="August 28 2015 16:13:36 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual Mapping creation" image="images/13731001.jpg">bar chart<category name="Visual Mapping creation"></category>
+    </event>
+    <event startTimeInterval="152.566677" start="August 28 2015 16:13:36 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Presentation mapping creation" image="images/13731001.jpg">New Annotation…<category name="Presentation mapping creation"></category>
+    </event>
+    <event startTimeInterval="165.633344" start="August 28 2015 16:13:49 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Selecting data" textColor="#f5fffb" image="images/14907001.jpg">select headers<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="168.234011" start="August 28 2015 16:13:51 GMT-0600" endTimeInterval="174.500011" end="August 28 2015 16:13:58 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Exploring the tool" image="images/15141061.jpg">mouse around ribbon<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="177.033344" start="August 28 2015 16:14:00 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Transform data" image="images/15933001.jpg">color in cell font to purple<category name="Transform data"></category>
+    </event>
+    <event startTimeInterval="177.033344" start="August 28 2015 16:14:00 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Manipulation Error" image="images/15933001.jpg">New Annotation…<category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="181.366677" start="August 28 2015 16:14:05 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Selecting data" image="images/16323001.jpg">select next rows<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="185.427577" start="August 28 2015 16:14:09 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Transform data" image="images/16688482.jpg">recolor fonts in cells purple<category name="Transform data"></category>
+    </event>
+    <event startTimeInterval="185.427577" start="August 28 2015 16:14:09 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Manipulation Error" image="images/16688482.jpg">recolor fonts in cells purple<category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="189.928622" start="August 28 2015 16:14:13 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Selecting data" image="images/17093576.jpg">select cells that belong in purp<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="195.233344" start="August 28 2015 16:14:18 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Transform data" image="images/17571001.jpg">recolor fonts in orange purple<category name="Transform data"></category>
+    </event>
+    <event startTimeInterval="195.233344" start="August 28 2015 16:14:18 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Manipulation Error" image="images/17571001.jpg"><category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="204.400011" start="August 28 2015 16:14:28 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Selecting data" image="images/18396001.jpg">select next cells to color<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="208.900011" start="August 28 2015 16:14:32 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Transform data" image="images/18801001.jpg">recolor fonts in cells green<category name="Transform data"></category>
+    </event>
+    <event startTimeInterval="208.900011" start="August 28 2015 16:14:32 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Manipulation Error" image="images/18801001.jpg"><category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="213.260566" start="August 28 2015 16:14:36 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Selecting data" image="images/19193451.jpg">select all<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="216.800011" start="August 28 2015 16:14:40 GMT-0600" endTimeInterval="221.900011" end="August 28 2015 16:14:45 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Exploring the tool" image="images/19512001.jpg">ribbon &gt; chart<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="221.900011" start="August 28 2015 16:14:45 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual Mapping creation" image="images/19971001.jpg">new chart<category name="Visual Mapping creation"></category>
+    </event>
+    <event startTimeInterval="221.900011" start="August 28 2015 16:14:45 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Presentation mapping creation" image="images/19971001.jpg">new chart<category name="Presentation mapping creation"></category>
+    </event>
+    <event startTimeInterval="234.600011" start="August 28 2015 16:14:58 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual mapping modification" image="images/21114001.jpg">delete first<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="234.600011" start="August 28 2015 16:14:58 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:29:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Presentation mapping modification" image="images/21114001.jpg">New Annotation…<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="246.3666777777778" start="August 28 2015 16:15:10 GMT-0600" endTimeInterval="273.4333444444445" end="August 28 2015 16:15:37 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:33:43 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Exploring the tool" image="images/22173001.jpg">explore fills<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="250.5333444444445" start="August 28 2015 16:15:14 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:32:03 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Presentation mapping modification" image="images/22548001.jpg">fill background<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="254.7666777777778" start="August 28 2015 16:15:18 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:32:20 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Presentation mapping modification" image="images/22929001.jpg">change fill background<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="260.8000111111111" start="August 28 2015 16:15:24 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:32:35 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Presentation mapping modification" image="images/23472001.jpg">change fill background<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="268.2333444444445" start="August 28 2015 16:15:31 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:33:07 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Presentation mapping modification" image="images/24141001.jpg">no fill<category name="Presentation mapping modification"></category>
+    </event>
+    <event startTimeInterval="277.6333444444444" start="August 28 2015 16:15:41 GMT-0600" endTimeInterval="284.6000111111111" end="August 28 2015 16:15:48 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:35:14 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Manipulation Error" image="images/24987001.jpg">no change<category name="Manipulation Error"></category>
+    </event>
+    <event startTimeInterval="284.6000111111111" start="August 28 2015 16:15:48 GMT-0600" endTimeInterval="290.7666777777778" end="August 28 2015 16:15:54 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:35:52 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual mapping modification" image="images/25614001.jpg">change all bars black<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="292.4333444444445" start="August 28 2015 16:15:56 GMT-0600" title="" annotation-modificationDate="September 20 2015 22:36:41 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Exploring the tool" image="images/26319001.jpg">open popup menu<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="295.3666777777778" start="August 28 2015 16:15:59 GMT-0600" endTimeInterval="303.0666777777778" end="August 28 2015 16:16:06 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:37:07 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual mapping modification" image="images/26583001.jpg">change bar green<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="307.2000111111111" start="August 28 2015 16:16:10 GMT-0600" endTimeInterval="312.4333444444445" end="August 28 2015 16:16:16 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:37:31 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual mapping modification" image="images/27648001.jpg">green<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="321.2333444444445" start="August 28 2015 16:16:24 GMT-0600" endTimeInterval="326.6000111111111" end="August 28 2015 16:16:30 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:37:55 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual mapping modification" image="images/28911001.jpg">change orange<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="329.6666777777777" start="August 28 2015 16:16:33 GMT-0600" endTimeInterval="335.8333444444444" end="August 28 2015 16:16:39 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:38:19 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual mapping modification" image="images/29670001.jpg">change orange<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="345.4666777777778" start="August 28 2015 16:16:49 GMT-0600" endTimeInterval="350.8666777777778" end="August 28 2015 16:16:54 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:39:00 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual mapping modification" image="images/31092001.jpg"> purple<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="351.7666777777778" start="August 28 2015 16:16:55 GMT-0600" endTimeInterval="364.6666777777777" end="August 28 2015 16:17:08 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:39:32 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual mapping modification" image="images/31659001.jpg">change purple<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="366.0000111111111" start="August 28 2015 16:17:09 GMT-0600" endTimeInterval="371.3666777777778" end="August 28 2015 16:17:15 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:40:30 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual mapping modification" image="images/32940001.jpg">change black red<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="375.6000111111111" start="August 28 2015 16:17:19 GMT-0600" endTimeInterval="380.7666777777778" end="August 28 2015 16:17:24 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:40:23 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual mapping modification" image="images/33804001.jpg">change black &gt; mauve<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="387.2333444444445" start="August 28 2015 16:17:30 GMT-0600" endTimeInterval="390.8666777777778" end="August 28 2015 16:17:34 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:41:30 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual mapping modification" image="images/34851001.jpg">change bar mauve<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="391.8000111111111" start="August 28 2015 16:17:35 GMT-0600" endTimeInterval="395.4666777777778" end="August 28 2015 16:17:39 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:41:50 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Visual mapping modification" image="images/35262001.jpg">change bar mauve<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="402.8000111111111" start="August 28 2015 16:17:46 GMT-0600" endTimeInterval="451.3877666666667" end="August 28 2015 16:18:35 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:42:38 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Interuption" image="images/36252001.jpg">ask to verify<category name="Interuption"></category>
+    </event>
+    <event startTimeInterval="403.7666777777778" start="August 28 2015 16:17:47 GMT-0600" endTimeInterval="418.3333444444444" end="August 28 2015 16:18:02 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:43:31 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Interuption" image="images/36339001.jpg">ask to verify<category name="Interuption"></category>
+    </event>
+    <event startTimeInterval="418.3333444444444" start="August 28 2015 16:18:02 GMT-0600" endTimeInterval="443.2666777777778" end="August 28 2015 16:18:27 GMT-0600" isDuration="true" title="" annotation-modificationDate="September 20 2015 22:43:51 GMT-0600" annotation-modificationUser="Tiffany" annotation-category="Verifying the visualization" image="images/37650001.jpg">New Annotation…<category name="Verifying the visualization"></category>
+    </event>
+</data>

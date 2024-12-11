@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <event startTimeInterval="7.981244" start="September 3 2015 13:43:17 GMT-0600" endTimeInterval="77.81057800000001" end="September 3 2015 13:44:27 GMT-0600" isDuration="true" title="" annotation-modificationDate="November 8 2015 10:04:20 GMT-0700" annotation-modificationUser="Samuel Huron" annotation-category="Loading data" image="images/7981244.jpg">Entering the planet names and values.<category name="Loading data"></category>
+    </event>
+    <event startTimeInterval="77.9306" start="September 3 2015 13:44:27 GMT-0600" endTimeInterval="146.449712" end="September 3 2015 13:45:36 GMT-0600" isDuration="true" title="" annotation-modificationDate="November 8 2015 10:04:10 GMT-0700" annotation-modificationUser="Samuel Huron" annotation-category="Exploring the tool" image="images/7013754.jpg">Exploring the menus.<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="380.006011" start="September 3 2015 13:49:30 GMT-0600" endTimeInterval="403.330611" end="September 3 2015 13:49:53 GMT-0600" isDuration="true" title="" annotation-modificationDate="November 8 2015 10:04:10 GMT-0700" annotation-modificationUser="Samuel Huron" annotation-category="Verifying the visualization" image="images/34200541.jpg">Verifying.<category name="Verifying the visualization"></category>
+    </event>
+    <event startTimeInterval="372.298988" start="September 3 2015 13:49:22 GMT-0600" endTimeInterval="379.769577" end="September 3 2015 13:49:29 GMT-0600" isDuration="true" title="" annotation-modificationDate="November 8 2015 10:04:10 GMT-0700" annotation-modificationUser="Samuel Huron" annotation-category="Interuption" image="images/33506909.jpg">Tiffany asks them to verify.<category name="Interuption"></category>
+    </event>
+    <event startTimeInterval="150.147488" start="September 3 2015 13:45:40 GMT-0600" endTimeInterval="205.633344" end="September 3 2015 13:46:35 GMT-0600" isDuration="true" title="" annotation-modificationDate="November 8 2015 10:04:10 GMT-0700" annotation-modificationUser="Samuel Huron" annotation-category="Ask for help" color="#7c2d15" image="images/13513274.jpg">Asking for help, demonstrating problem.<category name="Ask for help"></category>
+    </event>
+    <event startTimeInterval="150.147488" start="September 3 2015 13:45:40 GMT-0600" endTimeInterval="279.237022" end="September 3 2015 13:47:49 GMT-0600" isDuration="true" title="" annotation-modificationDate="November 8 2015 10:04:10 GMT-0700" annotation-modificationUser="Samuel Huron" annotation-category="Help from the operator" image="images/13513274.jpg">Getting help, including Tiffany's response.<category name="Help from the operator"></category>
+    </event>
+    <event startTimeInterval="122.381677" start="September 3 2015 13:45:12 GMT-0600" endTimeInterval="124.200011" end="September 3 2015 13:45:14 GMT-0600" isDuration="true" title="" annotation-modificationDate="November 8 2015 10:04:10 GMT-0700" annotation-modificationUser="Samuel Huron" annotation-category="Selecting data" image="images/11014351.jpg">New Annotation…<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="131.316386" start="September 3 2015 13:45:21 GMT-0600" endTimeInterval="134.000011" end="September 3 2015 13:45:24 GMT-0600" isDuration="true" title="" annotation-modificationDate="November 8 2015 10:04:10 GMT-0700" annotation-modificationUser="Samuel Huron" annotation-category="Selecting data" image="images/11818475.jpg">New Annotation…<category name="Selecting data"></category>
+    </event>
+    <event startTimeInterval="289.925711" start="September 3 2015 13:47:59 GMT-0600" endTimeInterval="369.602633" end="September 3 2015 13:49:19 GMT-0600" isDuration="true" title="" annotation-modificationDate="November 8 2015 10:04:10 GMT-0700" annotation-modificationUser="Samuel Huron" annotation-category="Visual mapping modification" image="images/26093314.jpg">New Annotation…<category name="Visual mapping modification"></category>
+    </event>
+    <event startTimeInterval="96.075422" start="September 3 2015 13:44:46 GMT-0600" endTimeInterval="146.442944" end="September 3 2015 13:45:36 GMT-0600" isDuration="true" title="" annotation-modificationDate="November 8 2015 10:05:14 GMT-0700" annotation-modificationUser="Samuel Huron" annotation-category="Visual Mapping creation" image="images/96075422.jpg">New Annotation…<category name="Visual Mapping creation"></category>
+    </event>
+    <event startTimeInterval="279.449588" start="September 3 2015 13:47:49 GMT-0600" endTimeInterval="289.6472" end="September 3 2015 13:47:59 GMT-0600" isDuration="true" title="" annotation-modificationDate="November 8 2015 10:04:10 GMT-0700" annotation-modificationUser="Samuel Huron" annotation-category="Exploring the tool" image="images/25150463.jpg">New Annotation…<category name="Exploring the tool"></category>
+    </event>
+    <event startTimeInterval="362.133344" start="September 3 2015 13:49:12 GMT-0600" endTimeInterval="371.166677" end="September 3 2015 13:49:21 GMT-0600" isDuration="true" title="" annotation-modificationDate="November 8 2015 10:04:10 GMT-0700" annotation-modificationUser="Samuel Huron" annotation-category="Presentation mapping modification" image="images/32592001.jpg">New Annotation…<category name="Presentation mapping modification"></category>
+    </event>
+</data>
