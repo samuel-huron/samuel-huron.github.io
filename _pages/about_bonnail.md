@@ -1,4 +1,4 @@
-## Elise Bonnail 2022 - now
+## Elise Bonnail 2022 - 2025
 I am co-supervising [Elise Bonnail](https://perso.telecom-paristech.fr/ebonnail/) with [Jan Gugenheimer](https://gugenheimer.com/) and [Eric Lecolinet ](https://perso.telecom-paristech.fr/elc/).
 Elise Bonnail started her Ph.D. in the [DIVA Group](https://diva.telecom-paristech.fr/) at Telecom Paris. 
 She is working on the topic "*Inducing and Protecting against False Memories through Interaction and Interface Design in Virtual Reality*" 
