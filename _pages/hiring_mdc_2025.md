@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /hiring-2025/
+permalink: /hiring2025/
 title: Hiring Interact Maitre de conférence Design & Psychology. 
 description: Hiring offer for the Interact Team 
 nav: true
