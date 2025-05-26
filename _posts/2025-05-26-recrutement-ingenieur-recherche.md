@@ -1,27 +1,27 @@
 ---
-layout: Recrutement Ingénieur d'étude 
-title: Recrutement
-description: Ingénieur d'étude
+layout: Recrutement Ingenieur d étude 
+title: Recrutement d ingénieur d étude 
+description: Recrutement Ingénieur d étude
 tags: recrutement hiring 
 giscus_comments: false
 date: 2025-05-20
 featured: true
 
-#authors:
-#  - name: Albert Einstein
-#    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
-#    affiliations:
-#      name: IAS, Princeton
-#  - name: Boris Podolsky
-#    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
-#    affiliations:
-#      name: IAS, Princeton
-#  - name: Nathan Rosen
-#    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
-#    affiliations:
-#      name: IAS, Princeton
+authors:
+  - name: Albert Einstein
+    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
+    affiliations:
+      name: IAS, Princeton
+  - name: Boris Podolsky
+    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
+    affiliations:
+      name: IAS, Princeton
+  - name: Nathan Rosen
+    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
+    affiliations:
+      name: IAS, Princeton
 
-# bibliography: 2018-12-22-distill.bib
+bibliography: 2018-12-22-distill.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
@@ -31,10 +31,6 @@ featured: true
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
   - name: Mission
-    # if a section has subsections, you can add them as follows:
-    # subsections:
-    #   - name: Example Child Subsection 1
-    #   - name: Example Child Subsection 2
   - name: Activités
   - name: Compétences
   - name: Contexte
@@ -60,13 +56,13 @@ _styles: >
 
 Pour candidater: https://carrieres.cnrs.fr/concours-externes-des-ingenieurs-et-techniciens-h-f/
 
-## Mission 
+## Mission
 
 La mission comprend la conception d'outils de recueil de données qualitatives et quantitatives (méthode mixte), plus particulièrement de données audio, vidéo et numériques, ainsi que le traitement de ces données. L'ingénieur-e d'études recruté-e pilotera des dispositifs de collecte, de traitement et d'étude de données.  Il-elle garantira et validera la qualité des données produites et des traitements réalisés.
 
 ---
 
-## Activités 
+## Activités
 
 L'ingénieur-e d'études interviendra dans le cadre du déploiement de grands équipements de recherche pour la collecte et l'analyse de données d'interaction : l'Observation Lab (plateforme de captation de données comportementales et studio mobile d'enregistrement d'activités), le Studio Design (espace de création low- et mid-tech) et le Hyve-3D (système de conception et de visualisation immersif).
  
@@ -82,7 +78,7 @@ terrains, en France ou à l'international.
 
 ---
 
-## Compétences 
+## Compétences
 
 - Méthode de collecte et d'analyse de données audio vidéo, physiologiques (eye tracking et autres).
 - Connaissance de plusieurs méthodes d'analyse qualitative et quantitative parmi les suivantes: grounded theory; analyse thématique; codage ouvert; codage axial; analyses factorielles ; analyse de corrélations uni et multivariées ; classification ; régression ; études randomisées contrôlées; techniques de datamining; traitement automatique des langues.
@@ -108,7 +104,7 @@ variés)
 
 ---
 
-## Contexte 
+## Contexte
 
 L'institut Interdisciplinaire de l'Innovation est une unité mixte de recherche (UMR 9217), qui regroupe plus de 225 personnes, dont environ 80 chercheur·euse·s et 120 doctorant·e·s répartis sur 3 sites : École polytechnique, Télécom Paris et Mines Paris PSL. Il étudie de manière interdisciplinaire (essentiellement économie, gestion et sociologie) les phénomènes d'innovation dans leurs dimensions multiples (technologique, sociétale et organisationnelle). Les chercheur·euse·s sont au contact des différents acteurs de l'innovation (entreprises, pouvoirs publics, associations, mouvements sociaux).
 Le laboratoire a créé et utilise plusieurs plateformes techniques de recherche tel que le Studio Design, L'observation Lab et le Hyve dans le cadre d'un projet d'investissement Equipex CONTINUUM (développement de plate-formes de collaboration), et allié au projet PEPR ENSEMBLE (Activités collaboratives à distance - en cours de construction). L'ingénieur·e renforcera les deux équipes travaillant sur ces projets.
