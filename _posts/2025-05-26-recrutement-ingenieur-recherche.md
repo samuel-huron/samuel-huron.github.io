@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Recrutement d ingénieur d étude 
-description: Recrutement Ingénieur d étude
+title: Recrutement d'ingénieur d'étude 
+description: Recrutement Ingénieur d'étude
 tags: recrutement hiring 
 giscus_comments: false
 date: 2025-05-20
