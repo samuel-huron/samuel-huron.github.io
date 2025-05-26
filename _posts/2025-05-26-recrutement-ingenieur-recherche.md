@@ -1,27 +1,11 @@
 ---
-layout: Recrutement Ingenieur d étude 
+layout: post
 title: Recrutement d ingénieur d étude 
 description: Recrutement Ingénieur d étude
 tags: recrutement hiring 
 giscus_comments: false
 date: 2025-05-20
 featured: true
-
-authors:
-  - name: Albert Einstein
-    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
-    affiliations:
-      name: IAS, Princeton
-  - name: Boris Podolsky
-    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
-    affiliations:
-      name: IAS, Princeton
-  - name: Nathan Rosen
-    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
-    affiliations:
-      name: IAS, Princeton
-
-bibliography: 2018-12-22-distill.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
@@ -53,6 +37,9 @@ _styles: >
     font-size: 16px;
   }
 ---
+
+# Recrutement d'un ingénieur d'étude
+
 
 Pour candidater: https://carrieres.cnrs.fr/concours-externes-des-ingenieurs-et-techniciens-h-f/
 
