@@ -38,10 +38,7 @@ _styles: >
   }
 ---
 
-# Recrutement d'un ingénieur d'étude
-
-
-Pour candidater: https://carrieres.cnrs.fr/concours-externes-des-ingenieurs-et-techniciens-h-f/
+Pour candidater passer par le plateforme CNRS entre le 10 juin et 10 Juillet : <a href="https://carrieres.cnrs.fr/concours-externes-des-ingenieurs-et-techniciens-h-f/">https://carrieres.cnrs.fr/concours-externes-des-ingenieurs-et-techniciens-h-f/</a>
 
 ## Mission
 
