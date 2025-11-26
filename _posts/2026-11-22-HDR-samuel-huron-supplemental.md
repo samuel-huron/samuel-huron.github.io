@@ -67,18 +67,31 @@ My co-authors and I explored this dilemma within a design space that allowed us 
 
 To conclude this presentation, I will attempt to offer a practical and critical reflection on the different methods I have used over the past ten years: qualitative visual data analysis and design spaces.  Finally, if I have time, I would like to offer a provocative question: why, over the last 30 years, has the field of data visualisation given little or no consideration to the issue of input in data visualisations?
 
-## Publised project I will discuss 
+## References 
 
+This habilitation is based on the following work 
+
+Micro focus on Designing and Authoring Visualization : 
 * Jagoda Walny, Samuel Huron, and Sheelagh Carpendale. [An exploratory study of data sketching for visual representation](https://supplemental-material.github.io/Data-Sketching/). In _Computer Graphics Forum_, volume 34, pages 231–240. Wiley Online Library, 2015. doi: https://doi.org/10.1111/cgf.12635
 * Alice Thudt, Uta Hinrichs, Samuel Huron, and Sheelagh Carpendale. [Self-reflection and personal physicalization construction](https://hal.science/hal-02310547v1). _Proceedings of the CHI Conference on Human Factors in Computing Systems_, CHI' 18, page 1–13, New York, NY, USA, 2018. Association for Computing Machinery.  doi: https://doi.org/10.1145/3173574.3173728.
 * Tiffany Wun, Jennifer Payne, Samuel Huron, and Sheelagh Carpendale. [Comparison of bar chart authoring with Microsoft Excel and tangible tiles](https://hal.science/hal-01400906/). _In Computer Graphics Forum_, volume 35, pages 111–120. Wiley Online Library, 2016. doi: https://doi.org/10.1111/cgf.12887.
 * Wei Wei, Samuel Huron, and Yvonne Jansen. [Towards autocomplete strategies for visualization construction](https://osf.io/nu4z3/). In _2023 IEEE Visualization and Visual Analytics (VIS)_, pages 141–145, 2023. doi: 10.1109/VIS54172.2023.00037.
+
+Meso focus on physicalization : 
 * Sandra Bae, Clement Zheng, Mary Etta West, Ellen Yi-Luen Do, Samuel Huron, and Danielle Albers Szafir. 2022. [Making Data Tangible: A Cross-disciplinary Design Space for Data Physicalization](https://sandrabae.github.io/dataphys-gallery/index.html). In _Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)_. Association for Computing Machinery, New York, NY, USA, Article 81, 1–18. https://doi.org/10.1145/3491102.3501939
 *  Samuel Huron, Till Nagel, Lora Oehlberg, and Wesley Willett, eds. [Making with data: Physical design and craft in a data-driven world](https://makingwithdata.org/). _A K Peters/CRC Press_, 2022. https://doi.org/10.1201/9781003264903
+
+Meso focus on debates platforms and  : 
+
 * Tallullah Frappier, Nathalie Bressa, and Samuel Huron. 2024. [Jumping to Conclusions: A Visual Comparative Analysis of Online Debate Platform Layouts](https://hal-ciheam.iamm.fr/INFOLOGY-INFOLOGIE/hal-04784834v1). In _Proceedings of the 13th Nordic Conference on Human-Computer Interaction (NordiCHI '24)_. Association for Computing Machinery, New York, NY, USA, Article 42, 1–15. https://doi.org/10.1145/3679318.3685377
+* Samuel Lacroix Thesis [Domesticating the energy information. : Comparing the feedback device design choices and user practices to develop a new design approach](https://theses.fr/2020IPPAT014) 28/05/2020. Institut polytechnique de Paris
+
+
+Macro focus on debates platforms and  : 
+
 *  Nathalie Bressa, Jordan Louis, Wesley Willett, and Samuel Huron. [Input visualization: Collecting and modifying data with visual representations](https://imt.hal.science/hal-04558867v1/file/InputVisualization-CHI2024-AuthorVersion.pdf) [website](https://inputvisualization.github.io/). In _Proceedings of the CHI Conference on Human
 Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Association for Computing Machinery. doi: https://doi.org/10.1145/3613904.3642808.
 
-
+## Bibliography 
 
 
