@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Habiliation a diriger des recherche - Presentation 
+title: Habiliation à Diriger Des Recherche - Presentation 
 description: Habiliation a diriger des recherche - Presentation 
 tags: HDR Habilitation recherche design social sciences
 giscus_comments: false
