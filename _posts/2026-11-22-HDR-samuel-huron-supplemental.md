@@ -55,7 +55,7 @@ The jury will be composed of:
 
 ## Abstract  
 
-The manuscript is entitled ``Data Representation, Output to Input''.
+The manuscript is entitled ``**Data Representation, Output to Input**''.
 
 I have spent the last ten years exploring how humans can construct data representations that are accessible to all and low-cost, using various means such as sketching on paper or building with physical tokens. I compared these to digital tools and reflected on how they differ and complement each other. I then became interested in how experts from different fields (art, design, research) construct and produce physical representations of data. Finally, I studied with my doctoral students the use of data representations in the fields of energy feedback devices and online debate platforms.
 
