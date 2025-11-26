@@ -14,10 +14,10 @@ featured: true
 #   - we may want to automate TOC generation in the future using
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
-  - name: Mission
-  - name: Activités
-  - name: Compétences
-  - name: Contexte
+  - name: Jury
+  - name: Abstract
+  - name: References
+  - name: Bibliography
 
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.
