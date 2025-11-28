@@ -129,7 +129,7 @@ Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Ass
 
 
 ## Bibliography  
-<d-code block language="bibtex">
+<d-code block language="latex">
 
 @book{ware2010visual,
 	title        = {Visual thinking for design},
