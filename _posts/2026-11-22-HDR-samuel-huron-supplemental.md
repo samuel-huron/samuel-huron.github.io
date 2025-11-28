@@ -122,37 +122,7 @@ Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Ass
 
 ## Bibliography 
 
-```
-@manual{Kitware:2003,
-	title        = {The Visualization Toolkit User's Guide},
-	year         = {2003},
-	month        = {January},
-	url          = {http://www.kitware.com/publications/item/view/1269},
-	organization = {Kitware, Inc.}
-}
-@misc{Template,
-	title        = {On the template},
-	note         = {Accessed: 2024-09-01},
-	howpublished = {\url{https://makingwithdata.org/template}}
-}
-@misc{vislies,
-	title        = {{VisLies}},
-	year         = {2021},
-	note         = {Last accessed 2021-07-29},
-	howpublished = {\href{https://www.vislies.org/}{https://www.vislies.org/}}
-}
-@misc{CHINOSAUR:venue,
-	title        = {"VENUE IS TOO COLD" \#BINGO \#CHI2014},
-	author       = {@\_CHINOSAUR},
-	year         = {2014},
-	month        = {May},
-	day          = {1},
-	note         = {Retrieved Febuary 2, 2015 from \url{https://twitter.com/_CHINOSAUR/status/461864317415989248}},
-	key          = {_CHINOSAUR},
-	howpublished = {Tweet},
-	annote       = {Tweet}
-}
-@article{abelson2003deliberations,
+```@article{abelson2003deliberations,
 	title        = {Deliberations about deliberative methods: issues in the design and evaluation of public participation processes},
 	author       = {Abelson, Julia and Forest, Pierre-Gerlier and Eyles, John and Smith, Patricia and Martin, Elisabeth and Gauvin, Francois-Pierre},
 	year         = {2003},
@@ -2632,23 +2602,6 @@ https://www.taliweinberg.com/datascapes
 	volume       = {22},
 	number       = {3},
 	pages        = {110--161}
-}
-@inproceedings{Maudet2017,
-author = {Maudet, Nolwenn and Leiva, Germ\'{a}n and Beaudouin-Lafon, Michel and Mackay, Wendy},
-title = {Design Breakdowns: Designer-Developer Gaps in Representing and Interpreting Interactive Systems},
-year = {2017},
-isbn = {9781450343350},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/2998181.2998190},
-doi = {10.1145/2998181.2998190},
-abstract = {Professional interaction designers and software developers have different trainings and skills, yet they need to closely collaborate to create interactive systems. We conducted three studies to understand the mismatches between their processes, tools and representations. Based on 16 interviews, we found that current practices induce unnecessary rework and cause discrepancies between the original design and the implementation. We identified three key design breakdowns where designers omitted critical details, ignored the presence of edge cases or disregarded technical limitations. We next observed two face-to-face meetings between designers and developers. We found that early involvement of the developer helped to mitigate potential design breakdowns but new ones emerged as the project unfolded. Finally, we ran a participatory design session with two designer/developer pairs. Both pairs had difficulty representing and communicating pre-existing interactions. Creating complete interaction descriptions required iterating from individual examples to rule-based representations. We conclude with implications for designing collaborative tools that facilitate the designer's ability to express and the developer's ability to implement complex interactive systems.},
-booktitle = {Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing},
-pages = {630–641},
-numpages = {12},
-keywords = {collaborative prototyping tools, design breakdowns, designer-developer collaboration, interactive system representation, shared artifacts},
-location = {Portland, Oregon, USA},
-series = {CSCW '17}
 }
 @inproceedings{Frappier2024,
 	title        = {Jumping to Conclusions: A Visual Comparative Analysis of Online Debate Platform Layouts},
@@ -5877,6 +5830,23 @@ series = {CSCW '17}
 	booktitle    = {Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems},
 	pages        = {5053--5064}
 }
+@inproceedings{Maudet2017,
+	title        = {Design Breakdowns: Designer-Developer Gaps in Representing and Interpreting Interactive Systems},
+	author       = {Maudet, Nolwenn and Leiva, Germ\'{a}n and Beaudouin-Lafon, Michel and Mackay, Wendy},
+	year         = {2017},
+	booktitle    = {Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing},
+	location     = {Portland, Oregon, USA},
+	publisher    = {Association for Computing Machinery},
+	address      = {New York, NY, USA},
+	series       = {CSCW '17},
+	pages        = {630–641},
+	doi          = {10.1145/2998181.2998190},
+	isbn         = {9781450343350},
+	url          = {https://doi.org/10.1145/2998181.2998190},
+	abstract     = {Professional interaction designers and software developers have different trainings and skills, yet they need to closely collaborate to create interactive systems. We conducted three studies to understand the mismatches between their processes, tools and representations. Based on 16 interviews, we found that current practices induce unnecessary rework and cause discrepancies between the original design and the implementation. We identified three key design breakdowns where designers omitted critical details, ignored the presence of edge cases or disregarded technical limitations. We next observed two face-to-face meetings between designers and developers. We found that early involvement of the developer helped to mitigate potential design breakdowns but new ones emerged as the project unfolded. Finally, we ran a participatory design session with two designer/developer pairs. Both pairs had difficulty representing and communicating pre-existing interactions. Creating complete interaction descriptions required iterating from individual examples to rule-based representations. We conclude with implications for designing collaborative tools that facilitate the designer's ability to express and the developer's ability to implement complex interactive systems.},
+	numpages     = {12},
+	keywords     = {collaborative prototyping tools, design breakdowns, designer-developer collaboration, interactive system representation, shared artifacts}
+}
 @inproceedings{mauri2017rawgraphs,
 	title        = {RAWGraphs: a visualisation platform to create open outputs},
 	author       = {Mauri, Michele and Elli, Tommaso and Caviglia, Giorgio and Uboldi, Giorgio and Azzi, Matteo},
@@ -9001,6 +8971,7 @@ series = {CSCW '17}
 	pages        = {273--297},
 	organization = {Springer}
 }
+
 
 ```
 
