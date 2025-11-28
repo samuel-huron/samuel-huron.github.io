@@ -73,26 +73,27 @@ This habilitation is based on the following work
 
 Micro focus on Designing and Authoring Visualization : 
 * Jagoda Walny, Samuel Huron, and Sheelagh Carpendale. [An exploratory study of data sketching for visual representation](https://supplemental-material.github.io/Data-Sketching/). In _Computer Graphics Forum_, volume 34, pages 231–240. Wiley Online Library, 2015. doi: https://doi.org/10.1111/cgf.12635
- * Paper
- * Supplemental material
- * [Presentation deck](https://fr.slideshare.net/slideshow/an-exploratory-study-of-data-sketching-for-visual-representation-eurovis-2015/48787350)   
+	* Paper
+	* Supplemental material
+	* [Presentation deck](https://fr.slideshare.net/slideshow/an-exploratory-study-of-data-sketching-for-visual-representation-eurovis-2015/48787350)   
 * Alice Thudt, Uta Hinrichs, Samuel Huron, and Sheelagh Carpendale. [Self-reflection and personal physicalization construction](https://hal.science/hal-02310547v1). _Proceedings of the CHI Conference on Human Factors in Computing Systems_, CHI' 18, page 1–13, New York, NY, USA, 2018. Association for Computing Machinery.  doi: https://doi.org/10.1145/3173574.3173728.
- * [Paper](https://inria.hal.science/hal-02310547/)
- * [Supplemental material]()
- * [Full presentation](https://www.youtube.com/watch?v=9Cho8jvlDFY)
+	* [Paper](https://inria.hal.science/hal-02310547/)
+	* [Supplemental material]()
+	* [Full presentation](https://www.youtube.com/watch?v=9Cho8jvlDFY)
 * Tiffany Wun, Jennifer Payne, Samuel Huron, and Sheelagh Carpendale. [Comparison of bar chart authoring with Microsoft Excel and tangible tiles](https://hal.science/hal-01400906/). _In Computer Graphics Forum_, volume 35, pages 111–120. Wiley Online Library, 2016. doi: https://doi.org/10.1111/cgf.12887.
-  * [Paper](https://hal.science/hal-01400906/)
-  * [Supplemental material](https://supplemental-material.github.io/Comparing-excel-tiles/)
+	* [Paper](https://hal.science/hal-01400906/)
+	* [Supplemental material](https://supplemental-material.github.io/Comparing-excel-tiles/)
 * Wei Wei, Samuel Huron, and Yvonne Jansen. [Towards autocomplete strategies for visualization construction](https://arxiv.org/abs/2308.02679). In _2023 IEEE Visualization and Visual Analytics (VIS)_, pages 141–145, 2023. doi: 10.1109/VIS54172.2023.00037.
-  * [Paper](https://arxiv.org/abs/2308.02679)
-  * [Supplemental material on OSF](https://osf.io/nu4z3/overview)
-  * [Full presentation](https://www.youtube.com/watch?v=cxwSHXvzSSQ)  
+	* [Paper](https://arxiv.org/abs/2308.02679)
+	* [Supplemental material on OSF](https://osf.io/nu4z3/overview)
+	* [Full presentation](https://www.youtube.com/watch?v=cxwSHXvzSSQ)  
 
 Meso focus on physicalization : 
 * Sandra Bae, Clement Zheng, Mary Etta West, Ellen Yi-Luen Do, Samuel Huron, and Danielle Albers Szafir. 2022. [Making Data Tangible: A Cross-disciplinary Design Space for Data Physicalization](https://arxiv.org/abs/2202.10520). In _Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)_. Association for Computing Machinery, New York, NY, USA, Article 81, 1–18. https://doi.org/10.1145/3491102.3501939
-  * [Paper](https://arxiv.org/abs/2202.10520)
-  * [Compagnon website](https://inputvisualization.github.io/)
-  * Page on [Sandra website](https://sandrabae.github.io/dataphys-gallery/index.html)
+	* [Paper](https://arxiv.org/abs/2202.10520)
+ 	* [Video](https://www.youtube.com/watch?v=Mj1Oveo5_u0&t=3s)
+	* [Compagnon website](https://inputvisualization.github.io/)
+	* Page on [Sandra website](https://sandrabae.github.io/dataphys-gallery/index.html)
 
 *  Samuel Huron, Till Nagel, Lora Oehlberg, and Wesley Willett, eds. [Making with data: Physical design and craft in a data-driven world](https://makingwithdata.org/). _A K Peters/CRC Press_, 2022. https://doi.org/10.1201/9781003264903
   * [Order the book]([https://makingwithdata.org/](https://www.taylorfrancis.com/books/edit/10.1201/9781003264903/making-data-samuel-huron-till-nagel-lora-oehlberg-wesley-willett))
