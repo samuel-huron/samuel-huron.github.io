@@ -96,29 +96,29 @@ Meso focus on physicalization :
 	* Page on [Sandra website](https://sandrabae.github.io/dataphys-gallery/index.html)
 
 *  Samuel Huron, Till Nagel, Lora Oehlberg, and Wesley Willett, eds. [Making with data: Physical design and craft in a data-driven world](https://makingwithdata.org/). _A K Peters/CRC Press_, 2022. https://doi.org/10.1201/9781003264903
-  * [Order the book]([https://makingwithdata.org/](https://www.taylorfrancis.com/books/edit/10.1201/9781003264903/making-data-samuel-huron-till-nagel-lora-oehlberg-wesley-willett))
-  * [Making with data: Physical design and craft in a data-driven world](https://makingwithdata.org/)
-  * [Video to present the book](https://makingwithdata.org/2023-in-review/)
+	* [Order the book]([https://makingwithdata.org/](https://www.taylorfrancis.com/books/edit/10.1201/9781003264903/making-data-samuel-huron-till-nagel-lora-oehlberg-wesley-willett))
+	* [Making with data: Physical design and craft in a data-driven world](https://makingwithdata.org/)
+	* [Video to present the book](https://makingwithdata.org/2023-in-review/)
 
 Meso focus on debates platforms and  : 
 
 * Tallullah Frappier, Nathalie Bressa, and Samuel Huron. 2024. [Jumping to Conclusions: A Visual Comparative Analysis of Online Debate Platform Layouts](https://hal-ciheam.iamm.fr/INFOLOGY-INFOLOGIE/hal-04784834v1). In _Proceedings of the 13th Nordic Conference on Human-Computer Interaction (NordiCHI '24)_. Association for Computing Machinery, New York, NY, USA, Article 42, 1–15. https://doi.org/10.1145/3679318.3685377
- * [Paper](https://hal-ciheam.iamm.fr/INFOLOGY-INFOLOGIE/hal-04784834v1)
- * [Supplemental material](https://osf.io/kz32y/)
+	* [Paper](https://hal-ciheam.iamm.fr/INFOLOGY-INFOLOGIE/hal-04784834v1)
+	* [Supplemental material](https://osf.io/kz32y/)
    
 * Samuel Lacroix Thesis Domesticating the energy information. : Comparing the feedback device design choices and user practices to develop a new design approach 28/05/2020. Institut polytechnique de Paris
- * [Thesis of Samuel Lacroix- in french ](https://theses.fr/2020IPPAT014)
+	* [Thesis of Samuel Lacroix- in french ](https://theses.fr/2020IPPAT014)
 
 Macro focus on debates platforms and  : 
 
 *  Nathalie Bressa, Jordan Louis, Wesley Willett, and Samuel Huron. [Input visualization: Collecting and modifying data with visual representations](https://imt.hal.science/hal-04558867v1/file/InputVisualization-CHI2024-AuthorVersion.pdf) . In _Proceedings of the CHI Conference on Human
 Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Association for Computing Machinery. doi: https://doi.org/10.1145/3613904.3642808.
-  * [Paper](https://imt.hal.science/hal-04558867v1/file/InputVisualization-CHI2024-AuthorVersion.pdf)
-  * [Supplemental material](https://osf.io/bw3gp/)
-  * [Compagnon website](https://inputvisualization.github.io/)
-  * [Workshop at VIS 2025](https://inputvisualization.github.io/vis2025/)
-  * [Presentation in pdf of the Examples]()
-  * [Presentation in video by Nathalie](https://www.youtube.com/watch?v=RAfv2quE6nA)
+	* [Paper](https://imt.hal.science/hal-04558867v1/file/InputVisualization-CHI2024-AuthorVersion.pdf)
+	* [Supplemental material](https://osf.io/bw3gp/)
+	* [Compagnon website](https://inputvisualization.github.io/)
+	* [Workshop at VIS 2025](https://inputvisualization.github.io/vis2025/)
+	* [Presentation in pdf of the Examples](https://osf.io/bw3gp/files/7jbp9)
+	* [Presentation in video by Nathalie](https://www.youtube.com/watch?v=RAfv2quE6nA)
 
 ## Bibliography 
 
