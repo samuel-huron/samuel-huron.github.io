@@ -129,7 +129,7 @@ Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Ass
 
 
 ## Bibliography  
-```mermaid
+```
 @article{abelson2003deliberations,
 	title        = {Deliberations about deliberative methods: issues in the design and evaluation of public participation processes},
 	author       = {Abelson, Julia and Forest, Pierre-Gerlier and Eyles, John and Smith, Patricia and Martin, Elisabeth and Gauvin, Francois-Pierre},
