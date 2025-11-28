@@ -129,4 +129,21 @@ Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Ass
 
 
 ## Bibliography  
+<d-code block language="bibtex">
+
+@book{ware2010visual,
+	title        = {Visual thinking for design},
+	author       = {Ware, Colin},
+	year         = {2010},
+	publisher    = {Elsevier}
+}
+@book{ware2019information,
+	title        = {Information visualization: perception for design},
+	author       = {Ware, Colin},
+	year         = {2019},
+	publisher    = {Morgan Kaufmann}
+}
+
+</d-code>
+
 
