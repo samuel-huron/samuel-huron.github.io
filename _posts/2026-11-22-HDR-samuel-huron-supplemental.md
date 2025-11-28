@@ -129,7 +129,6 @@ Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Ass
 
 
 ## Bibliography  
-```
 
 @article{abelson2003deliberations,
 	title        = {Deliberations about deliberative methods: issues in the design and evaluation of public participation processes},
@@ -153,7 +152,8 @@ Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Ass
 	pages        = {669--672},
 	doi          = {10.1145/2213836.2213928},
 	isbn         = {978-1-4503-1247-9},
-	urldate      = {2023-03-23}
+	urldate      = {2023-03-23},
+	keywords     = {auto-completion, editor, learning, schema, xml}
 }
 @article{ackermann2001piaget,
 	title        = {Piaget’s constructivism, Papert’s constructionism: What’s the difference},
@@ -215,8 +215,10 @@ Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Ass
 	doi          = {10.1145/3544549.3585708},
 	isbn         = {9781450394222},
 	url          = {https://doi.org/10.1145/3544549.3585708},
+	abstract     = {In this study, we examined disagreement, agreement, and elaboration (rationale sharing) and their association with idea generation in a crowdsourced deliberation that took place within a crowdsourced policymaking process led by a national government. We analyzed the comments posted to the crowdsourced deliberation process and found that the elaboration of perspectives was a key element in idea generation. Disagreement contributed to ideation most when it was elaborated—i.e., when the participants justified their stances—and when it was accompanied by elaborated agreement. The findings suggest that in the design of the technologies and processes facilitating crowdsourced policymaking and other applications for civic engagement, there should be a particular focus on encouraging elaboration because elaboration can contribute to productive ideation as well as constructive argumentation. Elaboration could be fostered by deploying features from deliberation and argumentation technologies, which are designed to encourage participants to elaborate on their stances.},
 	articleno    = {88},
-	numpages     = {10}
+	numpages     = {10},
+	keywords     = {policy-making, participatory democracy, democratic innovations, deliberation, crowdsourced policymaking, civic technology, civic participation, civic engagement}
 }
 @article{albrecht2006whose,
 	title        = {Whose voice is heard in online deliberation?: A study of participation and representation in political debates on the internet},
@@ -276,8 +278,10 @@ Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Ass
 	doi          = {10.1145/3430524.3440631},
 	isbn         = {9781450382137},
 	url          = {https://doi.org/10.1145/3430524.3440631},
+	abstract     = {Recommender algorithms play an active role in many everyday activities. However, personalized recommendations often produce negative experiences due to a lack of awareness, control, or transparency. Allowing users to materialize their algorithmic imaginaries exposes how they experience, perceive, and imagine recommender algorithms. Moreover, it can unearth novel and previously unattended design opportunities for tangible interactions with algorithms. Therefore, we explored how 15 users of a famous movie recommender system materialized tangible designs to reflect and discuss their algorithmic imaginaries during co-design workshops and interviews. Using thematic analysis, we identified two forms of algorithmic imaginaries that can inspire tangible interactions with recommender algorithms: metaphoric and datafied representations. Complementary themes exposed the influence of contextual factors and diverse negative attitudes towards personalized movie recommendations. Based on these findings, we suggest design opportunities and suggestions for improving the algorithmic experience of movie recommendations and similar systems through tangible user interfaces.},
 	articleno    = {12},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {recommender systems., movie recommendations, algorithmic experience, tangible interaction, algorithmic imaginaries}
 }
 @inproceedings{amar2005low,
 	title        = {Low-level components of analytic activity in information visualization},
@@ -307,6 +311,7 @@ https://www.taliweinberg.com/datascapes
 	pages        = {1–12},
 	isbn         = {9781450356206},
 	url          = {https://doi.org/10.1145/3173574.3173834},
+	abstract     = {We develop a novel method printing complex self-folding geometries. We demonstrated that with a desktop fused deposition modeling (FDM) 3D printer, off-the-shelf printing filaments and a design editor, we can print flat thermoplastic composites and trigger them to self-fold into 3D with arbitrary bending angles. This is a suitable technique, called Thermorph, to prototype hollow and foldable 3D shapes without losing key features. We describe a new curved folding origami design algorithm, compiling given arbitrary 3D models to 2D unfolded models in G-Code for FDM printers. To demonstrate the Thermorph platform, we designed and printed complex self-folding geometries (up to 70 faces), including 15 self-curved geometric primitives and 4 self-curved applications, such as chairs, the simplified Stanford Bunny and flowers. Compared to the standard 3D printing, our method saves up to 60% - 87% of the printing time for all shapes chosen.},
 	numpages     = {12}
 }
 % http://www.anaellebeignon.fr/you-name-it.html
@@ -365,7 +370,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3382507.3418848},
 	isbn         = {9781450375818},
 	url          = {https://doi.org/10.1145/3382507.3418848},
-	numpages     = {9}
+	abstract     = {A human's heart beating can be sensed by sensors and displayed for others to see, hear, feel, and potentially "resonate'' with. Previous work in studying interaction designs with physiological data, such as a heart's pulse rate, have argued that feeding it back to the users may, for example support users' mindfulness and self-awareness during various everyday activities and ultimately support their health and wellbeing. Inspired by Somaesthetics as a discipline, we designed and explored multimodal displays, which enable experiencing heart beats as natural stimuli from oneself and others in social proximity. In this paper, we report on the design process of our design PiHearts and present qualitative results of a field study with 30 pairs of participants. Participants were asked to use PiHearts during watching short movies together and report their perceived experience in three different display conditions while watching movies. We found, for example that participants reported significant effects in experiencing sensory immersion when they received their own heart beats as stimuli compared to the condition without any heart beat display, and that feeling their partner's heart beats resulted in significant effects on social experience. We refer to resonance theory to motivate and discuss the results, highlighting the potential of how digitalization of heart beats as rhythmic natural stimuli may provide resonance in a modern society facing social acceleration.},
+	numpages     = {9},
+	keywords     = {social interaction, tangible design}
 }
 @misc{Assembl,
 	title        = {Assembl},
@@ -466,7 +473,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {30},
 	number       = {1},
 	pages        = {649--660},
-	doi          = {10.1109/TVCG.2023.3327378}
+	doi          = {10.1109/TVCG.2023.3327378},
+	keywords     = {Data visualization;Education;Visualization;Seminars;Art;Cultural differences;Creativity;Data Visualization;Education;Challenges}
 }
 @inproceedings{bach2018design,
 	title        = {Design patterns for data comics},
@@ -481,7 +489,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3173574.3173612},
 	isbn         = {9781450356206},
 	url          = {https://doi.org/10.1145/3173574.3173612},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {comics, visualization, story-telling}
 }
 @article{backlund2006static,
 	title        = {Static! The aesthetics of energy in everyday things},
@@ -518,8 +527,10 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3491102.3501939},
 	isbn         = {9781450391573},
 	url          = {https://doi.org/10.1145/3491102.3501939},
+	abstract     = {Designing a data physicalization requires a myriad of different considerations. Despite the cross-disciplinary nature of these considerations, research currently lacks a synthesis across the different communities data physicalization sits upon, including their approaches, theories, and even terminologies. To bridge these communities synergistically, we present a design space that describes and analyzes physicalizations according to three facets: context (end-user considerations), structure (the physical structure of the artifact), and interactions (interactions with both the artifact and data). We construct this design space through a systematic review of 47 physicalizations and analyze the interrelationships of key factors when designing a physicalization. This design space cross-pollinates knowledge from relevant HCI communities, providing a cohesive overview of what designers should consider when creating a data physicalization while suggesting new design possibilities. We analyze the design decisions present in current physicalizations, discuss emerging trends, and identify underlying open challenges.},
 	articleno    = {81},
-	numpages     = {18}
+	numpages     = {18},
+	keywords     = {data physicalization, data visualization, design, design space, tangible user interface}
 }
 @inbook{Baker2003,
 	title        = {Computer-Supported Collaborative Learning in the Space of Debate},
@@ -547,6 +558,7 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3643834.3660749},
 	isbn         = {9798400705830},
 	url          = {https://doi.org/10.1145/3643834.3660749},
+	abstract     = {Data physicalization is a research area that explores representing data attributes through manipulating the geometric and physical properties of tangible objects. We introduce VISMOCK, a data physicalization approach that leverages a fabric manipulation technique called “smocking”. VISMOCK supports the creation of interactive and dynamic data physi-calizations by extending the smocking technique with programmable components such as thermochromic pigments and shape memory alloys. Using a research-through-design methodology, we develop an initial design space for VISMOCK that shows how data can be represented using visual and tactile variables, as well as the affordances of VISMOCK. We demonstrate the generative power of our design space through four exemplars, created using VISMOCK. We use these exemplars to discuss the advantages and limitations of VISMOCK as a tool for data physicalization.},
 	numpages     = {16}
 }
 @book{banks2018using,
@@ -604,7 +616,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/1148170.1148234},
 	isbn         = {978-1-59593-369-0},
 	url          = {https://dl.acm.org/doi/10.1145/1148170.1148234},
-	urldate      = {2023-03-23}
+	urldate      = {2023-03-23},
+	keywords     = {autocompletion, empirical entropy, index data structure}
 }
 @inbook{batch2020olfactory,
 	title        = {Scents and Sensibility: Evaluating Information Olfactation},
@@ -616,6 +629,7 @@ https://www.taliweinberg.com/datascapes
 	pages        = {1–14},
 	isbn         = {9781450367080},
 	url          = {https://doi.org/10.1145/3313831.3376733},
+	abstract     = {Olfaction---the sense of smell---is one of the least explored of the human senses for conveying abstract information. In this paper, we conduct a comprehensive perceptual experiment on information olfactation: the use of olfactory and cross-modal sensory marks and channels to convey data. More specifically, following the example from graphical perception studies, we design an experiment that studies the perceptual accuracy of four cross-modal sensory channels---scent type, scent intensity, airflow, and temperature---for conveying three different types of data---nominal, ordinal, and quantitative. We also present details of a 24-scent multi-sensory display and its software framework that we designed in order to run this experiment. Our results yield a ranking of olfactory and cross-modal sensory channels that follows similar principles as classic rankings for visual channels.},
 	numpages     = {14}
 }
 @inproceedings{batch2020scents,
@@ -660,7 +674,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/989863.989865},
 	isbn         = {1581138679},
 	url          = {https://doi.org/10.1145/989863.989865},
-	numpages     = {8}
+	abstract     = {Although the power of personal computers has increased 1000-fold over the past 20 years, user interfaces remain essentially the same. Innovations in HCI research, particularly novel interaction techniques, are rarely incorporated into products. In this paper I argue that the only way to significantly improve user interfaces is to shift the research focus from designing interfaces to designing interaction. This requires powerful interaction models, a better understanding of both the sensory-motor details of interaction and a broader view of interaction in the context of use. It also requires novel interaction architectures that address reinterpretability, resilience and scalability.},
+	numpages     = {8},
+	keywords     = {design principles, interaction model, interaction paradigm, situated interaction, interaction architecture, instrumental interaction}
 }
 @inproceedings{beaudouin2004designing,
 	title        = {Designing interaction, not interfaces},
@@ -682,7 +698,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/989863.989865},
 	isbn         = {1581138679},
 	url          = {https://doi.org/10.1145/989863.989865},
-	numpages     = {8}
+	abstract     = {Although the power of personal computers has increased 1000-fold over the past 20 years, user interfaces remain essentially the same. Innovations in HCI research, particularly novel interaction techniques, are rarely incorporated into products. In this paper I argue that the only way to significantly improve user interfaces is to shift the research focus from designing interfaces to designing interaction. This requires powerful interaction models, a better understanding of both the sensory-motor details of interaction and a broader view of interaction in the context of use. It also requires novel interaction architectures that address reinterpretability, resilience and scalability.},
+	numpages     = {8},
+	keywords     = {situated interaction, interaction paradigm, interaction model, interaction architecture, instrumental interaction, design principles}
 }
 @incollection{beaudouin2007prototyping,
 	title        = {Prototyping tools and techniques},
@@ -717,7 +735,8 @@ https://www.taliweinberg.com/datascapes
 	pages        = {591--608},
 	doi          = {10.1007/978-3-642-23774-4_47},
 	isbn         = {978-3-642-23774-4},
-	language     = {en}
+	language     = {en},
+	keywords     = {Cognitive Load, Mouse Button, Mouse Pointer, Short Gesture, Visual Feedback}
 }
 @book{bentley2013snow,
 	title        = {Snow Crystals},
@@ -736,7 +755,8 @@ https://www.taliweinberg.com/datascapes
 	pages        = {411--431},
 	issn         = {03063127},
 	url          = {http://www.jstor.org/stable/285411},
-	urldate      = {2024-02-06}
+	urldate      = {2024-02-06},
+	abstract     = {In social studies of technology, as in many other scientific disciplines, highly persuasive similes are at work: pious stories, seemingly reaped from research, suggesting certain general theoretical insights. Variously adapted, they are handed down: in the process, they acquire almost doctrinal unassailability. One such parable, which has been retold in technology and urban studies for a long time, is the story of Robert Moses' low bridges, preventing the poor and the black of New York from gaining access to Long Island resorts and beaches. The story turns out to be counterfactual, but even if a small myth is disenchanted, it serves a purpose: to resituate positions in the old debate about the control of social processes via buildings and other technical artefacts - or, more generally, about material form and social content.}
 }
 @article{bertin1977graphique,
 	title        = {La graphique et le traitement graphique de l'information},
@@ -777,7 +797,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3469410.3469427},
 	isbn         = {9781450390484},
 	url          = {https://doi.org/10.1145/3469410.3469427},
-	numpages     = {12}
+	abstract     = {Although public interfaces are promised to facilitate placemaking by offering a technological platform between citizens and decision makers, little is known about whether they actually bring these stakeholders closer together towards local transformative change. By systematically analysing the infrastructural concepts, methods and tools of 40 interface deployments, this review presents a relational model that describes how a public interface can afford the communication, reflection or inquiry of civic feedback. Our analysis also reveals how most public interfaces: are based on utilitarian motives rather than facilitating placemaking; provoke dialogues among citizens instead of between stakeholders; fail to upend the hierachical dependencies between stakeholders; make use of certain technological means that limit citizen agency; and are controlled by gatekeepers who operate covertly and without accountability. Based on these findings, we propose five ”middle-out” considerations that inform how the next generation of placemaking interfaces can facilitate more meaningful and democratic bilateral dialogues between citizens and decision makers.},
+	numpages     = {12},
+	keywords     = {citizen participation, urban interaction, Placemaking, public interfaces, public displays}
 }
 @article{IteratingBetweenTools,
 	title        = {Iterating between Tools to Create and Edit Visualizations},
@@ -787,7 +809,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {23},
 	number       = {1},
 	pages        = {481--490},
-	doi          = {10.1109/TVCG.2016.2598609}
+	doi          = {10.1109/TVCG.2016.2598609},
+	keywords     = {Bridges;Data visualization;Visualization;Software;Solid modeling;Manuals;Image color analysis;Visualization;iteration;illustration}
 }
 @inproceedings{bird2010pulse,
 	title        = {The pulse of tidy street: Measuring and publicly displaying domestic electricity consumption},
@@ -834,7 +857,8 @@ https://www.taliweinberg.com/datascapes
 	isbn         = {9781450391566},
 	url          = {https://doi.org/10.1145/3491101.3516391},
 	articleno    = {4},
-	numpages     = {9}
+	numpages     = {9},
+	keywords     = {knowledge creation, research ethics, research methods, arts and computing, Interdisciplinary research}
 }
 @book{blandford2016qualitative,
 	title        = {Qualitative HCI research: Going behind the scenes},
@@ -887,7 +911,8 @@ https://www.taliweinberg.com/datascapes
 	isbn         = {9781450394215},
 	url          = {https://doi.org/10.1145/3544548.3580988},
 	articleno    = {875},
-	numpages     = {20}
+	numpages     = {20},
+	keywords     = {XR Memory Manipulations, Virtual Reality, Speculative Design, Perceptual Manipulations, Extended Reality, Augmented Reality}
 }
 @article{bonsiepe2006design,
 	title        = {Design and democracy},
@@ -939,7 +964,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2909132.2909267},
 	isbn         = {9781450341318},
 	url          = {https://doi.org/10.1145/2909132.2909267},
-	numpages     = {8}
+	abstract     = {Motivation is a key factor for introducing and maintaining healthy changes in behaviour. However, typical visualization methods (e.g., bar-, pie-, and line charts) hardly motivate individuals. We investigate how a plant---a living visualization---whose health relies on the plant owner's level of activity, can engage people in tracking and self-reflecting on their fitness data. To address this question, we designed, implemented, and studied Go \& Grow, a living plant that receives water proportionally to its owner's activity. Our six-week qualitative study with ten participants suggests that living visualizations have qualities that their digital counterparts do not have. This includes people feeling: emotionally connected to their plant; sentiments such as pride and guilt; and responsibility towards their plant. Based on this study, we introduce the Goal Motivation Model, a model considering the diversity of individuals, thus supporting and encouraging a diversity of strategies for accomplishing goals.},
+	numpages     = {8},
+	keywords     = {Plant, Personal Visualization, Living Visualization, Fitness}
 }
 @inproceedings{boukhelifa2017data,
 	title        = {How data workers cope with uncertainty: A task characterisation study},
@@ -961,6 +988,7 @@ https://www.taliweinberg.com/datascapes
 	edition      = {Nouvelle édition revue et corrigée},
 	interhash    = {da02ea823e548f5ae080e0e2614f50c5},
 	intrahash    = {91aebe9d5da4191b18a5751e17c23032},
+	keywords     = {Literaturwissenschaft Soziologie},
 	timestamp    = {2011-08-12T16:38:06.000+0200}
 }
 @book{bourdieu1979distinction,
@@ -972,10 +1000,12 @@ https://www.taliweinberg.com/datascapes
 	series       = {Le sens commun},
 	isbn         = {2-7073-0275-9},
 	url          = {http://www.leseditionsdeminuit.fr/livre-La_Distinction-1954-1-1-0-1.html},
+	abstract     = {Classeurs classés par leurs classements, les sujets sociaux se distinguent par les distinctions qu’ils opèrent – entre le savoureux et l’insipide, le beau et le laid, le chic et le chiqué, le distingué et le vulgaire – et où s’exprime ou se trahit leur position dans les classements objectifs. L’analyse des relations entre les systèmes de classement (le goût) et les conditions d’existence (la classe sociale) qu’ils retraduisent sous une forme transfigurée dans des choix objectivement systématiques (“la classe”) conduit ainsi à une critique sociale du jugement qui est inséparablement un tableau des classes sociales et des styles de vie. On pourrait, à titre d’hygiène critique, commencer la lecture par le chapitre final, intitulé Éléments pour une critique “vulgaire” des critiques “pures”, qui porte au jour les catégories sociales de perception et d’appréciation que Kant met en oeuvre dans son analyse du jugement de goût. Mais l’essentiel est dans la recherche qui, au prix d’un énorme travail d’enquête empirique et de critique théorique, conduit à une reformulation de toutes les interrogations traditionnelles sur le beau, l’art, le goût, la culture. L’art est un des lieux par excellence de la dénégation du monde social. La rupture, que suppose et accomplit le travail scientifique, avec tout ce que le discours a pour fonction ordinaire de célébrer, supposait que l’on ait recours, dans l’exposition des résultats, à un langage nouveau, juxtaposant la construction théorique et les faits qu’elle porte au jour, mêlant le graphique et la photographie, l’analyse conceptuelle et l’interview, le modèle et le document.Contre le discours ni vrai ni faux, ni vérifiable ni falsifiable, ni théorique ni empirique qui, comme Racine ne parlait pas de vaches mais de génisses, ne peut parler du Smig ou des maillots de corps de la classe ouvrière mais seulement du “mode de production” et du “prolétariat” ou des “rôles” et des “attitudes” de la “lower middle class”, il ne suffit pas de démontrer ; il faut montrer, des objets et même des personnes, faire toucher du doigt – ce qui ne veut pas dire montrer du doigt, mettre à l’index – et tâcher ainsi de forcer le retour du refoulé en niant la dénégation sous toutes ses formes, dont la moindre n’est pas le radicalisme hyperbolique de certain discours révolutionnaire. (Texte du rabat)},
 	added-at     = {2011-08-12T16:10:26.000+0200},
 	biburl       = {https://www.bibsonomy.org/bibtex/2a9a3e4316cb36d720b54cbb04adbebb5/meneteqel},
 	interhash    = {ef13667dd0d3e791a25bad8c6b2194ee},
 	intrahash    = {a9a3e4316cb36d720b54cbb04adbebb5},
+	keywords     = {Alltagskultur Frankreich Geschmack Soziale_Klasse},
 	language     = {fre},
 	timestamp    = {2020-08-02T14:24:11.000+0200}
 }
@@ -996,6 +1026,7 @@ https://www.taliweinberg.com/datascapes
 	month        = {May},
 	url          = {https://inria.hal.science/tel-01225585},
 	school       = {{Telecom ParisTech}},
+	keywords     = {Visual communication ; Data visualisation ; Infographics ; Information visualization ; Information visualization for the People ; Narrative visualization ; Visualization literacy ; Perceived affordances ; Suggested interactivity ; Communication visuelle ; Donn{\'e}es ouvertes ; Open data ; Suggestion de l'interactivit{\'e} ; Affordances per{\c c}ues ; Litt{\'e}ratie en visualisation ; Visualisation narrative ; Visualisation pour les masses ; Visualisation d'informations ; Infographie ; Visualisation de donn{\'e}es},
 	type         = {Theses},
 	pdf          = {https://inria.hal.science/tel-01225585v1/file/2015_ENST_0025_Jeremy_Boy.pdf},
 	hal_id       = {tel-01225585},
@@ -1032,7 +1063,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3242587.3242658},
 	isbn         = {9781450359481},
 	url          = {https://doi.org/10.1145/3242587.3242658},
-	numpages     = {12}
+	abstract     = {We present GridDrones, a self-levitating programmable matter platform that can be used for representing 2.5D voxel grid relief maps capable of rendering unsupported structures and 3D transformations. GridDrones consists of cube-shaped nanocopters that can be placed in a volumetric 1xnxn mid-air grid, which is demonstrated here with 15 voxels. The number of voxels and scale is only limited by the size of the room and budget. Grid deformations can be applied interactively to this voxel lattice by manually selecting a set of voxels, then assigning a continuous topological relationship between voxel sets that determines how voxels move in relation to each other and manually drawing out selected voxels from the lattice structure. Using this simple technique, it is possible to create unsupported structures that can be translated and oriented freely in 3D. Shape transformations can also be recorded to allow for simple physical shape morphing animations. This work extends previous work on selection and editing techniques for 3D user interfaces.},
+	numpages     = {12},
+	keywords     = {programmable matter, organic user interfaces, claytronics, swarm user interfaces, radical atoms}
 }
 @article{braun_using_2006,
 	title        = {Using thematic analysis in psychology},
@@ -1048,6 +1081,8 @@ https://www.taliweinberg.com/datascapes
 	url          = {https://www.tandfonline.com/doi/abs/10.1191/1478088706qp063oa},
 	urldate      = {2021-05-24},
 	note         = {Publisher: Routledge \_eprint: https://www.tandfonline.com/doi/pdf/10.1191/1478088706qp063oa},
+	abstract     = {Thematic analysis is a poorly demarcated, rarely acknowledged, yet widely used qualitative analytic method within psychology. In this paper, we argue that it offers an accessible and theoretically flexible approach to analysing qualitative data. We outline what thematic analysis is, locating it in relation to other qualitative analytic methods that search for themes or patterns, and in relation to different epistemological and ontological positions. We then provide clear guidelines to those wanting to start thematic analysis, or conduct it in a more deliberate and rigorous way, and consider potential pitfalls in conducting thematic analysis. Finally, we outline the disadvantages and advantages of thematic analysis. We conclude by advocating thematic analysis as a useful and flexible method for qualitative research in and beyond psychology.},
+	keywords     = {thematic analysis, epistemology, flexibility, patterns, qualitative psychology},
 	file         = {Snapshot:D\:\\zotero\\storage\\DPJNZRYZ\\1478088706qp063oa.html:text/html}
 }
 @article{braun2006using,
@@ -1100,7 +1135,8 @@ https://www.taliweinberg.com/datascapes
 	number       = {1},
 	pages        = {107--117},
 	doi          = {10.1109/TVCG.2021.3114835},
-	issn         = {1941-0506}
+	issn         = {1941-0506},
+	keywords     = {data visualization;human computer interaction;encoding;visual analytics;terminology;keyword search;augmented reality}
 }
 @inproceedings{bressa2024input,
 	title        = {Input Visualization: Collecting and Modifying Data with Visual Representations},
@@ -1116,7 +1152,8 @@ https://www.taliweinberg.com/datascapes
 	isbn         = {9798400703300},
 	url          = {https://doi.org/10.1145/3613904.3642808},
 	articleno    = {499},
-	numpages     = {18}
+	numpages     = {18},
+	keywords     = {data collection, data discussion, input visualization, interaction, participation, physicalization, public engagement, survey, visualization}
 }
 @inproceedings{bressa2022data,
 	title        = {Data Every Day: Designing and Living with Personal Situated Visualizations},
@@ -1138,13 +1175,15 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3322276.3322326},
 	isbn         = {9781450358507},
 	url          = {https://doi.org/10.1145/3322276.3322326},
-	numpages     = {13}
+	numpages     = {13},
+	keywords     = {small displays, sketching, situated visualization, information visualization, ideation, design workshops}
 }
 @inproceedings{BormsEnergyAwareClock,
 	title        = {The Energy AWARE Clock: Incorporating Electricity Use in the Social Interactions of Everyday Life},
 	author       = {Broms, Loove and Ehrnberger, Karin and Ilstedt, Sara and Bång, Magnus},
 	year         = {2009},
-	month        = {01}
+	month        = {01},
+	pages        = {}
 }
 @inproceedings{brule2017explorer,
 	title        = {Explorer le potentiel des interactions tangibles rotatives pour les Smart Watches},
@@ -1435,7 +1474,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2757710.2757733},
 	isbn         = {9781450336086},
 	url          = {https://doi.org/10.1145/2757710.2757733},
-	numpages     = {7}
+	abstract     = {A rising number of public displays are becoming equipped with tangible interfaces. Especially in the context of the visualization of data in the public realm, offering tangible interaction modalities might actively attract and engage passer-bys, and lead to increased information discovery.. We therefore present a novel public visualization installation that deploys different forms of tangible interaction in combination with a public display in order to communicate civic data to a lay audience. During a comparative, deployment-based study in an urban context, we compared three distinct tangible interaction modalities in terms of the types of engagement and insight generation they facilitated. We report on our findings and discuss a number of design recommendations for tangible interaction on public information displays.},
+	numpages     = {7},
+	keywords     = {public display, urban informatics, Tangible interaction, physical visualization, public visualization}
 }
 @article{Clayton2012,
 	title        = {Medicine: Leonardo's anatomy years},
@@ -1447,7 +1488,8 @@ https://www.taliweinberg.com/datascapes
 	pages        = {314--316},
 	doi          = {10.1038/484314a},
 	issn         = {1476-4687},
-	url          = {https://doi.org/10.1038/484314a}
+	url          = {https://doi.org/10.1038/484314a},
+	abstract     = {A London exhibition will expose the Renaissance master's staggering medical discoveries, which languished unpublished for centuries, explains Martin Clayton.}
 }
 @inproceedings{coenen2019,
 	title        = {How the Arrangement of Content and Location Impact the Use of Multiple Distributed Public Displays},
@@ -1462,7 +1504,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3322276.3322294},
 	isbn         = {9781450358507},
 	url          = {https://doi.org/10.1145/3322276.3322294},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {civic participation, smart cities, public displays, civic engagement, networked displays, location-based services, geocaching, internet of things, distributed displays, community engagement, urban interaction design, embedded visualization}
 }
 @misc{Cogito,
 	title        = {Cogito},
@@ -1491,8 +1534,10 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3491101.3516392},
 	isbn         = {9781450391566},
 	url          = {https://doi.org/10.1145/3491101.3516392},
+	abstract     = {Grounded Theory Methodology (GTM) is a powerful way to develop theories where there is little existing research using a flexible but rigorous empirically-based approach. Although it originates from the fields of social and health sciences, it is a field-agnostic methodology that can be used in any discipline. However, it tends to be misunderstood by researchers within HCI. This paper sets out to explain what GTM is, how it can be useful to HCI researchers, and examples of how it has been misapplied. There is an overview of the decades of methodological debate that surrounds GTM, why it’s important to be aware of this debate, and how GTM differs from other, better understood, qualitative methodologies. It is hoped the reader is left with a greater understanding of GTM, and better able to judge the results of research which claims to use GTM, but often does not.},
 	articleno    = {11},
-	numpages     = {11}
+	numpages     = {11},
+	keywords     = {grounded theory, research methods}
 }
 @book{Ware:2004:IVP,
 	title        = {Information Visualization: Perception for Design},
@@ -1648,7 +1693,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3294109.3295634},
 	isbn         = {9781450361965},
 	url          = {https://doi.org/10.1145/3294109.3295634},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {user study, tangible user interface, shifting energy demand, peripheral vision, ambient notifications, shape-changing interface, demand-side management, ring chart, renewable energy, data physicalization}
 }
 @inproceedings{daniel2016analyse,
 	title        = {Une analyse des Syst{\`e}mes Interactifs et Persuasifs pour la ma{\^\i}trise de l’{\'e}nergie},
@@ -1682,6 +1728,7 @@ https://www.taliweinberg.com/datascapes
 	publisher    = {Zone Books},
 	isbn         = {9781890951788},
 	language     = {eng},
+	keywords     = {Objectivity},
 	lccn         = {2007023997}
 }
 @inproceedings{davies2020online,
@@ -1783,7 +1830,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3322276.3323694},
 	isbn         = {9781450358507},
 	url          = {https://doi.org/10.1145/3322276.3323694},
-	numpages     = {14}
+	abstract     = {In this pictorial, we present the ListeningCups: a set of 3D printed porcelain cups embedded with datasets of everyday ambient sounds. During a one-week pilot project, a ceramic artist and an interaction design researcher collaborated to explore meaning making around everyday data (sound in our case). We developed a workflow to capture data, prepare datasets, transcribe data from decibels to G-code, and create a set of 3D printed porcelain cups which represent this data in a textural and tactile form. We discuss how our work also included aesthetic investigative practices as well as data accidents. We conclude by contributing two concepts-data tactility and data stories-that can serve as starting points for designers, artists, or researchers interested in the intersection of materiality, data, fabrication, and ceramics.},
+	numpages     = {14},
+	keywords     = {domestic objects, ceramic 3d printing, digital fabrication, craft, data stories, digital ceramics, internet of things, data physicalization, data tactility}
 }
 @inproceedings{desjardins2019listeningcups,
 	title        = {ListeningCups: A case of data tactility and data stories},
@@ -1867,7 +1916,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {28},
 	number       = {12},
 	pages        = {4101--4112},
-	doi          = {10.1109/TVCG.2021.3074023}
+	doi          = {10.1109/TVCG.2021.3074023},
+	keywords     = {Data visualization;Decision making;Organizations;Business;Competitive intelligence;Data analysis;Uncertainty;Decision making;visualization;interview;survey;organizations;management;business intelligence}
 }
 @book{dix2003human,
 	title        = {Human-computer interaction},
@@ -1885,7 +1935,9 @@ https://www.taliweinberg.com/datascapes
 	pages        = {569--598},
 	doi          = {https://doi.org/10.1111/cgf.14330},
 	url          = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14330},
+	keywords     = {CCS Concepts, • Human-centered computing → Visualization techniques},
 	eprint       = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14330},
+	abstract     = {Abstract Physical representations of data offer physical and spatial ways of looking at, navigating, and interacting with data. While digital fabrication has facilitated the creation of objects with data-driven geometry, rendering data as a physically fabricated object is still a daunting leap for many physicalization designers. Rendering in the scope of this research refers to the back-and-forth process from digital design to digital fabrication and its specific challenges. We developed a corpus of example data physicalizations from research literature and physicalization practice. This survey then unpacks the “rendering” phase of the extended InfoVis pipeline in greater detail through these examples, with the aim of identifying ways that researchers, artists, and industry practitioners “render” physicalizations using digital design and fabrication tools.},
 	organization = {Wiley Online Library}
 }
 @inproceedings{djavaherpour2021data,
@@ -1928,7 +1980,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3643834.3661573},
 	isbn         = {9798400705830},
 	url          = {https://doi.org/10.1145/3643834.3661573},
-	numpages     = {20}
+	numpages     = {20},
+	keywords     = {artefact or system, prototyping/implementation, tangible}
 }
 % https://dotmocracy.org/
 
@@ -2033,6 +2086,7 @@ https://www.taliweinberg.com/datascapes
 	series       = {Springer Reference},
 	url          = {https://hal.inria.fr/hal-02113248},
 	editor       = {Jean Vanderdonckt},
+	keywords     = {Data physicalization},
 	hal_id       = {hal-02113248},
 	hal_version  = {v2}
 }
@@ -2117,7 +2171,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.3390/informatics3040017},
 	issn         = {2227-9709},
 	url          = {https://www.mdpi.com/2227-9709/3/4/17},
-	article-number = {17}
+	article-number = {17},
+	abstract     = {There are many expressive visualization techniques for analyzing graphs. Yet, there is only little research on how existing visual representations can be employed to support data editing. An increasingly relevant task when working with graphs is the editing of node attributes. We propose an integrated visualize-and-edit approach to editing attribute values via direct interaction with the visual representation. The visualize part is based on node-link diagrams paired with attribute-dependent layouts. The edit part is as easy as moving nodes via drag-and-drop gestures. We present dedicated interaction techniques for editing quantitative as well as qualitative attribute data values. The benefit of our novel integrated approach is that one can directly edit the data while the visualization constantly provides feedback on the implications of the data modifications. Preliminary user feedback indicates that our integrated approach can be a useful complement to standard non-visual editing via external tools.}
 }
 % TO ADD :
 @article{elliott2005descriptive,
@@ -2150,7 +2205,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2702613.2702632},
 	isbn         = {9781450331463},
 	url          = {https://doi.org/10.1145/2702613.2702632},
-	numpages     = {4}
+	abstract     = {A data-driven life is increasingly possible, yet research and previous workshops have tended to focus on the utility of personal informatics -- especially for behaviour change -- rather than 'lived informatics' as experienced. This workshop proposes to engage participants in conversation, scenario building and conceptual design that deeply and critically examines the multiple roles personal informatics can play in people's everyday lives and map out novel design opportunities and challenges.},
+	numpages     = {4},
+	keywords     = {internet of things, personal informatics, quantified self, design fiction, experienced-centred design}
 }
 @incollection{engelbart2023augmenting,
 	title        = {Augmenting human intellect: A conceptual framework},
@@ -2200,7 +2257,8 @@ https://www.taliweinberg.com/datascapes
 	isbn         = {9781450380966},
 	url          = {https://doi.org/10.1145/3411764.3445542},
 	articleno    = {711},
-	numpages     = {18}
+	numpages     = {18},
+	keywords     = {Meta-Analysis, Social Presence, HRI, Trust, Robot Acceptance, Human-Robot Interaction, Anxiety, Individual Differences, Adaptability, Sociability, Personality, Enjoyment}
 }
 @inproceedings{ettehadi2021documented,
 	title        = {Documented: Embedding Information onto and Retrieving Information from 3D Printed Objects},
@@ -2211,6 +2269,7 @@ https://www.taliweinberg.com/datascapes
 	address      = {New York, NY, USA},
 	isbn         = {9781450380966},
 	url          = {https://doi.org/10.1145/3411764.3445551},
+	abstract     = {Documentation for DIY tasks serve as codified project knowledge and help makers reach new understandings and appreciations for the artifact. Engaging in reflective processes using the documentation can be challenging when it comes to physical objects as the documentation and the artifact exist separately. We hypothesize that spatially associating the documentation information with the artifact can provide richer contextualization to reflect upon the artifact and design process. We implemented and evaluated Documented, a web application that helps makers associate documentation to 3D printed objects. Information can be embedded using printed tags spatially placed on the model and accessed using mobile AR. Our study highlights the different strategies participants had for organizing, embedding, and retrieving information. Informed by our results, we discuss how the coupling of the documentation and the artifact can support reflection and identify potential barriers that need further investigation.},
 	articleno    = {424},
 	numpages     = {11}
 }
@@ -2227,7 +2286,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3064663.3064677},
 	isbn         = {9781450349222},
 	url          = {https://doi.org/10.1145/3064663.3064677},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {interactive shape-changing displays, fabrication approach, data physicalization}
 }
 @inproceedings{FanConstructiveVisualization2020,
 	title        = {Constructive Visualization to Inform the Design and Exploration of Tactile Data Representations},
@@ -2242,7 +2302,8 @@ https://www.taliweinberg.com/datascapes
 	isbn         = {9781450371032},
 	url          = {https://doi.org/10.1145/3373625.3418027},
 	articleno    = {60},
-	numpages     = {4}
+	numpages     = {4},
+	keywords     = {Data Visualization, Tactile Graphics, Haptics, Constructive Visualization}
 }
 @inproceedings{fan2020digital,
 	title        = {Digital juries: A civics-oriented approach to platform governance},
@@ -2264,7 +2325,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/1753326.1753502},
 	isbn         = {9781605589299},
 	url          = {https://doi.org/10.1145/1753326.1753502},
-	numpages     = {10}
+	numpages     = {10},
+	keywords     = {comment browsing, dimensionality reduction, opinion visualization, opinion mining, very large scale conversations, perceptual maps, collaborative filtering, deliberative polling}
 }
 @misc{FeedbackFrames,
 	title        = {Let’s See What We Think!},
@@ -2302,7 +2364,8 @@ https://www.taliweinberg.com/datascapes
 	isbn         = {061218871X},
 	note         = {AAINN18871},
 	advisor      = {Buxton, William},
-	school       = {University of Toronto}
+	school       = {University of Toronto},
+	abstract     = {This dissertation defines and explores Graspable User Interfaces, an evolution of the input mechanisms used in graphical user interfaces (GUIs). A Graspable UI design provides users concurrent access to multiple, specialized input devices which can serve as dedicated physical interface widgets, affording physical manipulation and spatial arrangements. Like conventional GUIs, physical devices function as "handles" or manual controllers for logical functions on widgets in the interface. However, the notion of the Graspable UI builds on current practice in a number of ways. With conventional GUIs, there is typically only one graphical input device, such as a mouse. Hence, the physical handle is necessarily "time-multiplexed," being repeatedly attached and unattached to the various logical functions of the GUI. A significant aspect of the Graspable UI is that there can be more than one input device. Hence input control can then be "space-multiplexed." That is, different devices can be attached to different functions, each independently (but possibly simultaneously) accessible. This, then affords the capability to take advantage of the shape, size and position of the physical controller to increase functionality and decrease complexity. It also means that the potential persistence of attachment of a device to a function can be increased. By using physical objects, we not only allow users to employ a larger expressive range of gestures and grasping behaviors but also to leverage off of a user's innate spatial reasoning skills and everyday knowledge of object manipulations.In this thesis the concept of Graspable user interfaces is defined. Support for the concept is provided from the psychological literature. Instantiations of the concept are found in existing user interfaces. A task analysis of an existing interface's input activities and how to convert these to Graspable user interface devices is presented. The possible uses and implementation difficulties of bricks, a specific Graspable user interface are investigated. Finally, the advantages of two of the Graspable UI properties over conventional time-multiplexed generic input devices is measured by two controlled experiments.}
 }
 @inproceedings{fleck2010reflecting,
 	title        = {Reflecting on reflection: framing a design landscape},
@@ -2351,6 +2414,23 @@ https://www.taliweinberg.com/datascapes
 	volume       = {22},
 	number       = {3},
 	pages        = {110--161}
+}
+@inproceedings{Maudet2017,
+author = {Maudet, Nolwenn and Leiva, Germ\'{a}n and Beaudouin-Lafon, Michel and Mackay, Wendy},
+title = {Design Breakdowns: Designer-Developer Gaps in Representing and Interpreting Interactive Systems},
+year = {2017},
+isbn = {9781450343350},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2998181.2998190},
+doi = {10.1145/2998181.2998190},
+abstract = {Professional interaction designers and software developers have different trainings and skills, yet they need to closely collaborate to create interactive systems. We conducted three studies to understand the mismatches between their processes, tools and representations. Based on 16 interviews, we found that current practices induce unnecessary rework and cause discrepancies between the original design and the implementation. We identified three key design breakdowns where designers omitted critical details, ignored the presence of edge cases or disregarded technical limitations. We next observed two face-to-face meetings between designers and developers. We found that early involvement of the developer helped to mitigate potential design breakdowns but new ones emerged as the project unfolded. Finally, we ran a participatory design session with two designer/developer pairs. Both pairs had difficulty representing and communicating pre-existing interactions. Creating complete interaction descriptions required iterating from individual examples to rule-based representations. We conclude with implications for designing collaborative tools that facilitate the designer's ability to express and the developer's ability to implement complex interactive systems.},
+booktitle = {Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing},
+pages = {630–641},
+numpages = {12},
+keywords = {collaborative prototyping tools, design breakdowns, designer-developer collaboration, interactive system representation, shared artifacts},
+location = {Portland, Oregon, USA},
+series = {CSCW '17}
 }
 @inproceedings{Frappier2024,
 	title        = {Jumping to Conclusions: A Visual Comparative Analysis of Online Debate Platform Layouts},
@@ -2418,7 +2498,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {37},
 	number       = {5},
 	pages        = {106--112},
-	doi          = {10.1109/MCG.2017.3621230}
+	doi          = {10.1109/MCG.2017.3621230},
+	keywords     = {Visualization;Computer graphics;Globalization;Employment;Research and development;computer graphics;visualization;global workforce;cross-disciplinary research;interdisciplinary skills}
 }
 @inproceedings{gamberini2012tailoring,
 	title        = {Tailoring feedback to users’ actions in a persuasive game for household electricity conservation},
@@ -2448,7 +2529,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3172944.3172970},
 	isbn         = {9781450349451},
 	url          = {https://doi.org/10.1145/3172944.3172970},
-	numpages     = {13}
+	numpages     = {13},
+	keywords     = {intelligent system, selective exposure, social opinion}
 }
 @inproceedings{gaver1991affordances,
 	title        = {Technology Affordances},
@@ -2489,7 +2571,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3372782.3406268},
 	isbn         = {9781450370929},
 	url          = {https://doi.org/10.1145/3372782.3406268},
-	numpages     = {11}
+	abstract     = {This paper describes the design and classroom implementation of a week-long unit that aims to integrate computational thinking (CT) into middle school science classes using programmable sensor technology. The goals of this sensor immersion unit are to help students understand why and how to use sensor and visualization technology as a powerful data-driven tool for scientific inquiry in ways that align with modern scientific practice. The sensor immersion unit is anchored in the investigation of classroom data where students engage with the sensor technology to ask questions about and design displays of the collected data. Students first generate questions about how data data displays work and then proceed through a set of programming exercises to help them understand how to collect and display data collected from their classrooms by building their own mini data displays. Throughout the unit students draw and update their hand drawn models representing their current understanding of how the data displays work. The sensor immersion unit was implemented by ten middle school science teachers during the 2019/2020 school year. Student drawn models of the classroom data displays from four of these teachers were analyzed to examine students' understandings in four areas: function of sensor components, process models of data flow, design of data displays, and control of the display. Students showed the best understanding when describing sensor components. Students exhibited greater confusion when describing the process of how data streams moved through displays and how programming controlled the data displays.},
+	numpages     = {11},
+	keywords     = {middle school science, computational thinking, sensors, micro:bit}
 }
 @misc{Grinstein:2002:IVV,
 	title        = {Information Visualization, Visual Data Mining, and Its Application to Drug Design},
@@ -2614,7 +2698,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3064663.3064794},
 	isbn         = {9781450349222},
 	url          = {https://doi.org/10.1145/3064663.3064794},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {situated analysis, communities of practice, dataphysicalization, data collection, reflective design}
 }
 @article{graham2003search,
 	title        = {In search of online deliberation: Towards a new method for examining the quality of online discussions},
@@ -2667,7 +2752,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/1357054.1357074},
 	isbn         = {9781605580111},
 	url          = {https://doi.org/10.1145/1357054.1357074},
-	numpages     = {10}
+	numpages     = {10},
+	keywords     = {teaching usability, interface critiques, usability testing}
 }
 @book{greenberg2011sketching,
 	title        = {Sketching user experiences: The workbook},
@@ -2715,7 +2801,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3308561.3353804},
 	isbn         = {9781450366762},
 	url          = {https://doi.org/10.1145/3308561.3353804},
-	numpages     = {11}
+	numpages     = {11},
+	keywords     = {accessibility, education, blindness, tangible user interfaces, tactile, robots}
 }
 @article{guldi2017history,
 	title        = {A history of the participatory map},
@@ -2753,7 +2840,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {26},
 	number       = {1},
 	pages        = {109--118},
-	doi          = {10.1109/TVCG.2019.2934790}
+	doi          = {10.1109/TVCG.2019.2934790},
+	keywords     = {Visualization;Collaboration;Cultural differences;Data visualization;Buildings;Global communication;Visualization;problem-driven;design studies;collaboration;methodology;framework}
 }
 @misc{MomaPoll,
 	title        = {Moma Poll},
@@ -2771,7 +2859,9 @@ https://www.taliweinberg.com/datascapes
 	pages        = {461--469},
 	doi          = {https://doi.org/10.1016/j.chb.2015.05.018},
 	issn         = {0747-5632},
-	url          = {https://www.sciencedirect.com/science/article/pii/S0747563215003891}
+	url          = {https://www.sciencedirect.com/science/article/pii/S0747563215003891},
+	keywords     = {Deliberation, Informed debate, Democracy, Public opinion, Human–computer interaction, Website design},
+	abstract     = {A healthy democracy requires cognizant citizens who are willing and able to make informed decisions about political issues. ConsiderIt is a software application aimed at facilitating and encouraging personal deliberation. This article reports on a pretest–posttest experimental study (N=36) into the immediate effects of two possible variations of ConsiderIt: a version with predefined pro and con statements, and one in which users decide for themselves whether statements are pro or con. The participants used ConsiderIt in a controversial case on the position of Greece in the European Union. Data were gathered on changes in standpoint, perceived knowledge, perceived understanding, and general open-mindedness. Irrespective of the variation used, the use of ConsiderIt significantly appeared to affect the users’ standpoint as well as their perceived knowledge and understanding of the subject matter. No effects were found on general open-mindedness. Qualitative data, however, showed that it was still hard for the participants to commit themselves to full deliberative behavior. Based on these findings, it seems interesting to implement the usage of this type of software application in educational settings to contribute to a more deliberative society.}
 }
 @inproceedings{hansen2014civic,
 	title        = {Civic action brokering platforms: facilitating local engagement with ACTion Alexandria},
@@ -2826,7 +2916,8 @@ https://www.taliweinberg.com/datascapes
 	issn         = {0730-0301},
 	url          = {https://doi.org/10.1145/1276377.1276382},
 	issue_date   = {July 2007},
-	numpages     = {8}
+	numpages     = {8},
+	keywords     = {hole filling, image completion, image compositing, image database, inpainting}
 }
 @article{healey1996high,
 	title        = {High-speed visual estimation using preattentive processing},
@@ -2877,7 +2968,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/1054972.1055031},
 	isbn         = {1581139985},
 	url          = {https://doi.org/10.1145/1054972.1055031},
-	numpages     = {10}
+	numpages     = {10},
+	keywords     = {user interfaces, 2D graphics, toolkits, interaction, trees, navigation, information visualization, graphs}
 }
 @article{heer2012interactive,
 	title        = {Interactive dynamics for visual analysis},
@@ -3002,7 +3094,9 @@ https://www.taliweinberg.com/datascapes
 	pages        = {120--132},
 	doi          = {https://doi.org/10.1016/j.jvlc.2017.10.001},
 	issn         = {1045-926X},
-	url          = {https://www.sciencedirect.com/science/article/pii/S1045926X17301805}
+	url          = {https://www.sciencedirect.com/science/article/pii/S1045926X17301805},
+	keywords     = {Visualization construction tools, Information visualization, Design space, User interfaces, Interaction, Toolkits},
+	abstract     = {Information visualization has been widely used to convey information from data and assist communication. There are enormous needs of efficient visualization design for users from diverse fields to leverage the power of data. As a result, emerging construction tools for information visualization focus on providing solutions with different aspects including expressiveness, accessibility, and efficiency. In this paper, we review existing works on declarative specifications and user interfaces for visualization construction. By summarizing their methods for producing information visualizations and efforts on improving usability, we express the design patterns in terms of a design space which describes the tools in several different aspects. We discuss how the design space can be applied to support further exploration of potential research topics in the future.}
 }
 @article{MEI2018120,
 	title        = {The design space of construction tools for information visualization: A survey},
@@ -3047,7 +3141,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3617366},
 	issn         = {1073-0516},
 	url          = {https://doi.org/10.1145/3617366},
-	note         = {Just Accepted}
+	note         = {Just Accepted},
+	abstract     = {Although physical artifacts that represent data have been used for centuries, the research field –known as data physicalization– has only recently gained traction. Compared to data visualization, there is no established vocabulary for analysing and discussing the properties of physicalizations. Through a grounded analysis of examples and literature, we propose a comprehensive design vocabulary, which consist of three separate, but connected parts: ‘explicit variables’, ‘implicit properties’, and ‘consequential aspects’. Explicit variables build on visual variables known from visualization and extend it to account for physicalization’s multi-modal nature. Implicit properties concern elements which are central to the design intention and user experience of physicalizations, yet are not a result of ‘explicit’ encoding strategies. Finally, consequential aspects refer to unintentional effects of design decisions, that influence how a physicalization is experienced. Our work illustrates how physicalizations incorporate opportunities and challenges that are not afforded in other data representations, such as embodiment and ‘imagined touch’. With this, we contribute to generating theory on physicalization. Our design vocabulary can support (1) creators through informing their design processes and highlighting design strategies, (2) educators, and (3) academics and practitioners to analyse existing physicalizations, and reflect on the impact of design decisions on interpretation and experience.},
+	keywords     = {Embodiment, Data Narrative, InfoVis, Materiality, User Experience, Visualization, Design Language, Material Turn}
 }
 @article{DesignVocabularyforDataPhysicalization,
 	title        = {A Design Vocabulary for Data Physicalization},
@@ -3063,8 +3159,10 @@ https://www.taliweinberg.com/datascapes
 	issn         = {1073-0516},
 	url          = {https://doi.org/10.1145/3617366},
 	issue_date   = {February 2024},
+	abstract     = {Although physical artifacts that represent data have been used for centuries, the research field—known as data physicalization—has only recently gained traction. Compared to data visualization, there is no established vocabulary for analyzing and discussing the properties of physicalizations. Through a grounded analysis of examples and literature, we propose a comprehensive design vocabulary, which consist of three separate, but connected parts: explicit variables, implicit properties, and consequential aspects. Explicit variables build on visual variables known from visualization and extend it to account for physicalization’s multi-modal nature. Implicit properties concern elements which are central to the design intention and user experience of physicalizations, yet are not a result of “explicit” encoding strategies. Finally, consequential aspects refer to unintentional effects of design decisions, that influence how a physicalization is experienced. Our work illustrates how physicalizations incorporate opportunities and challenges that are not afforded in other data representations, such as embodiment and imagined touch. With this, we contribute to generating theory on physicalization. Our design vocabulary can support (1) creators through informing their design processes and highlighting design strategies, (2) educators, and (3) academics and practitioners to analyse existing physicalizations, and reflect on the impact of design decisions on interpretation and experience.},
 	articleno    = {2},
-	numpages     = {62}
+	numpages     = {62},
+	keywords     = {Visualization, InfoVis, user experience, data narrative, materiality, material turn, embodiment, design language}
 }
 @inbook{houben2015physikit,
 	title        = {Physikit: Data Engagement Through Physical Ambient Visualizations in the Home},
@@ -3109,7 +3207,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3290605.3300358},
 	isbn         = {9781450359702},
 	url          = {https://doi.org/10.1145/3290605.3300358},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {automated visualization, crowdsourcing, machine learning}
 }
 @article{huang2014personal,
 	title        = {Personal visualization and personal visual analytics},
@@ -3183,7 +3282,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2598510.2598566},
 	isbn         = {9781450329026},
 	url          = {https://doi.org/10.1145/2598510.2598566},
-	numpages     = {10}
+	numpages     = {10},
+	keywords     = {education, assembling, design, visualization, constructionism, constructivism, construction, visual literacy.}
 }
 %%%%%%%%%%%%%%%%%%%%
 @inproceedings{huron2012user,
@@ -3205,7 +3305,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3064663.3064798},
 	isbn         = {9781450349222},
 	url          = {https://doi.org/10.1145/3064663.3064798},
-	numpages     = {14}
+	abstract     = {In this pictorial, we present a method to facilitate hands-on physicalization processes during workshops. Data physicalization -- encoding data in physical artefacts -- allows for new ways to represent and communicate data and, as a process, can make the principles of data representation more "graspable". In order to (1) engage different research communities to discuss data physicalization from a social and technology point of view, (2) promote data-driven prototyping, and (3) teach physicalization as a creative process in educational settings we have run hands-on data physicalization workshops within Human Computer Interaction, Information visualization and Design communities. Based on these workshops, we identified three main pitfalls that can cause participants to get stuck in the data preparation, ideation and construction phases. To address these, we designed a workshop to facilitate a rapid engagement in physicalization activities. Testing this method as part of another physicalization workshop shows its potential for participant engagement, prototyping and design reflection.},
+	numpages     = {14},
+	keywords     = {data physicalization, creative workshop, information visualization}
 }
 @inproceedings{huron2011polemical,
 	title        = {Polemical Video Annotation by Twitter.},
@@ -3517,7 +3619,8 @@ https://www.taliweinberg.com/datascapes
 	pages        = {20–es},
 	doi          = {10.1145/1281500.1281531},
 	isbn         = {9781450318235},
-	url          = {https://doi.org/10.1145/1281500.1281531}
+	url          = {https://doi.org/10.1145/1281500.1281531},
+	keywords     = {3D drawing, user interface design, gestural interface, interaction technique, prediction}
 }
 @inproceedings{ipeirotis2011managing,
 	title        = {Managing crowdsourced human computation: a tutorial},
@@ -3576,7 +3679,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/258549.258715},
 	isbn         = {0897918029},
 	url          = {https://doi.org/10.1145/258549.258715},
-	numpages     = {8}
+	numpages     = {8},
+	keywords     = {center and periphery, ambient media, foreground and background, graspable user interface, augmented reality, tangible user interface, ubiquitous computing}
 }
 @phdthesis{sutherland:sketchpad,
 	title        = {Sketchpad, a Man-Machine Graphical Communication System},
@@ -3598,7 +3702,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/1201775.882353},
 	isbn         = {1581137095},
 	url          = {https://doi.org/10.1145/1201775.882353},
-	numpages     = {10}
+	abstract     = {Grid-based page designs are ubiquitous in commercially printed publications, such as newspapers and magazines. Yet, to date, no one has invented a good way to easily and automatically adapt such designs to arbitrarily-sized electronic displays. The difficulty of generalizing grid-based designs explains the generally inferior nature of on-screen layouts when compared to their printed counterparts, and is arguably one of the greatest remaining impediments to creating on-line reading experiences that rival those of ink on paper. In this work, we present a new approach to adaptive grid-based document layout, which attempts to bridge this gap. In our approach, an adaptive layout style is encoded as a set of grid-based templates that know how to adapt to a range of page sizes and other viewing conditions. These templates include various types of layout elements (such as text, figures, etc.) and define, through constraint-based relationships, just how these elements are to be laid out together as a function of both the properties of the content itself, such as a figure's size and aspect ratio, and the properties of the viewing conditions under which the content is being displayed. We describe an XML-based representation for our templates and content, which maintains a clean separation between the two. We also describe the various parts of our research prototype system: a layout engine for formatting the page; a paginator for determining a globally optimal allocation of content amongst the pages, as well as an optimal pairing of templates with content; and a graphical user interface for interactively creating adaptive templates. We also provide numerous examples demonstrating the capabilities of this prototype, including this paper, itself, which has been laid out with our system.},
+	numpages     = {10},
+	keywords     = {CSS, HTML, PDF, XML, XSL, adaptive layout, constraints, dynamic programming, pagination, templates}
 }
 @misc{NN:Prioritize,
 	title        = {Prioritize: Good Content Bubbles to the Top},
@@ -3623,7 +3729,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3322276.3322333},
 	isbn         = {9781450358507},
 	url          = {https://doi.org/10.1145/3322276.3322333},
-	numpages     = {8}
+	numpages     = {8},
+	keywords     = {schedule, tangible, physicalization, dematerialization}
 }
 @article{jansen2022digital,
 	title        = {Digital Production-Section Introduction},
@@ -3655,7 +3762,9 @@ https://www.taliweinberg.com/datascapes
 	pages        = {2593–2602},
 	isbn         = {9781450318990},
 	url          = {https://doi.org/10.1145/2470654.2481359},
-	numpages     = {10}
+	abstract     = {Data sculptures are an increasingly popular form of physical visualization whose purposes are essentially artistic, communicative or educational. But can physical visualizations help carry out actual information visualization tasks? We present the first infovis study comparing physical to on-screen visualizations. We focus on 3D visualizations, as these are common among physical visualizations but known to be problematic on computers. Taking 3D bar charts as an example, we show that moving visualizations to the physical world can improve users' efficiency at information retrieval tasks. In contrast, augmenting on-screen visualizations with stereoscopic rendering alone or with prop-based manipulation was of limited help. The efficiency of physical visualizations seems to stem from features that are unique to physical objects, such as their ability to be touched and their perfect visual realism. These findings provide empirical motivation for current research on fast digital fabrication and self-reconfiguring interfaces.},
+	numpages     = {10},
+	keywords     = {physical visualization, evaluation, 3d visualization}
 }
 @inproceedings{jansen2015opportunities,
 	title        = {Opportunities and challenges for data physicalization},
@@ -3670,7 +3779,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2702123.2702180},
 	isbn         = {9781450331456},
 	url          = {https://doi.org/10.1145/2702123.2702180},
-	numpages     = {10}
+	numpages     = {10},
+	keywords     = {tangible user interfaces, visualization, data physicalization, shape-changing interfaces, physical visualization}
 }
 @article{jansen2016size,
 	title        = {A Psychophysical Investigation of Size as a Physical Variable},
@@ -3753,7 +3863,9 @@ https://www.taliweinberg.com/datascapes
 	address      = {USA},
 	series       = {CASCON '15},
 	pages        = {244–247},
-	numpages     = {4}
+	abstract     = {We present a prototype for a Tangible User Interface (TUI) designed to interactively query a database. While much work has been done on TUI, showing that they encourage collaboration and positively enhance user experience, few tangible systems have been designed specifically for data analysis tasks. Our system combines a tabletop (non-digital) graspable user interface with a two-dimensional screen display; the user interrogates the data by placing tokens on or off the tabletop and the screen displays the results of the user's query. The objects are tagged using fiducial markers, which are identified with open-source ReacTIVision computer vision software, and the visualization code is written in Processing. We use radio station listenership demographic data for this prototype, but the system can be used to query any type of database.},
+	numpages     = {4},
+	keywords     = {collaborative work environment, tangible user interface, collaboration, interface design, database query, data analytics, collaborative computing, physical visualization, tangible computing, 3d interactions, collaborative learning, human computer interaction, graspable user interface, data materialization}
 }
 @inproceedings{johnson2020creating,
 	title        = {From creating spaces for civic discourse to creating resources for action},
@@ -3854,7 +3966,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3196709.3196783},
 	isbn         = {9781450351980},
 	url          = {https://doi.org/10.1145/3196709.3196783},
-	numpages     = {13}
+	abstract     = {Bats are often disliked and feared by people. How might we enable the general public to learn more about the true nature of these creatures, and even to like them? In this paper, we introduce PlayBat, a physical public display, which combines a multi-modal interface, a constrained narrative structure and real-time IoT environmentally sensed bat call data. The aim of our research is to investigate whether promoting curiosity and discovery through enabling people to explore real-life data, answer quiz-like questions and engage with a multi-modal interface, is effective at engaging people and confronting their fears. We report on the design process and implementation of PlayBat, and the findings from an in-the-wild study. We discuss how tapping into multiple senses can draw people in, evoke curiosity and even change their views.},
+	numpages     = {13},
+	keywords     = {tangible interface, playful technology, fear confrontation, physical visualisation, internet of things (iot), curiosity}
 }
 @article{kaper1999data,
 	title        = {Data sonification and sound visualization},
@@ -3876,6 +3990,7 @@ https://www.taliweinberg.com/datascapes
 	pages        = {967–976},
 	isbn         = {9781450310154},
 	url          = {https://doi.org/10.1145/2207676.2208541},
+	abstract     = {Interpretations of the concept of "affordances" in HCI are becoming increasingly diverse, extending well beyond the original Gibsonian meaning. We discuss some of the key analyses of affordances in HCI research and make three related claims. First, we argue that many current interpretations of the concept are essentially incompatible with Gibson. Second, we hold that the Gibsonian concept of affordances, conceptualized as interaction between animals and their environments, provides some important insights, but is, in the end, of limited relevance to HCI research. Third, we call for adopting a mediated action perspective on affordances as an alternative to Gibson's ecological psychology. We outline a view of technology affordances as possibilities for human action mediated by cultural means conceived as a relational property of a three-way interaction between the person, mediational means, and environment. We conclude with a discussion of prospects for future conceptual and empirical explorations of the meditational perspective in HCI research.},
 	numpages     = {10}
 }
 @inproceedings{Karyda2021data,
@@ -3909,7 +4024,9 @@ https://www.taliweinberg.com/datascapes
 	pages        = {89--96},
 	doi          = {https://doi.org/10.1016/j.enpol.2014.12.008},
 	issn         = {0301-4215},
-	url          = {https://www.sciencedirect.com/science/article/pii/S0301421514006739}
+	url          = {https://www.sciencedirect.com/science/article/pii/S0301421514006739},
+	keywords     = {Feedback, Problems, In-home-displays, Smart meter initiative, UK government policy, User engagement},
+	abstract     = {With smart metering initiatives gaining increasing global popularity, the present paper seeks to challenge the increasingly entrenched view that providing householders with feedback about their energy usage, via an in-home-display, will lead them to substantially reduce their energy consumption. Specifically, we draw on existing quantitative and qualitative evidence to outline three key problems with feedback, namely: (a) the limited evidence of efficacy, (b) the need for user engagement, and (c) the potential for unintended consequences. We conclude by noting that, in their current form, existing in-home-displays may not induce the desired energy-reduction response anticipated by smart metering initiatives. Instead, if smart metering is to effectively reduce energy consumption there is a clear need to develop and test innovative new feedback devices that have been designed with user engagement in mind.}
 }
 @article{Einsfeld2009,
 	title        = {Knowledge Generation through Human-Centered Information Visualization},
@@ -3959,8 +4076,10 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3656650.3656736},
 	isbn         = {9798400717642},
 	url          = {https://doi.org/10.1145/3656650.3656736},
+	abstract     = {Participatory data physicalizations allow people to physically participate in the creation of visualizations. In this work, we present four categories of data physicalization concepts that were tested with public event visitors in a university context. The goal was to create data physicalizations from simple, affordable materials to engage visitors in data collection and visualization in a playful way.},
 	articleno    = {85},
-	numpages     = {3}
+	numpages     = {3},
+	keywords     = {Data Collection, Data Physicalization, Encoding, Engagement}
 }
 @article{Keefe2018weather,
 	title        = {Weather Report: A Site-Specific Artwork Interweaving Human Experiences and Scientific Data Physicalization},
@@ -3991,7 +4110,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1007/978-3-540-70956-5_7},
 	isbn         = {978-3-540-70956-5},
 	url          = {https://doi.org/10.1007/978-3-540-70956-5_7},
-	editor       = {Kerren, Andreas and Stasko, John T. and Fekete, Jean-Daniel and North, Chris}
+	editor       = {Kerren, Andreas and Stasko, John T. and Fekete, Jean-Daniel and North, Chris},
+	abstract     = {We are living in a world which faces a rapidly increasing amount of data to be dealt with on a daily basis. In the last decade, the steady improvement of data storage devices and means to create and collect data along the way influenced our way of dealing with information: Most of the time, data is stored without filtering and refinement for later use. Virtually every branch of industry or business, and any political or personal activity nowadays generate vast amounts of data. Making matters worse, the possibilities to collect and store data increase at a faster rate than our ability to use it for making decisions. However, in most applications, raw data has no value in itself; instead we want to extract the information contained in it.}
 }
 @misc{NN:Wireframe,
 	title        = {How to Draw a Wireframe (Even if You Can’t Draw)},
@@ -4016,7 +4136,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3532106.3533470},
 	isbn         = {9781450393584},
 	url          = {https://doi.org/10.1145/3532106.3533470},
-	numpages     = {12}
+	abstract     = {The effects of social media on our society are heavily researched and discussed, but few insights about the role of aesthetic design therein have been gained to this date, despite research in related areas providing precedent: drawing from existing theory on persuasive design, nudge, dark patterns, and advertising, we suggest the term Aesthetic Design Power to conduct a preliminary critical analysis of the design of four influential social media platforms (Facebook, Twitter, Instagram, and TikTok) as a foundation for critical discussions about the aesthetic design of social media and its impact. We present salient design attributes and elements shared by these four platforms, speculate about the possible motivations and effects of these design decisions, and argue for an urgent need for further research into, and discussions about, the visual design and connected Aesthetic Design Power of social media.},
+	numpages     = {12},
+	keywords     = {Facebook, Social Media, Power, Twitter, TikTok, Visual Design, Instagram, Aesthetics}
 }
 @inproceedings{kender2022shape,
 	title        = {The Shape of Social Media: Towards Addressing (Aesthetic) Design Power},
@@ -4050,7 +4172,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2901790.2901886},
 	isbn         = {9781450340311},
 	url          = {https://doi.org/10.1145/2901790.2901886},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {3d printing, social media, cricket, sports souvenirs, physical visualization}
 }
 @inproceedings{KhotUnderstandingPhysical2014,
 	title        = {Understanding Physical Activity through 3D Printed Material Artifacts},
@@ -4065,7 +4188,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2556288.2557144},
 	isbn         = {9781450324731},
 	url          = {https://doi.org/10.1145/2556288.2557144},
-	numpages     = {10}
+	numpages     = {10},
+	keywords     = {entertainment, digital fabrication, quantifiable self, physical exercise, personal informatics, 3d printing}
 }
 @article{khoussainovaSnipSuggestContextawareAutocompletion2010,
 	title        = {{SnipSuggest}: context-aware autocompletion for {SQL}},
@@ -4103,7 +4227,8 @@ https://www.taliweinberg.com/datascapes
 	url          = {https://doi.org/10.1145/3449140},
 	issue_date   = {April 2021},
 	articleno    = {66},
-	numpages     = {29}
+	numpages     = {29},
+	keywords     = {public sphere, opinion exploration, polarization, identities}
 }
 @inproceedings{kim:2022:thinkwrite,
 	title        = {ThinkWrite: Design Interventions for Empowering User Deliberation in Online Petition},
@@ -4118,7 +4243,8 @@ https://www.taliweinberg.com/datascapes
 	isbn         = {9781450391566},
 	url          = {https://doi.org/10.1145/3491101.3519644},
 	articleno    = {428},
-	numpages     = {8}
+	numpages     = {8},
+	keywords     = {Design intervention, Citizen Participation, Public policy, Deliberation, Online Petition, e-Petition}
 }
 @incollection{kim2009tenere,
 	title        = {The t{\'e}n{\'e}r{\'e}: design for supporting energy conservation behaviors},
@@ -4183,7 +4309,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/1142405.1142429},
 	isbn         = {1595933670},
 	url          = {https://doi.org/10.1145/1142405.1142429},
-	numpages     = {10}
+	abstract     = {Our physical bodies play a central role in shaping human experience in the world, understandingof the world, and  interactions in the world. This paper draws on theories of embodiment - from psychology, sociology, and philosophy - synthesizing five themes we believe are particularly salient for interaction design: thinking through doing, performance, visibility, risk, and thick practice. We intro-duce aspects of human embodied engagement in the world with the goal of inspiring new interaction design ap-proaches and evaluations that better integrate the physical and computational worlds.},
+	numpages     = {10},
+	keywords     = {phenomenology, interaction design, embodiment, bodies, embodied interaction, ubiquitous computing}
 }
 @inproceedings{Klemmer:2002:WSC:503376.503378,
 	title        = {Where Do Web Sites Come from?: Capturing and Interacting with Design History},
@@ -4198,7 +4326,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/503376.503378},
 	isbn         = {1-58113-453-3},
 	url          = {http://doi.acm.org/10.1145/503376.503378},
-	acmid        = {503378}
+	acmid        = {503378},
+	keywords     = {CSCW, activity capture, design rationale, history management, informal interfaces, sketching, tangible UI, web design}
 }
 @inproceedings{10.1145/2807442.2807446,
 	title        = {Webstrates: Shareable Dynamic Media},
@@ -4213,7 +4342,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2807442.2807446},
 	isbn         = {9781450337793},
 	url          = {https://doi.org/10.1145/2807442.2807446},
-	numpages     = {11}
+	numpages     = {11},
+	keywords     = {dynamic media, web, real-time collaborative documents}
 }
 @misc{ParticipatoryMatrix,
 	title        = {Participatory Matrix},
@@ -4287,7 +4417,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2531602.2531677},
 	isbn         = {9781450325400},
 	url          = {https://doi.org/10.1145/2531602.2531677},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {civic engagement, fact-checking, value sensitive design, libraries, deliberation}
 }
 @inproceedings{kriplean2012supporting,
 	title        = {Supporting reflective public thought with considerit},
@@ -4309,7 +4440,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2207676.2208621},
 	isbn         = {9781450310154},
 	url          = {https://doi.org/10.1145/2207676.2208621},
-	numpages     = {10}
+	numpages     = {10},
+	keywords     = {grounding, deliberation, listening, web, discussion}
 }
 @book{krippendorff2018content,
 	title        = {Content Analysis: An Introduction to Its Methodology},
@@ -4351,7 +4483,8 @@ https://www.taliweinberg.com/datascapes
 	url          = {https://doi.org/10.1145/3369026},
 	issue_date   = {January 2021},
 	articleno    = {12},
-	numpages     = {37}
+	numpages     = {37},
+	keywords     = {Stance detection, Twitter, deep learning, social media analysis}
 }
 @book{kuhn1970structure,
 	title        = {The structure of scientific revolutions},
@@ -4417,7 +4550,8 @@ https://www.taliweinberg.com/datascapes
 	issn         = {0730-0301},
 	url          = {https://doi.org/10.1145/1276377.1276381},
 	issue_date   = {July 2007},
-	numpages     = {10}
+	numpages     = {10},
+	keywords     = {3D scene reasoning, object insertion, blending and compositing, computational photography, image databases}
 }
 @article{lam2011empirical,
 	title        = {Empirical studies in information visualization: Seven scenarios},
@@ -4542,7 +4676,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2984511.2984547},
 	isbn         = {9781450341899},
 	url          = {https://doi.org/10.1145/2984511.2984547},
-	numpages     = {13}
+	abstract     = {This paper introduces swarm user interfaces, a new class of human-computer interfaces comprised of many autonomous robots that handle both display and interaction. We describe the design of Zooids, an open-source open-hardware platform for developing tabletop swarm interfaces. The platform consists of a collection of custom-designed wheeled micro robots each 2.6 cm in diameter, a radio base-station, a high-speed DLP structured light projector for optical tracking, and a software framework for application development and control. We illustrate the potential of tabletop swarm user interfaces through a set of application scenarios developed with Zooids, and discuss general design considerations unique to swarm user interfaces.},
+	numpages     = {13},
+	keywords     = {swarm user interfaces, tangible user interfaces}
 }
 @article{le2018dynamic,
 	title        = {Dynamic composite data physicalization using wheeled micro-robots},
@@ -4583,6 +4719,7 @@ https://www.taliweinberg.com/datascapes
 	pages        = {1793–1806},
 	isbn         = {9781450369749},
 	url          = {https://doi.org/10.1145/3357236.3395439},
+	abstract     = {We introduce DayClo, an interactive clock visualizing schedule data for supporting users to reflect and self-track themselves in their daily lives. DayClo is designed by applying the form and time representation method of analog clocks. It shows the user's upcoming schedules through the sequential movement of two clock hands with hidden LEDs and a display. We deployed DayClo in eight participants' working spaces for a month to explore how the design and its interaction could support their reflections on their scheduling practices. The findings revealed that DayClo supported users' casual access to the schedule data and motivated self-tracking of their plans. Moreover, the moving clock hands revealed the empty time of their schedules and helped to draw new plans for their implicit goal. Our findings suggest new opportunities for designing everyday objects as a medium of delivering and fostering spontaneous interaction with personal data for self-reflection.},
 	numpages     = {14}
 }
 @inproceedings{lee2021adio,
@@ -4594,6 +4731,7 @@ https://www.taliweinberg.com/datascapes
 	address      = {New York, NY, USA},
 	isbn         = {9781450380966},
 	url          = {https://doi.org/10.1145/3411764.3445440},
+	abstract     = {Although audiobooks are increasingly being used, people tend to perceive audiobook experiences as 'not real reading' due to its intangibility and ephemerality. In this paper, we developed ADIO, a device augmenting audiobook experience through representing personal listening state in the form of an interactive physical bookshelf. ADIO displays a user's listening progress through a pendant's changing length and the user's digital audiobook archive titles. The result of our four-week in-field study with six participants revealed that ADIO provided proof of the user's listening-to, which brought a sense of reading and gave a trigger for recalling the listened-to audiobook content. Additionally, audiobooks' improved visibility reminded participants to listen to them, and ADIO's physical interaction allowed participants to form personal patterns for listening to audiobooks. Our findings proposed new methods for augmenting the audiobook listening experience at three stages and further implications for designing physical curation on users’ digital archives.},
 	articleno    = {164},
 	numpages     = {12}
 }
@@ -4621,7 +4759,8 @@ https://www.taliweinberg.com/datascapes
 	isbn         = {9781450391566},
 	url          = {https://doi.org/10.1145/3491101.3516394},
 	articleno    = {7},
-	numpages     = {13}
+	numpages     = {13},
+	keywords     = {Drawing, Accessibility, HCI, Visual Thinking, Alternative Text}
 }
 @article{lewis2015qualitative,
 	title        = {Qualitative inquiry and research design: Choosing among five approaches},
@@ -4658,7 +4797,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2531602.2531711},
 	isbn         = {9781450325400},
 	url          = {https://doi.org/10.1145/2531602.2531711},
-	numpages     = {13}
+	numpages     = {13},
+	keywords     = {information diversity, motivation, selective exposure}
 }
 %%%%%%%%%%%%%%%%%%%%
 @inproceedings{liikkanen2011foundations,
@@ -4691,7 +4831,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3313831.3376880},
 	isbn         = {9781450367080},
 	url          = {https://doi.org/10.1145/3313831.3376880},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {language, recommendation, anchoring, visualization}
 }
 @book{linnaeus1799species,
 	title        = {Species Plantarum},
@@ -4747,7 +4888,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3290605.3300633},
 	isbn         = {9781450359702},
 	url          = {https://doi.org/10.1145/3290605.3300633},
-	numpages     = {13}
+	numpages     = {13},
+	keywords     = {circuit design, breadboard, autocomplete}
 }
 @inproceedings{lo2016skintillates,
 	title        = {Skintillates: Designing and Creating Epidermal Interactions},
@@ -4762,7 +4904,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2901790.2901885},
 	isbn         = {9781450340311},
 	url          = {https://doi.org/10.1145/2901790.2901885},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {fabrications, wearable, on-skin display, epidermal, tattoo, mobile computing, on-skin sensing, wearable computing}
 }
 @article{lockton2022editorial,
 	title        = {Editorial: Valuing the qualitative in design and data},
@@ -4804,6 +4947,7 @@ https://www.taliweinberg.com/datascapes
 	pages        = {1579–1591},
 	isbn         = {9781450369749},
 	url          = {https://doi.org/10.1145/3357236.3395482},
+	abstract     = {Autoethnographic and other first-person research methods are a topic of increasing interest in design and HCI. This focus parallels the boom in self-tracking and personal informatics, perhaps most intriguingly in the intersection of quantitative and qualitative data and the noticing of patterns in one's own life and everyday wellbeing. But how can design support this? One opportunity is for research probes, or tools, which enable forms of self-inquiry, by design researchers themselves, or others. In this paper-with the broad scope of healthier student sleep as a domain-we present a series of artifacts designed by undergraduates as tools to enable autoethnographic exploration, and detail how they have been used to investigate bedtime routines, personal scheduling of time, focus, sleep data, and sleeping in non-traditional places. We also reflect on the notion of combination autoethnographic 'kits' as a way forward for forms of self-inquiry.},
 	numpages     = {13}
 }
 @misc{Logora,
@@ -4832,8 +4976,10 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3430524.3440627},
 	isbn         = {9781450382137},
 	url          = {https://doi.org/10.1145/3430524.3440627},
+	abstract     = {Given the material nature of data physicalization, their creators need to make many design decisions, including material choices and scale. Our study explores the impact of scale in physicalization, motivated by the assumption that size can affect user experience. We created two different physicalizations (for the same dataset) in three sizes each, and evaluated the resulting six objects with a questionnaire approach and interviews. Our findings highlight that scale needs to be chosen wisely given its impact on representation legibility (ease of viewing and understanding) and affordances for interaction. We discuss factors to take into account when designing large-scale physicalizations and in further research on the potential role of scale in physicalizaton. In particular, we argue that for large-scale physicalizations, scale should matter and communicate meaning, for instance, supporting an intuitive understanding of magnitudes, or a specific experience. Thus, scale needs to be an explicit design decision, that interacts with other design parameters.},
 	articleno    = {8},
-	numpages     = {14}
+	numpages     = {14},
+	keywords     = {Scale, Materiality, legibility, Design, affordances for action, user study, user experience, InfoViz}
 }
 @article{Lorensen:1987:MCA,
 	title        = {Marching Cubes: A High Resolution {3D} Surface Construction Algorithm},
@@ -4894,7 +5040,9 @@ https://www.taliweinberg.com/datascapes
 	pages        = {120924},
 	doi          = {https://doi.org/10.1016/j.techfore.2021.120924},
 	issn         = {0040-1625},
-	url          = {https://www.sciencedirect.com/science/article/pii/S0040162521003565}
+	url          = {https://www.sciencedirect.com/science/article/pii/S0040162521003565},
+	keywords     = {Group polarization, Echo-chambers, Social media, Social networks, Online discussions, Online argumentation},
+	abstract     = {Social media are often accused of worsening the quality of online debate. In this paper, we focus on group polarization in the context of social media-enabled interaction, a dysfunctional group dynamic by which participants become more extreme in their initial position on an issue. Through a systematic literature review, we identified a corpus of 121 research papers investigating polarization in social media and other online conversational platforms and reviewed the main empirical findings, as well as theoretical and methodological approaches. We use this knowledge base to assess some recurrent accusations against social media in terms of their supposed tendency to worsen online debate. Our analysis shows that, while some concerns have been exaggerated, social media do contribute to increase polarization either by amplifying and escalating social processes that also occur offline or in specific ways enabled by their design affordances, which also make these platforms prone to manipulation. We argue against suggestions aimed at reducing freedom of speech in cyberspace and identify in inadequate regulation and lack of ethical design as the leading causes of social media-enabled group dysfunctions, highlighting research areas that can support the creation of higher quality online discursive spaces.}
 }
 @inproceedings{lucero2012framing,
 	title        = {Framing, aligning, paradoxing, abstracting, and directing: how design mood boards work},
@@ -4971,7 +5119,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/263552.263612},
 	isbn         = {0897918630},
 	url          = {https://doi.org/10.1145/263552.263612},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {theory, design, augmented reality, CSCW}
 }
 @article{Mackinlay1986Automating,
 	title        = {Automating the design of graphical presentations of relational information},
@@ -5037,7 +5186,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3325480.3325502},
 	isbn         = {9781450359177},
 	url          = {https://doi.org/10.1145/3325480.3325502},
-	numpages     = {12}
+	abstract     = {Advances in biology and computational power have led to the availability of large biological data sets, yet these advances raise new design challenges. Designers must build effective tools that cater to the needs of biologists and data scientists in order to visually explore and manipulate data for modeling and analysis. We present the Tangible Tensors system, a new tensor-based visualization and tangible manipulation tool that serves to improve functionality over previous data analytics approaches. We designed a platform that supports iterative exploration of the solution space and better interpretation tools for biologists. User study results indicate that our system is easy to learn and use, and useful for data modeling and analysis tasks.},
+	numpages     = {12},
+	keywords     = {tangible interaction, tensor, visualization, interactive tabletops, active tangibles, biological networks, exploration}
 }
 @inproceedings{manuel2020place,
 	title        = {Place-based policymaking and HCI: Opportunities and challenges for technology design},
@@ -5100,7 +5251,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2858036.2858063},
 	isbn         = {9781450333627},
 	url          = {https://doi.org/10.1145/2858036.2858063},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {tick marks, visual analogue scales, slider, crowdsourced study}
 }
 @inproceedings{Mather:2000:MUT,
 	title        = {Making up titles for conference papers},
@@ -5116,21 +5268,6 @@ https://www.taliweinberg.com/datascapes
 	year         = {2017},
 	booktitle    = {Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems},
 	pages        = {5053--5064}
-}
-@inproceedings{Maudet2017,
-	title        = {Design Breakdowns: Designer-Developer Gaps in Representing and Interpreting Interactive Systems},
-	author       = {Maudet, Nolwenn and Leiva, Germ\'{a}n and Beaudouin-Lafon, Michel and Mackay, Wendy},
-	year         = {2017},
-	booktitle    = {Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing},
-	location     = {Portland, Oregon, USA},
-	publisher    = {Association for Computing Machinery},
-	address      = {New York, NY, USA},
-	series       = {CSCW '17},
-	pages        = {630–641},
-	doi          = {10.1145/2998181.2998190},
-	isbn         = {9781450343350},
-	url          = {https://doi.org/10.1145/2998181.2998190},
-	numpages     = {12}
 }
 @inproceedings{mauri2017rawgraphs,
 	title        = {RAWGraphs: a visualisation platform to create open outputs},
@@ -5182,7 +5319,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {20},
 	number       = {12},
 	pages        = {2191--2200},
-	doi          = {10.1109/TVCG.2014.2346331}
+	doi          = {10.1109/TVCG.2014.2346331},
+	keywords     = {Design methodology;Data visualization;Prototypes;Encoding;Design;frameworks;process;cybersecurity;nested model;decisions;models;evaluation;visualization}
 }
 @article{mei2024kialo,
 	title        = {Kialo Edu},
@@ -5211,7 +5349,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3173574.3174212},
 	isbn         = {9781450356206},
 	url          = {https://doi.org/10.1145/3173574.3174212},
-	numpages     = {14}
+	numpages     = {14},
+	keywords     = {ivolver, visualization, granularity, tool design, constructive visualization, agency, tableau}
 }
 @inproceedings{mendez2016ivolver,
 	title        = {IVoLVER: Interactive Visual Language for Visualization Extraction and Reconstruction},
@@ -5226,7 +5365,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2858036.2858435},
 	isbn         = {9781450333627},
 	url          = {https://doi.org/10.1145/2858036.2858435},
-	numpages     = {13}
+	numpages     = {13},
+	keywords     = {information visualization, visualization verification, visual information extraction, visual languages for visualization}
 }
 @inproceedings{menhree2021laina,
 	title        = {Laina: Dynamic Data Physicalization for Slow Exercising Feedback},
@@ -5241,7 +5381,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3461778.3462041},
 	isbn         = {9781450384766},
 	url          = {https://doi.org/10.1145/3461778.3462041},
-	numpages     = {16}
+	abstract     = {The increased popularity of recreational sports, like running, led to the development of numerous technologies supporting people in their training. However, in their current form and interaction, these take a rather standardized approach focusing on quantified data tracking displayed through screens or audio. In this paper, we explore how dynamic data physicalization through a shape-changing interface can open the design space of exercise feedback. Relying on an expert study on the aesthetics of interaction (N=23), we designed Laina, a shape-changing art piece presenting physicalized running data through a slow feedback mechanism. We deployed Laina at 3 participant's home, during a series of 3-weeks field studies. Results show that Laina allows for deep reflection, anticipation and exploration of running behavior. The aim of our paper is to provide insights on the use of slow feedback mechanisms for exercise-related products, through the design of a dynamic data physicalization artefact.},
+	numpages     = {16},
+	keywords     = {Data physicalization, exercise feedback, slow feedback, shape-changing interface, recreational runners}
 }
 @inproceedings{menon2020nudge,
 	title        = {Nudge for deliberativeness: How interface features influence online discourse},
@@ -5285,7 +5427,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {26},
 	number       = {1},
 	pages        = {87--97},
-	doi          = {10.1109/TVCG.2019.2934539}
+	doi          = {10.1109/TVCG.2019.2934539},
+	keywords     = {Visualization;Social sciences;Data visualization;Information systems;Context;Production;design study;relativism;interpretivism;knowledge construction;qualitative research;research through design}
 }
 @misc{LEGOPoweredTimeTracking,
 	title        = {On LEGO Powered Time-Tracking; My Daily Column},
@@ -5331,7 +5474,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3025453.3025942},
 	isbn         = {9781450346559},
 	url          = {https://doi.org/10.1145/3025453.3025942},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {information visualization, tableau desktop, iVoLVER}
 }
 @article{mendez2019reconstructor,
 	title        = {Reconstructor: A scalable constructive visualization tool},
@@ -5373,6 +5517,7 @@ https://www.taliweinberg.com/datascapes
 	pages        = {1–14},
 	isbn         = {9781450367080},
 	url          = {https://doi.org/10.1145/3313831.3376129},
+	abstract     = {Venous Materials is a novel concept and approach of an interactive material utilizing fluidic channels. We present a design method for fluidic mechanisms that respond to deformation by mechanical inputs from the user, such as pressure and bending. We designed a set of primitive venous structures that act as embedded analog fluidic sensors, displaying flow and color change. In this paper, we consider the fluid as the medium to drive tangible information triggered by deformation, and at the same time, to function as a responsive display of that information. To provide users with a simple way to create and validate designs of fluidic structures, we built a software platform and design tool UI. This design tool allows users to quickly design the geometry, and simulate the flow with intended mechanical force dynamically. We present a range of applications that demonstrate how Venous Materials can be utilized to augment interactivity of everyday physical objects.},
 	numpages     = {14}
 }
 @article{morais2020showing,
@@ -5397,8 +5542,10 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3613904.3642248},
 	isbn         = {9798400703300},
 	url          = {https://doi.org/10.1145/3613904.3642248},
+	abstract     = {Data physicalizations have gained prominence across domains, but their environmental impact has been largely overlooked. This work addresses this gap by investigating the interplay between sustainability and physicalization practices. We conducted interviews with experts from diverse backgrounds, followed by a survey to gather insights into how they approach physicalization projects and reflect on sustainability. Our thematic analysis revealed sustainability considerations throughout the entire physicalization life cycle—a framework that encompasses various stages in a physicalization’s existence. Notably, we found no single agreed-upon definition for sustainable physicalizations, highlighting the complexity of integrating sustainability into physicalization practices. We outline sustainability challenges and strategies based on participants’ experiences and propose the Sustainable Physicalization Practices (SuPPra) Matrix, providing a structured approach for designers to reflect on and enhance the environmental impact of their future physicalizations.},
 	articleno    = {201},
-	numpages     = {17}
+	numpages     = {17},
+	keywords     = {life cycle, physicalization, sustainability}
 }
 @inproceedings{moretti2020participatory,
 	title        = {Participatory data physicalization: A new space to inform},
@@ -5442,7 +5589,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3121283.3121292},
 	isbn         = {9781450352567},
 	url          = {https://doi.org/10.1145/3121283.3121292},
-	numpages     = {8}
+	abstract     = {This research aims to go beyond classical brainstorming methods, with the classical divide between (irenic) idea generation and (eristic) selection, to explore creative means for shaping group creativity by intervening on the socio-affective dimension of group dynamics. In this paper, we develop the design rationale of a suite of four group creativity workshops (Time Trial, Idea Sports, Argument Clinic and Idea Gym), based on three approaches to introducing creative tensions, defined as pressure and disturbances in time management, in interpersonal relations and in use of artefacts in the workshops. We also report on a preliminary evaluation carried out with groups of students, into Masters-level training.},
+	numpages     = {8},
+	keywords     = {time pressure, tensions, role play, physical constraints, interactive dynamics, design workshops, bodystorming, argumentation, Group creativity}
 }
 @inproceedings{mougenot2017tensions,
 	title        = {Tensions in creativity workshops},
@@ -5506,7 +5655,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/344949.344959},
 	issn         = {1073-0516},
 	url          = {https://dl.acm.org/doi/10.1145/344949.344959},
-	urldate      = {2023-03-26}
+	urldate      = {2023-03-26},
+	keywords     = {event languages, interface builders, scripting languages, toolkits, user interface development environments, user interface software}
 }
 @inbook{Nachtigall2019encoding,
 	title        = {Encoding Materials and Data for Iterative Personalization},
@@ -5532,7 +5682,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2807442.2807452},
 	isbn         = {9781450337793},
 	url          = {https://doi.org/10.1145/2807442.2807452},
-	numpages     = {7}
+	numpages     = {7},
+	keywords     = {shape-changing interfaces, tangible user interfaces, curves}
 }
 @inproceedings{nakagaki2020transdock,
 	title        = {TRANS-DOCK: Expanding the Interactivity of Pin-Based Shape Displays by Docking Mechanical Transducers},
@@ -5547,7 +5698,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3374920.3374933},
 	isbn         = {9781450361071},
 	url          = {https://doi.org/10.1145/3374920.3374933},
-	numpages     = {12}
+	abstract     = {This paper introduces TRANS-DOCK, a docking system for pin-based shape displays that enhances their interaction capabilities for both the output and input. By simply interchanging the transducer module, composed of passive mechanical structures, to be docked on a shape display, users can selectively switch between different configurations including display sizes, resolutions, and even motion modalities to allow pins moving in a linear motion to rotate, bend and inflate. We introduce a design space consisting of several mechanical elements and enabled interaction capabilities. We then explain the implementation of the docking system and transducer design components. Our implementation includes providing the limitations and characteristics of each motion transmission method as design guidelines. A number of transducer examples are then shown to demonstrate the range of interactivity and application space achieved with the approach of TRANS-DOCK. Potential use cases to take advantage of the interchangeability of our approach are discussed. Through this paper we intend to expand expressibility, adaptability and customizability of a single shape display for dynamic physical interaction. By converting arrays of linear motion to several types of dynamic motion in an adaptable and flexible manner, we advance shape displays to enable versatile embodied interactions.},
+	numpages     = {12},
+	keywords     = {shape changing interfaces, mechanical transducers, pin-based shape display}
 }
 @article{ded65f25-ef74-33bb-9620-1a7850374977,
 	title        = {The Debate Debate},
@@ -5582,7 +5735,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3429290.3429307},
 	isbn         = {9781450389440},
 	url          = {https://doi.org/10.1145/3429290.3429307},
-	numpages     = {6}
+	abstract     = {Data sonification is a means of representing data through sound and has been utilized in a variety of applications. Crime against women has been a rising concern in India. We explore the potential of data sonification to provide an immersive engagement with sensitive data on crime against women in Indian states. The data for nine crime categories covering thirty-five Indian states over a period of twelve years is acquired from National records. Sonification techniques of parameter mapping and auditory icons are adopted: sound parameters such as frequencies, amplitudes and timbres are incorporated to represent the crime data, and audio sounds of women screams are employed as auditory icons to emphasize the traumatic experience. Higher crime rates are assigned higher frequencies, harsher scream textures and larger amplitudes. A user-friendly interface is developed with multiple options for sequential and comparative data sonification. Through the interface, a user can evaluate and compare the extent of crime against women in different states, years or crime categories. Sound spatialization is used to immerse the listener in the sound and further intensify the sonification experience. To assess and validate effectiveness, a user study on twenty participants is conducted with feedback obtained through questionnaires. The responses indicate that the participants could comprehend trends in the data easily and found the data sonification experience impactful. Sonification may therefore prove to be a valuable tool for data representation in fields related to social and human studies.},
+	numpages     = {6},
+	keywords     = {Sound spatialization, Crime against women, User interface, User study, Data sonification, Parameter mapping, Auditory icons}
 }
 @article{nelimarkka2019review,
 	title        = {A review of research on participation in democratic decision-making presented at SIGCHI conferences. Toward an improved trading zone between political science and HCI},
@@ -5676,7 +5831,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {26},
 	number       = {1},
 	pages        = {98--108},
-	doi          = {10.1109/TVCG.2019.2934788}
+	doi          = {10.1109/TVCG.2019.2934788},
+	keywords     = {Data visualization;Visualization;Data models;History;Semiotics;Ice;Indexes;Traces;indexicality;data physicalization;proxy data sources;data materiality}
 }
 @article{offenhuber2019dustmark,
 	title        = {Dustmark and Ozone Tattoos: Autographic Displays of Air Pollution},
@@ -5715,7 +5871,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {30},
 	number       = {1},
 	pages        = {34--44},
-	doi          = {10.1109/TVCG.2023.3326520}
+	doi          = {10.1109/TVCG.2023.3326520},
+	keywords     = {Data visualization;Shape;Annotations;Visualization;Spirals;Reflection;History;Temporal Data;interaction design;communication / presentation;storytelling;sketch-based interface;lazy data binding}
 }
 @article{DataGarden,
 	title        = {DataGarden: Formalizing Personal Sketches into Structured Visualization Templates},
@@ -5725,7 +5882,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {31},
 	number       = {1},
 	pages        = {1268--1278},
-	doi          = {10.1109/TVCG.2024.3456336}
+	doi          = {10.1109/TVCG.2024.3456336},
+	keywords     = {Data visualization;Visualization;Semantics;Layout;Authoring systems;Systematics;Image color analysis;Personal visualization;Visualization template;Sketch input;Sketch-based visualization;Visualization by-example}
 }
 @book{ondak2008roman,
 	title        = {Roman Ond{\'a}k: measuring the universe},
@@ -5792,6 +5950,7 @@ https://www.taliweinberg.com/datascapes
 	month        = {09},
 	journal      = {IEEE computer graphics and applications},
 	volume       = {PP},
+	pages        = {},
 	doi          = {10.1109/MCG.2020.3025504}
 }
 @inproceedings{panagiotidou2022co,
@@ -5856,8 +6015,10 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3419249.3420173},
 	isbn         = {9781450375795},
 	url          = {https://doi.org/10.1145/3419249.3420173},
+	abstract     = {The world of online gaming can have a strong emotional impact on children that parents often do not understand or even acknowledge. However, parental understanding can be vital for the emotional development of adolescents. However, conveying emotions can be challenging and thus can benefit from mediators which facilitate parent-child communication. In order to help raise parental awareness, we designed Motiis, a novel system that measures and tangibly visualizes children’s emotions experienced during gaming sessions. Haptic feedback allows users to ’feel’ the extent of the exhibited emotions. We assessed our system with 17 parent-child pairs through on-site evaluations. Results indicate a benefit of Motiis for raising emotional awareness among parents. The tangible and haptic aspects of the system help to engage with the data more consciously as the tangible visualization of the system requires active interaction with it. Motiis enabled parents to understand aspects of the emotional states of their children that are beyond the verbal communication skills of the children.},
 	articleno    = {58},
-	numpages     = {11}
+	numpages     = {11},
+	keywords     = {information visualization, games, data physicalization, tangibles, emotional awareness}
 }
 @article{WhatStudentsLearnWithPersonalDataPhysicalization,
 	title        = {What Students Learn With Personal Data Physicalization},
@@ -5868,7 +6029,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {41},
 	number       = {6},
 	pages        = {48--58},
-	doi          = {10.1109/MCG.2021.3115417}
+	doi          = {10.1109/MCG.2021.3115417},
+	keywords     = {Data visualization;Data collection;Visualization;Mood;Music;Education;Three-dimensional displays}
 }
 @inproceedings{perin2014table,
 	title        = {{\`A} Table! improving temporal navigation in soccer ranking tables},
@@ -5915,7 +6077,11 @@ https://www.taliweinberg.com/datascapes
 	journal      = {IEEE TVCG},
 	volume       = {23},
 	doi          = {http://dx.doi.org/10.1109/TVCG.2016.2615308},
-	note         = {To appear}
+	note         = {To appear},
+	optnumber    = {},
+	optmonth     = {},
+	optpages     = {},
+	optgooglescholarid = {}
 }
 @book{piaget2013child,
 	title        = {Child's Conception of Space: Selected Works vol 4},
@@ -5984,7 +6150,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3024969.3024974},
 	isbn         = {9781450346764},
 	url          = {https://doi.org/10.1145/3024969.3024974},
-	numpages     = {8}
+	numpages     = {8},
+	keywords     = {electroacoustic music, electromyography, embodied interaction, musification, physicalization}
 }
 @article{pousman2007casual,
 	title        = {Casual information visualization: Depictions of data in everyday life},
@@ -6017,7 +6184,9 @@ https://www.taliweinberg.com/datascapes
 	pages        = {340--361},
 	doi          = {https://doi.org/10.1002/poi3.102},
 	url          = {https://onlinelibrary.wiley.com/doi/abs/10.1002/poi3.102},
-	eprint       = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/poi3.102}
+	keywords     = {crowdsourcing, policy cycle, crowdsourcing trade-offs, policy processes, policy stages, virtual labor markets, tournament crowdsourcing, open collaboration},
+	eprint       = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/poi3.102},
+	abstract     = {What is the state of the research on crowdsourcing for policymaking? This article begins to answer this question by collecting, categorizing, and situating an extensive body of the extant research investigating policy crowdsourcing, within a new framework built on fundamental typologies from each field. We first define seven universal characteristics of the three general crowdsourcing techniques (virtual labor markets, tournament crowdsourcing, open collaboration), to examine the relative trade-offs of each modality. We then compare these three types of crowdsourcing to the different stages of the policy cycle, in order to situate the literature spanning both domains. We finally discuss research trends in crowdsourcing for public policy and highlight the research gaps and overlaps in the literature.}
 }
 @misc{psy:gangnam,
 	title        = {Gangnam Style},
@@ -6053,7 +6222,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2909132.2909270},
 	isbn         = {9781450341318},
 	url          = {https://doi.org/10.1145/2909132.2909270},
-	numpages     = {8}
+	numpages     = {8},
+	keywords     = {Visualization, Sustainability, Eco-feedback, User Study, Public Installations}
 }
 @inproceedings{quintal2012hometree,
 	title        = {HomeTree--An Art Inspired Mobile Eco-feedback Visualization},
@@ -6101,6 +6271,7 @@ https://www.taliweinberg.com/datascapes
 	pages        = {623--634},
 	doi          = {https://doi.org/10.1111/cgf.14173},
 	url          = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14173},
+	keywords     = {CCS Concepts, • Human-centered computing ŕ Visualization application domains, • Applied computing ŕ Life and medical sciences},
 	eprint       = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14173}
 }
 @article{ramsey2009rethinking,
@@ -6277,6 +6448,7 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3430524.3446065},
 	isbn         = {9781450382137},
 	url          = {https://doi.org/10.1145/3430524.3446065},
+	abstract     = {“pheB,” is a robotic “plant-human, embodied, biofeedback” system to support the wellbeing of human inhabitants in confined, physical spaces. This surface aims to increase users’ emotion regulation and foster connections with nature by visualizing the internal states of plants through tactile, expressive movement. Unlike 2D biofeedback visualization models currently in use, our research explores mindfulness practices through immersive, tangible interactions to increase therapeutic effectiveness. This pictorial traces the development of our design (to-date) and presents results from an early user study conducted to (a) assess the prototype at leading breathing exercises, (b) evaluate preferences for different design features, and (c) refine the design of a questionnaire for future user testing. Findings suggest pheB was perceived positively and as an embodied extension of self during guided breathing exercises. This work contributes knowledge toward developing novel biofeedback modalities and offers a design exemplar for interactive artifacts that nurture meaningful relationships with nature.},
 	articleno    = {89},
 	numpages     = {14}
 }
@@ -6293,7 +6465,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2984511.2984549},
 	isbn         = {9781450341899},
 	url          = {https://doi.org/10.1145/2984511.2984549},
-	numpages     = {12}
+	abstract     = {We present JOLED, a mid-air display for interactive physical visualization using Janus objects as physical voxels. The Janus objects have special surfaces that have two or more asymmetric physical properties at different areas. In JOLED, they are levitated in mid-air and controllably rotated to reveal their different physical properties. We made voxels by coating the hemispheres of expanded polystyrene beads with different materials, and applied a thin patch of titanium dioxide to induce electrostatic charge on them. Transparent indium tin oxide electrodes are used around the levitation volume to create a tailored electric field to control the orientation of the voxels. We propose a novel method to control the angular position of individual voxels in a grid using electrostatic rotation and their 3D position using acoustic levitation. We present a display in which voxels can be flipped independently, and two mid-air physical games with a voxel as the playable character that moves in 3D across other physical structures and rotates to reflect its status in the games. We demonstrate a voxel update speed of 37.8 ms/flip, which is video-rate.},
+	numpages     = {12},
+	keywords     = {mid-air displays, human-computer interaction, actuated surfaces, three-dimensional displays, janus particles, emerging interfaces, shape-changing displays, acoustic levitation, electrostatic actuation}
 }
 @article{saket2019task,
 	title        = {Task-Based Effectiveness of Basic Visualizations},
@@ -6370,6 +6544,7 @@ https://www.taliweinberg.com/datascapes
 	pages        = {145--156},
 	doi          = {https://doi.org/10.1111/cgf.13408},
 	url          = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13408},
+	keywords     = {Categories and Subject Descriptors (according to ACM CCS), CCS Concepts, • Human-centered computing → Visualization theory, concepts and paradigms},
 	eprint       = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13408}
 }
 @article{satyanarayan2014lyra,
@@ -6391,7 +6566,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {26},
 	number       = {1},
 	pages        = {461--471},
-	doi          = {10.1109/TVCG.2019.2934281}
+	doi          = {10.1109/TVCG.2019.2934281},
+	keywords     = {Data visualization;Programming;Visualization;Authoring systems;Grammar;Interactive systems;Libraries;Critical reflection;visualization authoring;expressivity;learnability;reusability}
 }
 @article{SatyanarayanCriticalReflections2020,
 	title        = {Critical Reflections on Visualization Authoring Systems},
@@ -6469,6 +6645,7 @@ https://www.taliweinberg.com/datascapes
 	pages        = {1287–1300},
 	isbn         = {9781450369749},
 	url          = {https://doi.org/10.1145/3357236.3395509},
+	abstract     = {While there is a strong relationship between climate change and human food consumption, it is challenging to understand the implications and impact from an individual perspective. The lack of a shared frame of reference, that allows people to compare their impact to others, limits awareness on this complex topic. To support group reflections and social comparison of the impact of people's food consumption on climate change, we designed Econundrum, a shared physical data sculpture that visualizes carbon emissions resulting from dietary choices of a small community. Our three-week field study demonstrates how Econundrum helped people (i) understand the climate impact of various food types, (ii) reflect on the environmental impact of their food choices; and (iii) discuss the relation between climate impact and food consumption with others. Our study shows how a shared physical data sculpture mediates a complex topic to a community by facilitating the social dynamics in context.},
 	numpages     = {14}
 }
 @inproceedings{sauve2020loop,
@@ -6484,8 +6661,10 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3419249.3420109},
 	isbn         = {9781450375795},
 	url          = {https://doi.org/10.1145/3419249.3420109},
+	abstract     = {Wearables, mobile devices and Internet-of-Things (IoT) sensors are enabling us to monitor our environment, understand our social connections, and track our personal health. However, most of these systems communicate data through information visualizations that are often ‘hidden’ inside devices, such as mobile phones and tablets, requiring users to undertake explicit actions to reveal them. Novel interfaces and devices embedded in people's everyday life have the potential to help users visualize, use, and appropriate their collected personal data. To this end, we designed the physical artifact LOOP, which provides an abstract visualization of the user's activity data by changing its shape. In this paper, we elaborate on the design and present a one-week field study in which LOOP was deployed in the homes of five end-users. We found that the physical presence of LOOP facilitated reflection and the layered visualization supported various personal tracking.},
 	articleno    = {52},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {Physical Visualization, Self-Tracking, Shape-Changing Interfaces, Ambient Information Systems}
 }
 @article{Sauve:2022,
 	title        = {Physecology: A Conceptual Framework to Describe Data Physicalizations in Their Real-World Context},
@@ -6501,7 +6680,8 @@ https://www.taliweinberg.com/datascapes
 	url          = {https://doi.org/10.1145/3505590},
 	issue_date   = {June 2022},
 	articleno    = {27},
-	numpages     = {33}
+	numpages     = {33},
+	keywords     = {physecology, conceptual framework, Data physicalization, physical visualization}
 }
 @article{sauve20222ecology,
 	title        = {Physecology: A Conceptual Framework to Describe Data Physicalizations in their Real-World Context},
@@ -6517,7 +6697,8 @@ https://www.taliweinberg.com/datascapes
 	url          = {https://doi.org/10.1145/3505590},
 	issue_date   = {June 2022},
 	articleno    = {27},
-	numpages     = {33}
+	numpages     = {33},
+	keywords     = {conceptual framework, physecology, physical visualization, Data physicalization}
 }
 @inproceedings{sauve2021reconfiguration,
 	title        = {Reconfiguration Strategies with Composite Data Physicalizations},
@@ -6531,8 +6712,10 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3411764.3445746},
 	isbn         = {9781450380966},
 	url          = {https://doi.org/10.1145/3411764.3445746},
+	abstract     = {Composite data physicalizations allow for the physical reconfiguration of data points, creating new opportunities for interaction and engagement. However, there is a lack of understanding of people’s strategies and behaviors when directly manipulating physical data objects. In this paper, we systematically characterize different reconfiguration strategies using six exemplar physicalizations. We asked 20 participants to reorganize these exemplars with two levels of restriction: changing a single data object versus changing multiple data objects. Our findings show that there were two main reconfiguration strategies used: changes in proximity and changes in atomic orientation. We further characterize these using concrete examples of participant actions in relation to the structure of the physicalizations. We contribute an overview of reconfiguration strategies, which informs the design of future manually reconfigurable and dynamic composite physicalizations.},
 	articleno    = {471},
-	numpages     = {18}
+	numpages     = {18},
+	keywords     = {Composite Data Physicalization, Physical Visualization, Reconfiguration, Data Physicalization}
 }
 @article{schaekermann2018resolvable,
 	title        = {Resolvable vs. irresolvable disagreement: A study on worker deliberation in crowd work},
@@ -6667,7 +6850,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3379337.3415813},
 	isbn         = {978-1-4503-7514-6},
 	url          = {https://dl.acm.org/doi/10.1145/3379337.3415813},
-	urldate      = {2023-03-27}
+	urldate      = {2023-03-27},
+	keywords     = {autocompletion, data preview, natural language interaction, visual analysis}
 }
 @misc{Datavizcatalogue,
 	title        = {The Data Visualisation Catalogue},
@@ -6689,7 +6873,8 @@ https://www.taliweinberg.com/datascapes
 	isbn         = {9781450380966},
 	url          = {https://doi.org/10.1145/3411764.3445337},
 	articleno    = {605},
-	numpages     = {13}
+	numpages     = {13},
+	keywords     = {Animation, Data Videos, Narrative Visualization, Visual Narratives}
 }
 @book{shneiderman1987designing,
 	title        = {Designing The User Interface: Strategies for Effective Human-Computer Interaction, 4/e (New Edition)},
@@ -6894,8 +7079,10 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3450741.3465252},
 	isbn         = {9781450383769},
 	url          = {https://doi.org/10.1145/3450741.3465252},
+	abstract     = {Cybersecurity-related concepts can be difficult to explain or summarise. The complexity associated with these concepts is compounded by the impact of rapid technological changes and the contextual nature of the meaning ascribed to the various themes. Since visual imagery is often employed in articulation and explanation, we conducted a study in which we asked participants to sketch their understanding of cybersecurity concepts. Based on an analysis of these sketches and subsequent discussions with participants, we make the case for the use of sketching and visuals as a tool for cybersecurity research. Our collection of sketches and icons can further serve as the seed for a visual vocabulary for cybersecurity-related interfaces and communication.},
 	articleno    = {46},
-	numpages     = {10}
+	numpages     = {10},
+	keywords     = {icons, trust, cybersecurity, visualisation, sketching, risk, imagery, privacy}
 }
 @inproceedings{Stusak2016mind,
 	title        = {If Your Mind Can Grasp It, Your Hands Will Help},
@@ -6910,7 +7097,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2839462.2839476},
 	isbn         = {9781450335829},
 	url          = {https://doi.org/10.1145/2839462.2839476},
-	numpages     = {8}
+	abstract     = {This paper describes a study comparing the information recall of participants using 2D and 3D physical visualizations. Specifically, it focuses on physical bar charts and evaluates the difference between a paper-based visualization and a version built with wooden blocks. We conducted a repeated measures study involving 16 participants in which we measured the recall of information immediately after the exploration and with a delay of one week. We used questionnaires and semi-structured interviews to obtain more information about the process of recall and participants' opinions whether and how the visualizations differ in their potential for memorizing information. The results point out that participants believe to remember the 3D visualizations better, but besides the recall of extreme values the quantitative data cannot completely verify this appreciation. Furthermore the results highlight that the in the study used physical interaction techniques are not able to compensate lacking visual differentiation. One surprising finding was the strong dependency of the different data sets on the recall performance.},
+	numpages     = {8},
+	keywords     = {physical visualization, memorability, 2D vs. 3D, evaluation, physicalization}
 }
 @inproceedings{StusakEvaluatingtheMemorability2015,
 	title        = {Evaluating the Memorability of Physical Visualizations},
@@ -6925,7 +7114,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2702123.2702248},
 	isbn         = {9781450331456},
 	url          = {https://doi.org/10.1145/2702123.2702248},
-	numpages     = {4}
+	numpages     = {4},
+	keywords     = {physical visualization, memorability, evaluation}
 }
 @inproceedings{AffinitLens,
 	title        = {Affinity Lens: Data-Assisted Affinity Diagramming with Augmented Reality},
@@ -6940,7 +7130,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3290605.3300628},
 	isbn         = {9781450359702},
 	url          = {https://doi.org/10.1145/3290605.3300628},
-	numpages     = {13}
+	numpages     = {13},
+	keywords     = {augmented reality, visual analytics, affinity diagramming}
 }
 @misc{Montgomery,
 	title        = {Knitting Time of Men and Women Talking},
@@ -7001,7 +7192,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3132525.3132548},
 	isbn         = {9781450349260},
 	url          = {https://doi.org/10.1145/3132525.3132548},
-	numpages     = {10}
+	numpages     = {10},
+	keywords     = {visual impairment, interactive tactile graphics, dynamic tactile markers, tangible interfaces}
 }
 @inproceedings{suzuki2019shapebots,
 	title        = {ShapeBots: Shape-Changing Swarm Robots},
@@ -7016,7 +7208,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3332165.3347911},
 	isbn         = {9781450368162},
 	url          = {https://doi.org/10.1145/3332165.3347911},
-	numpages     = {13}
+	abstract     = {We introduce shape-changing swarm robots. A swarm of self-transformable robots can both individually and collectively change their configuration to display information, actuate objects, act as tangible controllers, visualize data, and provide physical affordances. ShapeBots is a concept prototype of shape-changing swarm robots. Each robot can change its shape by leveraging small linear actuators that are thin (2.5 cm) and highly extendable (up to 20cm) in both horizontal and vertical directions. The modular design of each actuator enables various shapes and geometries of self-transformation. We illustrate potential application scenarios and discuss how this type of interface opens up possibilities for the future of ubiquitous and distributed shape-changing interfaces.},
+	numpages     = {13},
+	keywords     = {shape-changing user interfaces, swarm user interfaces}
 }
 @inproceedings{swaminathan2014supporting,
 	title        = {Supporting the design and fabrication of physical visualizations},
@@ -7031,7 +7225,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/2556288.2557310},
 	isbn         = {9781450324731},
 	url          = {https://doi.org/10.1145/2556288.2557310},
-	numpages     = {10}
+	abstract     = {Physical visualizations come in increasingly diverse forms, and are used in domains including art and entertainment, business analytics, and scientific research. However, creating physical visualizations requires laborious craftsmanship and demands expertise in both data visualization and digital fabrication. We present three case studies that illustrate limitations of current visualization fabrication workflows. We then present MakerVis, a prototype tool that integrates the entire process of creating physical visualizations, from data filtering to physical fabrication. Design sessions with three end users demonstrate how tools such as MakerVis can dramatically lower the barriers to producing physical visualizations. Observations and interviews from these sessions highlighted future research areas, including customization support, using material properties to represent data variables, and allowing the reuse of physical data objects in new visualizations.},
+	numpages     = {10},
+	keywords     = {physical visualization, infovis, digital fabrication}
 }
 @article{szafir2018color,
 	title        = {Modeling Color Difference for Visualization Design},
@@ -7043,7 +7239,8 @@ https://www.taliweinberg.com/datascapes
 	number       = {1},
 	pages        = {392--401},
 	doi          = {10.1109/TVCG.2017.2744359},
-	issn         = {1941-0506}
+	issn         = {1941-0506},
+	abstract     = {Color is frequently used to encode values in visualizations. For color encodings to be effective, the mapping between colors and values must preserve important differences in the data. However, most guidelines for effective color choice in visualization are based on either color perceptions measured using large, uniform fields in optimal viewing environments or on qualitative intuitions. These limitations may cause data misinterpretation in visualizations, which frequently use small, elongated marks. Our goal is to develop quantitative metrics to help people use color more effectively in visualizations. We present a series of crowdsourced studies measuring color difference perceptions for three common mark types: points, bars, and lines. Our results indicate that peoples' abilities to perceive color differences varies significantly across mark types. Probabilistic models constructed from the resulting data can provide objective guidance for designers, allowing them to anticipate viewer perceptions in order to inform effective encoding design.}
 }
 @misc{Tableau,
 	title        = {Tableau},
@@ -7070,7 +7267,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {23},
 	number       = {1},
 	pages        = {451--460},
-	doi          = {10.1109/TVCG.2016.2598498}
+	doi          = {10.1109/TVCG.2016.2598498},
+	keywords     = {Bars;Data visualization;Training;Cameras;Navigation;Pressing;Shape-changing displays;physicalization;physical visualization;bar charts;user behaviour;data presentation}
 }
 @inbook{tejada2020airtouch,
 	title        = {AirTouch: 3D-Printed Touch-Sensitive Objects Using Pneumatic Sensing},
@@ -7082,6 +7280,7 @@ https://www.taliweinberg.com/datascapes
 	pages        = {1–10},
 	isbn         = {9781450367080},
 	url          = {https://doi.org/10.1145/3313831.3376136},
+	abstract     = {3D printing technology can be used to rapidly prototype the look and feel of 3D objects. However, the objects produced are passive. There has been increasing interest in making these objects interactive, yet they often require assembling components or complex calibration. In this paper, we contribute AirTouch, a technique that enables designers to fabricate touch-sensitive objects with minimal assembly and calibration using pneumatic sensing. AirTouch-enabled objects are 3D printed as a single structure using a consumer-level 3D printer. AirTouch uses pre-trained machine learning models to identify interactions with fabricated objects, meaning that there is no calibration required once the object has completed printing. We evaluate our technique using fabricated objects with various geometries and touch sensitive locations, obtaining accuracies of at least 90% with 12 interactive locations.},
 	numpages     = {10}
 }
 @misc{NN:fold,
@@ -7118,7 +7317,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3173574.3173728},
 	isbn         = {9781450356206},
 	url          = {https://doi.org/10.1145/3173574.3173728},
-	numpages     = {13}
+	numpages     = {13},
+	keywords     = {personal data, self-reflection, constructive visualization},
+	abstract     = {Self-reflection is a central goal of personal informatics systems, and constructing visualizations from physical tokens has been found to help people reflect on data. However, so far, constructive physicalization has only been studied in lab environments with provided datasets. Our qualitative study investigates the construction of personal physicalizations in people's domestic environments over 2-4 weeks. It contributes an understanding of (1) the process of creating personal physicalizations, (2) the types of personal insights facilitated, (3) the integration of self-reflection in the physicalization process, and (4) its benefits and challenges for self-reflection. We found that in constructive personal physicalization, data collection, construction and self-reflections are deeply intertwined. This extends previous models of visualization creation and data-driven self-reflection. We outline how benefits such as reflection through manual construction, personalization, and presence in everyday life can be transferred to a wider set of digital and physical systems.}
 }
 @misc{AlignmentChart,
 	title        = {Alignment Chart},
@@ -7150,7 +7351,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/1124772.1124960},
 	isbn         = {1595933727},
 	url          = {https://doi.org/10.1145/1124772.1124960},
-	numpages     = {10}
+	numpages     = {10},
+	keywords     = {methods, evaluation, user centered design, design, usability testing, prototyping, participatory design}
 }
 @article{towne2012design,
 	title        = {Design considerations for online deliberation systems},
@@ -7194,7 +7396,8 @@ https://www.taliweinberg.com/datascapes
 	number       = {06},
 	pages        = {21--24},
 	doi          = {10.1109/MCG.2020.3027223},
-	issn         = {1558-1756}
+	issn         = {1558-1756},
+	keywords     = {special issues and sections;data visualization;computer science;information technology;data analysis}
 }
 @article{trombeta2022textual,
 	title        = {The textual-visual thematic analysis: A framework to analyze the conjunction and interaction of visual and textual data},
@@ -7219,7 +7422,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/985692.985767},
 	isbn         = {1581137028},
 	url          = {https://doi.org/10.1145/985692.985767},
-	numpages     = {8}
+	numpages     = {8},
+	keywords     = {image based interaction, sketching interfaces}
 }
 @inproceedings{tseng2022dark,
 	title        = {The Dark Side of Perceptual Manipulations in Virtual Reality},
@@ -7235,7 +7439,8 @@ https://www.taliweinberg.com/datascapes
 	isbn         = {9781450391573},
 	url          = {https://doi.org/10.1145/3491102.3517728},
 	articleno    = {612},
-	numpages     = {15}
+	numpages     = {15},
+	keywords     = {virtual-physical perceptual manipulation, physical harm, VR security, VPPM}
 }
 @inproceedings{tseng2021fingermapper,
 	title        = {FingerMapper: Enabling Arm Interaction in Confined Spaces for Virtual Reality through Finger Mappings},
@@ -7341,7 +7546,9 @@ https://www.taliweinberg.com/datascapes
 	issn         = {1073-0516},
 	url          = {https://doi.org/10.1145/1057237.1057242},
 	issue_date   = {March 2005},
-	numpages     = {38}
+	abstract     = {We identify and present a major interaction approach for tangible user interfaces based upon systems of tokens and constraints. In these interfaces, tokens are discrete physical objects which represent digital information. Constraints are confining regions that are mapped to digital operations. These are frequently embodied as structures that mechanically channel how tokens can be manipulated, often limiting their movement to a single degree of freedom. Placing and manipulating tokens within systems of constraints can be used to invoke and control a variety of computational interpretations.We discuss the properties of the token+constraint approach; consider strengths that distinguish them from other interface approaches; and illustrate the concept with eleven past and recent supporting systems. We present some of the conceptual background supporting these interfaces, and consider them in terms of Bellotti et al.'s [2002] five questions for sensing-based interaction. We believe this discussion supports token+constraint systems as a powerful and promising approach for sensing-based interaction.},
+	numpages     = {38},
+	keywords     = {Tangible interfaces, token+constraint interfaces}
 }
 @article{ullmer2005tokenconstrained,
 	title        = {Token+constraint Systems for Tangible Interaction with Digital Information},
@@ -7358,7 +7565,9 @@ https://www.taliweinberg.com/datascapes
 	issn         = {1073-0516},
 	url          = {https://doi.org/10.1145/1057237.1057242},
 	issue_date   = {March 2005},
-	numpages     = {38}
+	abstract     = {We identify and present a major interaction approach for tangible user interfaces based upon systems of tokens and constraints. In these interfaces, tokens are discrete physical objects which represent digital information. Constraints are confining regions that are mapped to digital operations. These are frequently embodied as structures that mechanically channel how tokens can be manipulated, often limiting their movement to a single degree of freedom. Placing and manipulating tokens within systems of constraints can be used to invoke and control a variety of computational interpretations.We discuss the properties of the token+constraint approach; consider strengths that distinguish them from other interface approaches; and illustrate the concept with eleven past and recent supporting systems. We present some of the conceptual background supporting these interfaces, and consider them in terms of Bellotti et al.'s [2002] five questions for sensing-based interaction. We believe this discussion supports token+constraint systems as a powerful and promising approach for sensing-based interaction.},
+	numpages     = {38},
+	keywords     = {Tangible interfaces, token+constraint interfaces}
 }
 @inproceedings{umbelino2023increasing,
 	title        = {Increasing Inclusion and Time-Efficiency in Participatory Policy-Making Deliberations with E-Scribing Technology},
@@ -7437,7 +7646,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3374920.3374934},
 	isbn         = {9781450361071},
 	url          = {https://doi.org/10.1145/3374920.3374934},
-	numpages     = {14}
+	abstract     = {Tangibles can model abstract structures. One educational subject where this can be utilized is instruction on data visualization inter- pretation. Data physicalizations, tangible representations of data, offer graspable handles for the users to manipulate data visualiza- tions directly so that they can better understand what information they hold. However, investigations on the applicability of interac- tive data physicalizations in educational settings are still sparse. In this paper, we explore how students reason with an interactive tangible scatterplot through a collaborative data interpretation tool, CoDa. We report the design, development, and the user experiences in an exploratory study where 11 students, in groups of 2 to 4, completed a data analysis task with CoDa. The qualitative results show insights in the process of data interpretation, how interaction with the tangibles influenced these data interpretations, how the system aided collaboration and, overall user experience. We believe the results and implications offer a step towards nurturing future educational applications on interactive data physicalizations.},
+	numpages     = {14},
+	keywords     = {information visualization, tangible interaction, education, collaborative analysis, data physicalization}
 }
 @inproceedings{vermeulen2013cross,
 	title        = {Crossing the Bridge over Norman's Gulf of Execution: Revealing Feedforward's True Identity},
@@ -7517,7 +7728,8 @@ https://www.taliweinberg.com/datascapes
 	isbn         = {9781450350457},
 	url          = {https://doi.org/10.1145/3078810.3078826},
 	articleno    = {6},
-	numpages     = {8}
+	numpages     = {8},
+	keywords     = {public display, tangible interaction, urban informatics, physical visualization}
 }
 @article{walny2011visual,
 	title        = {Visual thinking in action: Visualizations as used on whiteboards},
@@ -7537,7 +7749,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {26},
 	number       = {1},
 	pages        = {12--22},
-	doi          = {10.1109/TVCG.2019.2934538}
+	doi          = {10.1109/TVCG.2019.2934538},
+	keywords     = {Data visualization;Tools;Collaboration;Design tools;Software;Task analysis;Information visualization;design handoff;data mapping;design process}
 }
 @inproceedings{walny2015exploratory,
 	title        = {An exploratory study of data sketching for visual representation},
@@ -7588,7 +7801,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3290607.3299043},
 	isbn         = {9781450359719},
 	url          = {https://doi.org/10.1145/3290607.3299043},
-	numpages     = {9}
+	numpages     = {9},
+	keywords     = {creative workshop, data visualization, data comics, data-driven storytelling}
 }
 @inproceedings{wang2024summary,
 	title        = {Summary of the Workshop on Visual Methods and Analyzing Visual Data in Human Computer Interaction},
@@ -7610,7 +7824,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3696762.3698047},
 	isbn         = {9798400712784},
 	url          = {https://doi.org/10.1145/3696762.3698047},
-	numpages     = {4}
+	abstract     = {Visual methods have become increasingly vital in Human Computer Interaction (HCI) research, particularly as we analyze and interpret the complex visual data that emerges from various interaction modalities. However, the methodologies for analyzing this visual data remain underdeveloped compared to textual data analysis. This workshop seeks to unite HCI researchers who work with visual data—such as hand sketches, photographs, physical artifacts, UI screenshots, videos, and information visualizations—to identify, name, and categorize methods for analyzing visual data in HCI.},
+	numpages     = {4},
+	keywords     = {Analyzing Visuals, Qualitative Coding, Research Methods}
 }
 @article{wang2021reporting,
 	title        = {Data Comics for Reporting Controlled User Studies in Human-Computer Interaction},
@@ -7644,7 +7860,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3313831.3376271},
 	isbn         = {9781450367080},
 	url          = {https://doi.org/10.1145/3313831.3376271},
-	numpages     = {13}
+	numpages     = {13},
+	keywords     = {visualization literacy, cheat sheet}
 }
 @inproceedings{wang2019comparing,
 	title        = {Comparing Effectiveness and Engagement of Data Comics and Infographics},
@@ -7658,7 +7875,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3290605.3300483},
 	isbn         = {9781450359702},
 	url          = {https://doi.org/10.1145/3290605.3300483},
-	numpages     = {12}
+	numpages     = {12},
+	keywords     = {visualization, engagement, comics, effectiveness}
 }
 @inproceedings{wannamaker2021,
 	title        = {I/O Bits: User-Driven, Situated, and Dedicated Self-Tracking},
@@ -7673,7 +7891,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3461778.3462138},
 	isbn         = {9781450384766},
 	url          = {https://doi.org/10.1145/3461778.3462138},
-	numpages     = {15}
+	numpages     = {15},
+	keywords     = {Ambient Devices, Internet of Things, Personal Data/Tracking, Visualization}
 }
 @article{ward2004role,
 	title        = {The role of specificity and abstraction in creative idea generation},
@@ -7717,7 +7936,8 @@ https://www.taliweinberg.com/datascapes
 	year         = {2023},
 	booktitle    = {2023 IEEE Visualization and Visual Analytics (VIS)},
 	pages        = {141--145},
-	doi          = {10.1109/VIS54172.2023.00037}
+	doi          = {10.1109/VIS54172.2023.00037},
+	keywords     = {Authoring systems;Visual analytics;Scalability;Data visualization;Manuals;Rendering (computer graphics);Autocomplete;constructive visualization;visualization authoring;physicalization;automation;expressivity;design;Human-centered computing;Visualization}
 }
 @misc{tali,
 	title        = {Woven Climate Datascapes},
@@ -7812,7 +8032,8 @@ https://www.taliweinberg.com/datascapes
 	volume       = {23},
 	number       = {1},
 	pages        = {461--470},
-	doi          = {10.1109/TVCG.2016.2598608}
+	doi          = {10.1109/TVCG.2016.2598608},
+	keywords     = {Data visualization;Pipelines;Visualization;Context;Augmented reality;Ubiquitous computing;Instruments;Information visualization;data physicalization;ambient displays;ubiquitous computing;augmented reality}
 }
 @article{wilson2014humans,
 	title        = {Humans use directed and random exploration to solve the explore--exploit dilemma.},
@@ -7855,7 +8076,8 @@ https://www.taliweinberg.com/datascapes
 	url          = {https://doi.org/10.1145/3427332},
 	issue_date   = {November 2020},
 	articleno    = {204},
-	numpages     = {24}
+	numpages     = {24},
+	keywords     = {proprioception, hci for sports, golf, feedback, physical activity}
 }
 @inbook{wozniak2021runningshoes,
 	title        = {Making Sense of Complex Running Metrics Using a Modified Running Shoe},
@@ -7866,6 +8088,7 @@ https://www.taliweinberg.com/datascapes
 	address      = {New York, NY, USA},
 	isbn         = {9781450380966},
 	url          = {https://doi.org/10.1145/3411764.3445506},
+	abstract     = {Running is a widely popular physical activity that offers many health benefits. As runners progress with their training, understanding one’s own body becomes a key concern in achieving wellbeing through running. While extensive bodily sensing opportunities exist for runners, understanding complex sensor data is a challenge. In this paper, we investigate how data from shoe-worn sensors can be visualised to empower runners to improve their technique. We designed GraFeet—an augmented running shoe that visualises kinesiological data about the runner’s feet and gait. We compared our prototype with a standard sensor dashboard in a user study where users ran with the sensor and analysed the generated data after the run. GraFeet was perceived as more usable; producing more insights and less confusion in the users. Based on our inquiry, we contribute findings about using data from body-worn sensors to support physically active individuals.},
 	articleno    = {50},
 	numpages     = {11}
 }
@@ -7898,7 +8121,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3294109.3295627},
 	isbn         = {9781450361965},
 	url          = {https://doi.org/10.1145/3294109.3295627},
-	numpages     = {10}
+	abstract     = {Providing data visualization authoring tools for the general public remains an ongoing challenge. Inspired by block-printing, we explore how visualization stamps as a physical visualization authoring tool could leverage both visual freedom and ease of repetition. We conducted a workshop with two groups---visualization experts and non-experts---where participants authored visualizations on paper using hand-carved stamps made from potatoes and sponges. The low-fidelity medium freed participants to test new stamp patterns and accept mistakes. From the created visualizations, we observed several unique traits and uses of block-printing tools for visualization authoring, including: modularity of patterns, annotation guides, creation of multiple patterns from one stamp, and various techniques to apply data onto paper. We discuss the issues around expressivity and effectiveness of block-printed stamps in visualization authoring, and identify implications for the design and assembly of primitives in potential visualization stamp kits, as well as applications for future use in non-digital environments.},
+	numpages     = {10},
+	keywords     = {tangible tools, potato, physical template tools, information visualization, block-printing, authoring visualizations}
 }
 @inproceedings{wun2016comparing,
 	title        = {Comparing bar chart authoring with Microsoft Excel and tangible tiles},
@@ -7911,7 +8136,8 @@ https://www.taliweinberg.com/datascapes
 	pages        = {111--120},
 	doi          = {https://doi.org/10.1111/cgf.12887},
 	url          = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12887},
-	organization = {Wiley Online Library}
+	organization = {Wiley Online Library},
+	keywords     = {Categories and Subject Descriptors (according to ACM CCS), H.5.2 Computer Graphics: Information Interfaces and Presentation—User Interfaces}
 }
 @inproceedings{wyeth2008engagement,
 	title        = {Understanding Engagement with Tangible User Interfaces},
@@ -7926,7 +8152,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/1517744.1517810},
 	isbn         = {0980306345},
 	url          = {https://doi.org/10.1145/1517744.1517810},
-	numpages     = {4}
+	abstract     = {This paper examines the issues surrounding the successful design and development of tangible technology for optimal engagement in playful activities. At present there is very little data on how, and in what contexts, tangible interactions with technology promote lasting engagement and immersion. The framework at the core of this paper has been designed to guide the effective design of tangible technology for immersive interaction. The paper investigates the relationship between tangible user interfaces (TUI) characteristics of representation and control, and immersive flow experiences produced through balancing skill and challenge in user interaction.},
+	numpages     = {4},
+	keywords     = {tangible user interfaces, conceptual framework, design}
 }
 @article{Wyvill:1986:DSS,
 	title        = {Data Structure for \emph{soft} Objects},
@@ -7969,7 +8197,8 @@ https://www.taliweinberg.com/datascapes
 	url          = {https://doi.org/10.1145/2816795.2818079},
 	issue_date   = {November 2015},
 	articleno    = {169},
-	numpages     = {11}
+	numpages     = {11},
+	keywords     = {workflow, user interface, auto-complete, drawing, animation, analysis, deformation, synthesis, beautification}
 }
 @article{yang2022Design,
 	title        = {A Design Space for Applying the Freytag's Pyramid Structure to Data Stories},
@@ -7991,6 +8220,7 @@ https://www.taliweinberg.com/datascapes
 	pages        = {1–10},
 	isbn         = {9781450331456},
 	url          = {https://doi.org/10.1145/2702123.2702611},
+	abstract     = {Nature has engineered its own actuators, as well as the efficient material composition, geometry and structure to utilize its actuators and achieve functional transformation. Based on the natural phenomenon of cells' hygromorphic transformation, we introduce the living Bacillus Subtilis natto cell as a humidity sensitive nanoactuator. In this paper, we unfold the process of exploring and comparing cell types that are proper for HCI use, the development of the composite biofilm, the development of the responsive structures, the control setup for actuating biofilms, and a simulation and fabrication platform. Finally, we provide a variety of application designs, with and without computer control to demonstrate the potential of our bio actuators. Through this paper, we intend to enable the use of natto cells and our platform technologies for HCI researchers, designers and bio-hackers. More generally, we try to encourage the research and use of biological responsive materials and interdisciplinary research in HCI.},
 	numpages     = {10}
 }
 @article{yeo2024help,
@@ -8065,7 +8295,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/3313831.3376172},
 	isbn         = {9781450367080},
 	url          = {https://doi.org/10.1145/3313831.3376172},
-	numpages     = {13}
+	abstract     = {Recent years have seen an increasing interest in the authoring and crafting of personal visualizations. Mainstream data analysis and authoring tools lack the flexibility for customization and personalization, whereas tools from the research community either require creativity and drawing skills, or are limited to simple vector graphics. We present DataQuilt, a novel system that enables visualization authors to iteratively design pictorial visualizations as collages. Real images (e.g., paintings, photographs, sketches) act as both inspiration and as a resource of visual elements that can be mapped to data. The creative pipeline involves the semi-guided extraction of relevant elements of an image (arbitrary regions, regular shapes, color palettes, textures) aided by computer vision techniques; the binding of these graphical elements and their features to data in order to create meaningful visualizations; and the iterative refinement of both features and visualizations through direct manipulation. We demonstrate the usability of DataQuilt in a controlled study and its expressiveness through a collection of authored visualizations from a second open-ended study.},
+	numpages     = {13},
+	keywords     = {collage, creativity, graphic design, pictorial visualization}
 }
 @inproceedings{zhao-embodiment2008,
 	title        = {Embodiment in Data Sculpture: A Model of the Physical Visualization of Information},
@@ -8080,7 +8312,8 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/1413634.1413696},
 	isbn         = {9781605582481},
 	url          = {https://doi.org/10.1145/1413634.1413696},
-	numpages     = {8}
+	numpages     = {8},
+	keywords     = {embodiment, data sculpture, tangible representation, information visualization}
 }
 @inproceedings{zhao2008embodiment,
 	title        = {Embodiment in data sculpture: a model of the physical visualization of information},
@@ -8099,6 +8332,7 @@ https://www.taliweinberg.com/datascapes
 	pages        = {909–923},
 	isbn         = {9781450369749},
 	url          = {https://doi.org/10.1145/3357236.3395578},
+	abstract     = {This pictorial presents a design investigation at the intersection of paper and computer vision for tangible interfaces. Through this exploration, we uncovered various characteristics of paper that connect tangible interactions with concealing and revealing printed fiducial markers for detection-particularly through the affordances of paper craft and fiber. We illustrate a variety of paper structures that construct and deconstruct fiducial markers. We also demonstrate how these structures enable untethered functional physical inputs, such as push buttons and sliders. We showcase four proposals that extend these material insights into tangible interface applications, including interactive data physicalizations and functional paper prototypes. Furthermore, we continue the legacy of pictorials by exposing fabrication drawings for others to engage with this work at a more practical level.},
 	numpages     = {15}
 }
 @inbook{Ziemkiewicz2020,
@@ -8127,7 +8361,9 @@ https://www.taliweinberg.com/datascapes
 	doi          = {10.1145/1240624.1240704},
 	isbn         = {9781595935939},
 	url          = {https://doi.org/10.1145/1240624.1240704},
-	numpages     = {10}
+	abstract     = {For years the HCI community has struggled to integrate design in research and practice. While design has gained a strong foothold in practice, it has had much less impact on the HCI research community. In this paper we propose a new model for interaction design research within HCI. Following a research through design approach, designers produce novel integrations of HCI research in an attempt to make the right thing: a product that transforms the world from its current state to a preferred state. This model allows interaction designers to make research contributions based on their strength in addressing under-constrained problems. To formalize this model, we provide a set of four lenses for evaluating the research contribution and a set of three examples to illustrate the benefits of this type of research.},
+	numpages     = {10},
+	keywords     = {research through design, interaction design research, interaction design, design theory, wicked problems, design, design method, HCI research}
 }
 @inproceedings{zimmerman2007research,
 	title        = {Research through design as a method for interaction design research in HCI},
@@ -8146,7 +8382,8 @@ https://www.taliweinberg.com/datascapes
 	pages        = {479--493},
 	doi          = {https://doi.org/10.1002/asi.20508},
 	url          = {https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.20508},
-	eprint       = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/asi.20508}
+	eprint       = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/asi.20508},
+	abstract     = {Abstract The field of Information Science is constantly changing. Therefore, information scientists are required to regularly review—and if necessary—redefine its fundamental building blocks. This article is one of a group of four articles, which resulted from a Critical Delphi study conducted in 2003–2005. The study, “Knowledge Map of Information Science,” was aimed at exploring the foundations of information science. The international panel was composed of 57 leading scholars from 16 countries, who represent (almost) all the major subfields and important aspects of the field. This particular article documents 130 definitions of data, information, and knowledge formulated by 45 scholars, and maps the major conceptual approaches for defining these three key concepts.}
 }
 @inproceedings{zwicky1967morphological,
 	title        = {The morphological approach to discovery, invention, research and construction},
@@ -8156,7 +8393,3 @@ https://www.taliweinberg.com/datascapes
 	pages        = {273--297},
 	organization = {Springer}
 }
-
-```
-
-
