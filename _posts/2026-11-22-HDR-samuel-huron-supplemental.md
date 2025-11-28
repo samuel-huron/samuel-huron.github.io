@@ -98,7 +98,7 @@ Micro focus on Designing and Authoring Visualization :
 Meso focus on physicalization : 
 * Sandra Bae, Clement Zheng, Mary Etta West, Ellen Yi-Luen Do, Samuel Huron, and Danielle Albers Szafir. 2022. **Making Data Tangible: A Cross-disciplinary Design Space for Data Physicalization**. In _Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)_. Association for Computing Machinery, New York, NY, USA, Article 81, 1–18. https://doi.org/10.1145/3491102.3501939
 	* [Paper](https://arxiv.org/abs/2202.10520)
- 	* [Video](https://www.youtube.com/watch?v=Mj1Oveo5_u0&t=3s)
+  	* [Video](https://www.youtube.com/watch?v=Mj1Oveo5_u0&t=3s)
 	* [Compagnon website](https://inputvisualization.github.io/)
 	* Page on [Sandra website](https://sandrabae.github.io/dataphys-gallery/index.html)
 
