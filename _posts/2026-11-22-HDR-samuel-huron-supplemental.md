@@ -72,46 +72,46 @@ To conclude this presentation, I will attempt to offer a practical and critical 
 This habilitation is based on the following work 
 
 Micro focus on Designing and Authoring Visualization : 
-* Jagoda Walny, Samuel Huron, and Sheelagh Carpendale. [An exploratory study of data sketching for visual representation](https://supplemental-material.github.io/Data-Sketching/). In _Computer Graphics Forum_, volume 34, pages 231–240. Wiley Online Library, 2015. doi: https://doi.org/10.1111/cgf.12635
-	* Paper
-	* Supplemental material
+* Jagoda Walny, Samuel Huron, and Sheelagh Carpendale. **An exploratory study of data sketching for visual representation.** In _Computer Graphics Forum_, volume 34, pages 231–240. Wiley Online Library, 2015. doi: https://doi.org/10.1111/cgf.12635
+	* [Paper](http://sheelaghcarpendale.ca/innovis/uploads/Publications/Publications/Walny2014_DataSketches.pdf)
+	* [Supplemental material](https://supplemental-material.github.io/Data-Sketching/)
 	* [Presentation deck](https://fr.slideshare.net/slideshow/an-exploratory-study-of-data-sketching-for-visual-representation-eurovis-2015/48787350)   
-* Alice Thudt, Uta Hinrichs, Samuel Huron, and Sheelagh Carpendale. [Self-reflection and personal physicalization construction](https://hal.science/hal-02310547v1). _Proceedings of the CHI Conference on Human Factors in Computing Systems_, CHI' 18, page 1–13, New York, NY, USA, 2018. Association for Computing Machinery.  doi: https://doi.org/10.1145/3173574.3173728.
+* Alice Thudt, Uta Hinrichs, Samuel Huron, and Sheelagh Carpendale. **Self-reflection and personal physicalization construction**. _Proceedings of the CHI Conference on Human Factors in Computing Systems_, CHI' 18, page 1–13, New York, NY, USA, 2018. Association for Computing Machinery.  doi: https://doi.org/10.1145/3173574.3173728.
 	* [Paper](https://inria.hal.science/hal-02310547/)
 	* [Supplemental material]()
 	* [Full presentation](https://www.youtube.com/watch?v=9Cho8jvlDFY)
-* Tiffany Wun, Jennifer Payne, Samuel Huron, and Sheelagh Carpendale. [Comparison of bar chart authoring with Microsoft Excel and tangible tiles](https://hal.science/hal-01400906/). _In Computer Graphics Forum_, volume 35, pages 111–120. Wiley Online Library, 2016. doi: https://doi.org/10.1111/cgf.12887.
+* Tiffany Wun, Jennifer Payne, Samuel Huron, and Sheelagh Carpendale. **Comparison of bar chart authoring with Microsoft Excel and tangible tiles**. _In Computer Graphics Forum_, volume 35, pages 111–120. Wiley Online Library, 2016. doi: https://doi.org/10.1111/cgf.12887.
 	* [Paper](https://hal.science/hal-01400906/)
 	* [Supplemental material](https://supplemental-material.github.io/Comparing-excel-tiles/)
-* Wei Wei, Samuel Huron, and Yvonne Jansen. [Towards autocomplete strategies for visualization construction](https://arxiv.org/abs/2308.02679). In _2023 IEEE Visualization and Visual Analytics (VIS)_, pages 141–145, 2023. doi: 10.1109/VIS54172.2023.00037.
+* Wei Wei, Samuel Huron, and Yvonne Jansen. **Towards autocomplete strategies for visualization construction**. In _2023 IEEE Visualization and Visual Analytics (VIS)_, pages 141–145, 2023. doi: 10.1109/VIS54172.2023.00037.
 	* [Paper](https://arxiv.org/abs/2308.02679)
 	* [Supplemental material on OSF](https://osf.io/nu4z3/overview)
 	* [Full presentation](https://www.youtube.com/watch?v=cxwSHXvzSSQ)  
 
 Meso focus on physicalization : 
-* Sandra Bae, Clement Zheng, Mary Etta West, Ellen Yi-Luen Do, Samuel Huron, and Danielle Albers Szafir. 2022. [Making Data Tangible: A Cross-disciplinary Design Space for Data Physicalization](https://arxiv.org/abs/2202.10520). In _Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)_. Association for Computing Machinery, New York, NY, USA, Article 81, 1–18. https://doi.org/10.1145/3491102.3501939
+* Sandra Bae, Clement Zheng, Mary Etta West, Ellen Yi-Luen Do, Samuel Huron, and Danielle Albers Szafir. 2022. **Making Data Tangible: A Cross-disciplinary Design Space for Data Physicalization**. In _Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)_. Association for Computing Machinery, New York, NY, USA, Article 81, 1–18. https://doi.org/10.1145/3491102.3501939
 	* [Paper](https://arxiv.org/abs/2202.10520)
  	* [Video](https://www.youtube.com/watch?v=Mj1Oveo5_u0&t=3s)
 	* [Compagnon website](https://inputvisualization.github.io/)
 	* Page on [Sandra website](https://sandrabae.github.io/dataphys-gallery/index.html)
 
-*  Samuel Huron, Till Nagel, Lora Oehlberg, and Wesley Willett, eds. [Making with data: Physical design and craft in a data-driven world](https://makingwithdata.org/). _A K Peters/CRC Press_, 2022. https://doi.org/10.1201/9781003264903
+*  Samuel Huron, Till Nagel, Lora Oehlberg, and Wesley Willett, eds. **Making with data: Physical design and craft in a data-driven world**. _A K Peters/CRC Press_, 2022. https://doi.org/10.1201/9781003264903
 	* [Order the book]([https://makingwithdata.org/](https://www.taylorfrancis.com/books/edit/10.1201/9781003264903/making-data-samuel-huron-till-nagel-lora-oehlberg-wesley-willett))
 	* [Making with data: Physical design and craft in a data-driven world](https://makingwithdata.org/)
 	* [Video to present the book](https://makingwithdata.org/2023-in-review/)
 
 Meso focus on debates platforms and  : 
 
-* Tallullah Frappier, Nathalie Bressa, and Samuel Huron. 2024. [Jumping to Conclusions: A Visual Comparative Analysis of Online Debate Platform Layouts](https://hal-ciheam.iamm.fr/INFOLOGY-INFOLOGIE/hal-04784834v1). In _Proceedings of the 13th Nordic Conference on Human-Computer Interaction (NordiCHI '24)_. Association for Computing Machinery, New York, NY, USA, Article 42, 1–15. https://doi.org/10.1145/3679318.3685377
+* Tallullah Frappier, Nathalie Bressa, and Samuel Huron. 2024. **Jumping to Conclusions: A Visual Comparative Analysis of Online Debate Platform Layouts**. In _Proceedings of the 13th Nordic Conference on Human-Computer Interaction (NordiCHI '24)_. Association for Computing Machinery, New York, NY, USA, Article 42, 1–15. https://doi.org/10.1145/3679318.3685377
 	* [Paper](https://hal-ciheam.iamm.fr/INFOLOGY-INFOLOGIE/hal-04784834v1)
 	* [Supplemental material](https://osf.io/kz32y/)
    
-* Samuel Lacroix Thesis Domesticating the energy information. : Comparing the feedback device design choices and user practices to develop a new design approach 28/05/2020. Institut polytechnique de Paris
+* Samuel Lacroix, Thesis, **Domesticating the energy information. : Comparing the feedback device design choices and user practices to develop a new design approach**, 28/05/2020. Institut polytechnique de Paris
 	* [Thesis of Samuel Lacroix- in french ](https://theses.fr/2020IPPAT014)
 
 Macro focus on debates platforms and  : 
 
-*  Nathalie Bressa, Jordan Louis, Wesley Willett, and Samuel Huron. [Input visualization: Collecting and modifying data with visual representations](https://imt.hal.science/hal-04558867v1/file/InputVisualization-CHI2024-AuthorVersion.pdf) . In _Proceedings of the CHI Conference on Human
+*  Nathalie Bressa, Jordan Louis, Wesley Willett, and Samuel Huron. **Input visualization: Collecting and modifying data with visual representations** . In _Proceedings of the CHI Conference on Human
 Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Association for Computing Machinery. doi: https://doi.org/10.1145/3613904.3642808.
 	* [Paper](https://imt.hal.science/hal-04558867v1/file/InputVisualization-CHI2024-AuthorVersion.pdf)
 	* [Supplemental material](https://osf.io/bw3gp/)
@@ -122,7 +122,8 @@ Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Ass
 
 ## Bibliography 
 
-```@article{abelson2003deliberations,
+```
+@article{abelson2003deliberations,
 	title        = {Deliberations about deliberative methods: issues in the design and evaluation of public participation processes},
 	author       = {Abelson, Julia and Forest, Pierre-Gerlier and Eyles, John and Smith, Patricia and Martin, Elisabeth and Gauvin, Francois-Pierre},
 	year         = {2003},
