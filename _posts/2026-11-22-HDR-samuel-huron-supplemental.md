@@ -122,7 +122,7 @@ Factors in Computing Systems_, CHI ’24, pages 1–18, New York, USA, 2024. Ass
 
 ## Bibliography 
 
-<script type="text/bibliography">
+```
 @manual{Kitware:2003,
 	title        = {The Visualization Toolkit User's Guide},
 	year         = {2003},
@@ -9002,5 +9002,5 @@ series = {CSCW '17}
 	organization = {Springer}
 }
 
-</script>
+```
 
