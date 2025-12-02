@@ -9,9 +9,14 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  
+  - align: left
+    image: stu-AnneFlore-Cabouat.png
+    content: about_Cabouat.md
+    image_circular: true # crops the image to make it circular
   - align: right
-    image: stu-samuel-lacroix.jpg
-    content: about_lacroix.md
+    image: stu-Madalina-Nicolae.png
+    content: about_nicolae.md
     image_circular: true # crops the image to make it circular
   - align: left
     image: stu_Tallulah-Frappier.jpg
@@ -25,8 +30,9 @@ profiles:
     image: stu-Elise-Bonnail.jpeg
     content: about_bonnail.md
     image_circular: true # crops the image to make it circular
-  - align: right
-    image: stu-Madalina-Nicolae.png
-    content: about_nicolae.md
+ - align: right
+    image: stu-samuel-lacroix.jpg
+    content: about_lacroix.md
     image_circular: true # crops the image to make it circular
+
 ---
