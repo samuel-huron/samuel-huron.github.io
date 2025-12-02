@@ -33,5 +33,4 @@ profiles:
     image: stu-samuel-lacroix.jpg
     content: about_lacroix.md
     image_circular: true # crops the image to make it circular
-
 ---
