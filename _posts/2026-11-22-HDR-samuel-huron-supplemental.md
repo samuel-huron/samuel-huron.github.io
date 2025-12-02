@@ -46,9 +46,11 @@ _styles: >
 ---
 
 It is my great pleasure to invite you to my public presentation for the Habilitation à diriger des recherches (HDR).
-It will take place in English (with a strong frencg accent) on 3 December at 2 p.m. at Télécom Paris (the lecture room will be the Amphi Thevenin, or if it's change it will be posted at the reception desk) and on [Zoom](https://telecom-paris.zoom.us/j/98092512156?pwd=AfyrTyn7BMaDc1VPPo6FyNxyUL7W5b.1).
+It will take place in English (with a strong frencg accent) on **3 December at 2 p.m. at Télécom Paris** (the lecture room will be the Amphi Thevenin, or if it's change it will be posted at the reception desk) and on [Zoom](https://telecom-paris.zoom.us/j/98092512156?pwd=AfyrTyn7BMaDc1VPPo6FyNxyUL7W5b.1).
 
 Please register here if you wish to attend physically: [https://evento.renater.fr/survey/samuel-huron-hdr-05ssscsq](https://evento.renater.fr/survey/samuel-huron-hdr-05ssscsq)
+
+How to come to the school: [Map and Access ](https://www.telecom-paris.fr/fr/ecole/bref/acces-contact)
 
 ## Jury 
 The jury will be composed of:
@@ -107,7 +109,7 @@ This habilitation is based on the following work
 	* [Making with data: Physical design and craft in a data-driven world](https://makingwithdata.org/)
 	* [Video to present the book](https://makingwithdata.org/2023-in-review/)
 
-Meso focus on debates platforms and Domestic energy visualization devices: 
+### Meso focus on debates platforms and Domestic energy visualization devices: 
 
 * Tallullah Frappier, Nathalie Bressa, and Samuel Huron. 2024. **Jumping to Conclusions: A Visual Comparative Analysis of Online Debate Platform Layouts**. In _Proceedings of the 13th Nordic Conference on Human-Computer Interaction (NordiCHI '24)_. Association for Computing Machinery, New York, NY, USA, Article 42, 1–15. https://doi.org/10.1145/3679318.3685377
 	* [Paper](https://hal-ciheam.iamm.fr/INFOLOGY-INFOLOGIE/hal-04784834v1)
