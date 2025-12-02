@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   
   - align: left
-    image: stu-AnneFlore-Cabouat.png
+    image: stu_Cabouat.jpg
     content: about_Cabouat.md
     image_circular: true # crops the image to make it circular
   - align: right
