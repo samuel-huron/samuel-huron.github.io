@@ -28,7 +28,7 @@ profiles:
     image: stu-Elise-Bonnail.jpeg
     content: about_bonnail.md
     image_circular: true # crops the image to make it circular
- - align: right
+  - align: right
     image: stu-samuel-lacroix.jpg
     content: about_lacroix.md
     image_circular: true # crops the image to make it circular
