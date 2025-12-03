@@ -46,7 +46,7 @@ _styles: >
 ---
 
 It is my great pleasure to invite you to my public presentation for the Habilitation à diriger des recherches (HDR).
-It will take place in English (with a strong frencg accent) on **3 December at 2 p.m. at Télécom Paris** (the lecture room will be the Amphi Thevenin, or if it's change it will be posted at the reception desk) and on [Zoom](https://telecom-paris.zoom.us/j/98092512156?pwd=AfyrTyn7BMaDc1VPPo6FyNxyUL7W5b.1).
+It will take place in English (with a strong french accent) on **3 December at 2 p.m. at Télécom Paris** (the lecture room will be the Amphi Thevenin, or if it's change it will be posted at the reception desk) and on [Zoom](https://telecom-paris.zoom.us/j/98092512156?pwd=AfyrTyn7BMaDc1VPPo6FyNxyUL7W5b.1).
 
 Please register here if you wish to attend physically: [https://evento.renater.fr/survey/samuel-huron-hdr-05ssscsq](https://evento.renater.fr/survey/samuel-huron-hdr-05ssscsq)
 
