@@ -17,7 +17,7 @@ videos:
     content: cxwSHXvzSSQ
   - Title: Was it Real or Virtual?
     content: NagIRCvq-Eo
-  - Title: Making Data Tangible: A Cross-disciplinary Design Space for Data Physicalization
+  - Title: Making Data Tangible A Cross-disciplinary Design Space for Data Physicalization
     content: Mj1Oveo5_u0
   - Title: Biohybrid Devices
     content: w5ecPikgSTo
