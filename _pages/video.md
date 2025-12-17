@@ -9,6 +9,8 @@ nav_order: 10
 videos:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - Title: Andy Kirk interview LORA OEHLBERG & SAMUEL HURON - Making With Data
+    content: Fso5TZGwjTo
   - Title: SoftBioMorph
     content: HkEnuYZDb9k
   - Title: Input Visualization
@@ -29,8 +31,6 @@ videos:
     content: i3JMmTKAB8o
   - Title: Making Data Tangible A Cross-disciplinary Design Space for Data Physicalization
     content: Mj1Oveo5_u0
-  - Title: How data workers cope with uncertainty A task characterisation study
-    content: lWXBNH_zCEI
   - Title: Constructing Visual Representations
     content: _16WZgu85uw
   - Title: Visual Sedimentation
