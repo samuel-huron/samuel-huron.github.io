@@ -14,7 +14,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am an interaction designer and computer scientist; my research focuses on new media, Interaction Design, Human-Computer Interaction, physical representation of data, and social computing. 
+I am an interaction and graphic designer and computer scientist. I am working at the intersection of creation and science.  My research focuses on new media, Interaction Design, Human-Computer Interaction, physical representation of data, and social computing. 
 In particular, I am investigating how humans create representations of data, how we can study digital technology's negative impact before it occurs, and how we can make digital technology more sustainable.
 I recently co-edited the book "[Making with Data: Physical Design and Craft in a Data-Driven World](https://makingwithdata.org/)" with Till Nagel, Lora Oehlberg, and Wesley Willett. 
 
