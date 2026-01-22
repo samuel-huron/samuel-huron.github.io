@@ -7,11 +7,21 @@ nav: true
 nav_order: 6
 ---
 
+# 2025 - 2026 
+
 Making with data (the class) - https://synapses.telecom-paris.fr/catalogue/2024-2025/ue/13604/HSS-0EL41-TP-making-physical-representation-of-data?from=D2490
 
-Cartography of the futures - 
 
 Design sprint - 
+
+
+Cartography of the futures - 
+Contemporary projections on possible futures are paradoxical, on one side transhumanism, on the other side collapsology, between the two climate changes. On the one hand, there is an injunction to the energy transition, on the other hand, an injunction to the ecological transition, and between the two, a questioning of their compatibility. How can we study and graphically represent all the scenarios that make up our future projections? 
+
+This workshop is dedicated to this question and will take place in three parts: 1) theory of visual mapping, 2) conferences on futures, 3) design of a map of possible futures. The theoretical part will be composed of lectures on the principles of graphical data analysis, on temporal data visualization, and a quick overview of data visualization tools. This is followed by a series of lectures by researchers interested in prospecting, speculative design, and analysis of futuristic scenarios. Following these theoretical contributions, you will be led to collectively create a map of possible futures, based on your cultural or scientific references. 
+
+This workshop will allow participants to acquire a basic knowledge of graphic data representation methods, and will also provide a space to discuss different prospective scenarios and to design new graphic representations dedicated to this issue.
+
 
 Critical User Experiences - (HSS_5ID30_TP)
 
