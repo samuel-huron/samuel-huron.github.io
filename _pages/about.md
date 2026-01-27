@@ -7,7 +7,7 @@ subtitle: Associate Professor in Interaction Design at the Social Science Depart
 profile:
   align: right
   image: Samuel-Huron-Emmanuelle-Marchadour.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: #
 
 news: true # includes a list of news items
