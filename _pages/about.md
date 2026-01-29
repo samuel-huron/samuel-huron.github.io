@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor in Interaction Design at the Social Science Departement, Institute Polytechnique de Paris.
+subtitle: Associate Professor in Interaction Design at both the Social Science and Computer Science Departement, Institute Polytechnique de Paris.
 
 profile:
   align: right
