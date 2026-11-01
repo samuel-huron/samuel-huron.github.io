@@ -3,7 +3,7 @@ layout: page
 permalink: /student-project/
 title: Students project
 description: This page is getting updated often and in constant construction
-nav: true
+nav: false
 nav_order: 6
 ---
 
