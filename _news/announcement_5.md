@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I had the pleasure to be interviewed with Lora Oehlberg in the Andy Kirk pod cast [Explore Explain](https://www.youtube.com/watch?v=rpvio8wMN4w&ab_channel=ExploreExplain) about the book Making with data. 
+I had the pleasure to be interviewed with Lora Oehlberg in the Andy Kirk pod cast [Explore Explain](https://www.youtube.com/watch?v=rpvio8wMN4w&ab_channel=ExploreExplain) about the book Making with data.

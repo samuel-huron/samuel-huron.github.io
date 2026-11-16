@@ -2,7 +2,7 @@
 layout: video
 permalink: /video/
 title: Video
-description: different video presentation of research projects. 
+description: different video presentation of research projects.
 nav: true
 nav_order: 10
 
@@ -26,7 +26,7 @@ videos:
   - Title: The Dark Side of Perceptual Manipulations in Virtual Reality
     content: 46qd0RQOQkc
   - Title: How data workers cope with uncertainty A task characterisation study
-    content: lWXBNH_zCEI    
+    content: lWXBNH_zCEI
   - Title: Investigating Direct Manipulation of Graphical Encodings as a Method for User Interaction
     content: i3JMmTKAB8o
   - Title: Making Data Tangible A Cross-disciplinary Design Space for Data Physicalization
