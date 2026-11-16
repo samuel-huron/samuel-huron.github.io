@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Recrutement d'ingénieur d'étude 
+title: Recrutement d'ingénieur d'étude
 description: Recrutement Ingénieur d'étude
-tags: recrutement hiring 
+tags: recrutement hiring
 giscus_comments: false
 date: 2025-05-20
 featured: true
@@ -42,23 +42,23 @@ Pour candidater passer par le plateforme CNRS entre le 10 juin et 10 Juillet : <
 
 ## Mission
 
-La mission comprend la conception d'outils de recueil de données qualitatives et quantitatives (méthode mixte), plus particulièrement de données audio, vidéo et numériques, ainsi que le traitement de ces données. L'ingénieur-e d'études recruté-e pilotera des dispositifs de collecte, de traitement et d'étude de données.  Il-elle garantira et validera la qualité des données produites et des traitements réalisés.
+La mission comprend la conception d'outils de recueil de données qualitatives et quantitatives (méthode mixte), plus particulièrement de données audio, vidéo et numériques, ainsi que le traitement de ces données. L'ingénieur-e d'études recruté-e pilotera des dispositifs de collecte, de traitement et d'étude de données. Il-elle garantira et validera la qualité des données produites et des traitements réalisés.
 
 ---
 
 ## Activités
 
 L'ingénieur-e d'études interviendra dans le cadre du déploiement de grands équipements de recherche pour la collecte et l'analyse de données d'interaction : l'Observation Lab (plateforme de captation de données comportementales et studio mobile d'enregistrement d'activités), le Studio Design (espace de création low- et mid-tech) et le Hyve-3D (système de conception et de visualisation immersif).
- 
+
 Il-elle devra :
+
 - Contribuer à la définition et mise en œuvre des protocoles méthodologiques permettant leur utilisation (montage vidéo, gestion des données, gestion des modèles 3D, etc).
 - Contribuer au traitement des données collectées
 - Assurer la maintenance, la gestion des fournitures et la logistique de réservation de ces équipements.
 - Fournir un appui aux chercheur·euse·s, et étudiant·e·s notamment dans le cadre des expérimentations scientifiques en lien avec ces outils : définition de plans d'expérience, rédaction des communications scientifiques...
-- Participer à la conception et à la mise en œuvre d'activités d'enseignement utilisant ces équipements, en collaboration avec les chercheur·euse·s et doctorants de l'équipe 
-La personne recrutée pourra être amenée à se déplacer ponctuellement sur des
-terrains, en France ou à l'international.
-
+- Participer à la conception et à la mise en œuvre d'activités d'enseignement utilisant ces équipements, en collaboration avec les chercheur·euse·s et doctorants de l'équipe
+  La personne recrutée pourra être amenée à se déplacer ponctuellement sur des
+  terrains, en France ou à l'international.
 
 ---
 
@@ -69,20 +69,22 @@ terrains, en France ou à l'international.
 - Connaissances générales des cadres juridiques relatifs au traitement de données en SHS
 
 Compétences opérationnelles:
+
 - Maitriser les opérations de prétraitement de données : mise en forme des données, contrôle de la validité et de la qualité, traitement des données manquantes, transformation des variables.
-- Savoir gérer les flux vidéos et audio multi canaux, sous la diversité des formats vidéo et des protocoles d'encodage 
+- Savoir gérer les flux vidéos et audio multi canaux, sous la diversité des formats vidéo et des protocoles d'encodage
 - Maitrise d'un ou plusieurs outils d'édition vidéos et audios
 - Maitrise des langages R, Python et SQL
 - Savoir rédiger des présentations écrites et orales (rédaction de rapport,
-participation à l'écriture d'article de recherche)
+  participation à l'écriture d'article de recherche)
 - Maitriser la suite Office.
 - Langue anglaise : être capable de lire, comprendre et écrire en anglais. Niveau
-B2 (cadre européen commun de référence pour les langues).
+  B2 (cadre européen commun de référence pour les langues).
 
 Compétences comportementales :
+
 - Travail en équipe (notamment avec les chercheurs impliqués lors de l'interprétation des données),
 - Curiosité intellectuelle (être capable d'appréhender des objets de recherche
-variés)
+  variés)
 - Sens critique
 - Autonomie.
 
@@ -94,4 +96,3 @@ L'institut Interdisciplinaire de l'Innovation est une unité mixte de recherche 
 Le laboratoire a créé et utilise plusieurs plateformes techniques de recherche tel que le Studio Design, L'observation Lab et le Hyve dans le cadre d'un projet d'investissement Equipex CONTINUUM (développement de plate-formes de collaboration), et allié au projet PEPR ENSEMBLE (Activités collaboratives à distance - en cours de construction). L'ingénieur·e renforcera les deux équipes travaillant sur ces projets.
 Le laboratoire effectue des recherches sur la collaboration et la créativité dans des situations de conception, l'interaction humain/machine et la visualisation de données. Il/Elle travaillera, dans l'équipe Interact à Télécom Paris (localisation à Palaiseau) avec des chercheurs en design, psychologie et sociologie interactionnelle.
 https://i3.cnrs.fr/presentation/
- 

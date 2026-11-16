@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Phd Student and Post Doc I have supervised or I am supervising. 
+description: Phd Student and Post Doc I have supervised or I am supervising.
 nav: true
 nav_order: 7
 profiles:

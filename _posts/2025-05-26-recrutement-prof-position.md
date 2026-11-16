@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hiring an Assitant Associate Professor In Design 
+title: Hiring an Assitant Associate Professor In Design
 description: Hiring a new Assistant / Associate Professor in Design
-tags: recrutement hiring 
+tags: recrutement hiring
 giscus_comments: false
 date: 2025-05-20
 featured: true
@@ -38,8 +38,7 @@ _styles: >
   }
 ---
 
-All application for the job should be made on this website : [https://institutminestelecom.recruitee.com/l/en/o/associate-professor-in-interac-design-applied-psychology-digital-technologies-permanent-contract](https://institutminestelecom.recruitee.com/l/en/o/associate-professor-in-interac-design-applied-psychology-digital-technologies-permanent-contract
-)
+All application for the job should be made on this website : [https://institutminestelecom.recruitee.com/l/en/o/associate-professor-in-interac-design-applied-psychology-digital-technologies-permanent-contract](https://institutminestelecom.recruitee.com/l/en/o/associate-professor-in-interac-design-applied-psychology-digital-technologies-permanent-contract)
 
 ## Mission
 
@@ -53,10 +52,9 @@ The future recruit will contribute to advancing research on human-technology int
 
 Your main responsibilities will be to :
 
-* Participate in the design and implementation of courses in the fields of Interaction Design and Ergonomics, in connection with digital technologies, and contribute to the courses taught by the SES department
-* Conduct research in your scientific field in connection with digital technologies, in collaboration with colleagues at the Institut Polytechnique de Paris, in particular the LTCI, Télécom Paris
-* Participate in the development of partnerships, collaborations and contractual relations in your scientific field.
-
+- Participate in the design and implementation of courses in the fields of Interaction Design and Ergonomics, in connection with digital technologies, and contribute to the courses taught by the SES department
+- Conduct research in your scientific field in connection with digital technologies, in collaboration with colleagues at the Institut Polytechnique de Paris, in particular the LTCI, Télécom Paris
+- Participate in the development of partnerships, collaborations and contractual relations in your scientific field.
 
 ---
 
@@ -68,20 +66,20 @@ The successful candidate will have a solid background in the human and social sc
 
 **Expected key competencies:**
 
-* Expertise in interaction design, participatory design, human and social sciences
-* Ability to collaborate with researchers in computer science and social sciences
-* Strong teaching, pedagogical, and supervisory skills
+- Expertise in interaction design, participatory design, human and social sciences
+- Ability to collaborate with researchers in computer science and social sciences
+- Strong teaching, pedagogical, and supervisory skills
 
 **Additional assets:**
 
-* Postdoctoral or international experience
-* Proficiency in qualitative and quantitative behavior analysis tools
-* Experience in developing pedagogical content
+- Postdoctoral or international experience
+- Proficiency in qualitative and quantitative behavior analysis tools
+- Experience in developing pedagogical content
 
 **Personal qualities:**
 
-* Taste for interdisciplinary teamwork
-* Excellent communication, synthesis and writing skills
+- Taste for interdisciplinary teamwork
+- Excellent communication, synthesis and writing skills
 
 **Why join us?**
 
@@ -89,18 +87,18 @@ You'll be working in a fast-growing, pleasant, green and accessible environment 
 
 **Flexible and negotiable teaching load**
 
-* 49 days' annual leave (CA + RTT)
-* Flexible working hours (depending on departmental and teaching activity)
-* 75% reimbursement of public transport season ticket
-* Proximity to numerous sports facilities, concierge service, underground car park, in-house catering, etc. Staff association at school and department level
-* Good to know: our social security contributions are lower than in the private sector
+- 49 days' annual leave (CA + RTT)
+- Flexible working hours (depending on departmental and teaching activity)
+- 75% reimbursement of public transport season ticket
+- Proximity to numerous sports facilities, concierge service, underground car park, in-house catering, etc. Staff association at school and department level
+- Good to know: our social security contributions are lower than in the private sector
 
 **Selection takes place in 4 stages:**
 
-* Exchange with the host team to draw up a list of shortlisted candidates
-* Preliminary interview with Human Resources
-* Hearing by the recruitment committee and ranking of shortlisted candidates
-* Final interview with the Director of Télécom Paris
+- Exchange with the host team to draw up a list of shortlisted candidates
+- Preliminary interview with Human Resources
+- Hearing by the recruitment committee and ranking of shortlisted candidates
+- Final interview with the Director of Télécom Paris
 
 **Additional information:**
 
@@ -108,6 +106,3 @@ Application deadline: August 25, 2025
 Type of contract: Permanent
 Contact: interact-hiring-2025@telecom-paris.fr
 Full job description [here](https://partage.imt.fr/index.php/s/wpj4WTcK9ioSaGA)
-
-
-
