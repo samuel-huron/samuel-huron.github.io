@@ -1,4 +1,4 @@
-## Madalina Nicolae 2022 - now
+## Madalina Nicolae 2022 - 2025
 
 I am co-supervising [Madalina Nicolae ](https://madalinanicolae.myportfolio.com/) with [Jurgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Marc Teyssier](https://marcteyssier.com/).
 She is working on the topic "_Designing software and hardware toolkits for Co-Fabrication of Structures in bio-composite and biodegradable materials
